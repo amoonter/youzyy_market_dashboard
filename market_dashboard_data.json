@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-03 14:46:07",
+  "generated_at": "2026-07-03 14:51:53",
   "update_stage": "noon",
-  "update_stage_title": "14:45 本地5分钟实时刷新（15分钟同步）",
-  "refresh_slot": "14:45",
+  "update_stage_title": "14:50 本地5分钟实时刷新",
+  "refresh_slot": "14:50",
   "refresh_phase": "intraday_rolling",
-  "refresh_phase_title": "14:45 本地5分钟实时刷新（15分钟同步）",
+  "refresh_phase_title": "14:50 本地5分钟实时刷新",
   "refresh_minutes": 5,
   "local_realtime_refresh_minutes": 5,
   "formal_refresh_minutes": 15,
   "intraday_window_minutes": 5,
-  "refresh_tier": "formal_intraday",
+  "refresh_tier": "lightweight_intraday",
   "review_available": false,
   "content_scope": {
     "market_structure": "日线结构",
@@ -26,14 +26,14 @@
     "daily_base_date": "2026-07-02",
     "realtime_date": "2026-07-03",
     "update_stage": "noon",
-    "refresh_slot": "14:45",
+    "refresh_slot": "14:50",
     "refresh_phase": "intraday_rolling",
-    "refresh_phase_title": "14:45 本地5分钟实时刷新（15分钟同步）",
+    "refresh_phase_title": "14:50 本地5分钟实时刷新",
     "refresh_minutes": 5,
     "local_realtime_refresh_minutes": 5,
     "formal_refresh_minutes": 15,
     "intraday_window_minutes": 5,
-    "refresh_tier": "formal_intraday",
+    "refresh_tier": "lightweight_intraday",
     "daily_static_in_open_noon": true,
     "daily_modules": [
       "连板梯队",
@@ -50,7 +50,7 @@
       "失败样本池",
       "自选/盯盘"
     ],
-    "summary": "本地5分钟实时刷新（15分钟同步）：与本地5分钟实时层保持同一套内容，当前仅额外执行同步动作；新闻、热榜、集合竞价与日线模块沿用上一关键时点；连板梯队、板块情绪、活跃市值和技术买点沿用本地日线2026-07-02；趋势/K线/均线/支撑压力/选股评分统一按前复权；集合竞价、涨停梯队、异动监管沿用原始交易口径。"
+    "summary": "本地5分钟实时刷新：只重算大盘监控、市场决策、监控池、统一候选总队列、失败样本池和盯盘；新闻、热榜、集合竞价与日线模块沿用上一关键时点；趋势/K线/均线/支撑压力/选股评分统一按前复权；集合竞价、涨停梯队、异动监管沿用原始交易口径。"
   },
   "selection_universe": {
     "scope": "沪深全市场",
@@ -6921,7 +6921,7 @@
   "market_live_monitor": {
     "status": "ok",
     "source": "同花顺问财广度 + XTick分钟",
-    "time": "2026-07-03 14:46:07",
+    "time": "2026-07-03 14:51:53",
     "trade_date": "2026-07-03",
     "data_time": "10:55",
     "data_label": "今日2026-07-03 10:55",
@@ -7210,9 +7210,9 @@
       "defense": [],
       "summary": "竞价强板块偏向半导体(4只强势)、元器件(5只强势)、化工原料(2只强势)；护盘方向暂无明显护盘方向。"
     },
-    "refresh_slot": "14:45",
+    "refresh_slot": "14:50",
     "refresh_phase": "intraday_rolling",
-    "phase_title": "14:45 本地5分钟实时刷新（15分钟同步）",
+    "phase_title": "14:50 本地5分钟实时刷新",
     "intraday_label": "5分钟承接",
     "breadth_line": "今日2026-07-03 10:55，上涨3196家，下跌2173家，涨停91家，跌停9家，主力净流入2726家，净流出2581家。",
     "verdict": "承接转强",
@@ -7221,7 +7221,7 @@
     "action": "可以保留进攻仓，但仍只围绕主线核心做，不追杂毛。",
     "summary": "今日2026-07-03 10:55，上涨3196家，下跌2173家，涨停91家，跌停9家，主力净流入2726家，净流出2581家。；指数与个股同步回暖，盘面扩散开始修复。；可以保留进攻仓，但仍只围绕主线核心做，不追杂毛。",
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -7319,8 +7319,8 @@
     "recommended_position": "三成左右",
     "blocks_new_entries": false,
     "degraded": false,
-    "slot": "14:45",
-    "time": "2026-07-03 14:46:07",
+    "slot": "14:50",
+    "time": "2026-07-03 14:51:53",
     "trade_date": "2026-07-03",
     "breadth": {
       "up_count": 3196,
@@ -8806,7 +8806,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -8918,7 +8918,7 @@
         ],
         "action_hint": "维持主线跟踪，优先看个股结构。",
         "summary": "存储芯片 风险 38.7 分，竞价 45 / 周线 68 / 日线 20 / 资金 33 / 缠论 26。",
-        "confirmed_at": "2026-07-03 14:46:07",
+        "confirmed_at": "2026-07-03 14:51:53",
         "mainline_score": 5.7,
         "proxy_sample_count": 7
       },
@@ -9003,7 +9003,7 @@
         ],
         "action_hint": "主线回调观察中，只保留低吸，不做右侧追价。",
         "summary": "氟化工概念 风险 60.0 分，竞价 100 / 周线 68 / 日线 59 / 资金 51 / 缠论 40。",
-        "confirmed_at": "2026-07-03 14:46:07",
+        "confirmed_at": "2026-07-03 14:51:53",
         "mainline_score": 5.5,
         "proxy_sample_count": 2
       },
@@ -9135,9 +9135,9 @@
         "note": "主线回调观察中，右侧与回封先关闭。"
       }
     },
-    "confirmed_at": "2026-07-03 14:46:07",
+    "confirmed_at": "2026-07-03 14:51:53",
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "主线风险",
       "mode": "live",
       "mode_label": "实时判断",
@@ -116203,9 +116203,9 @@
         "industry": "柔性屏(折叠屏)",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -116222,8 +116222,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 76,
         "minute_snapshot": {
           "status": "unavailable",
@@ -116242,51 +116242,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 25.39,
-            "resistance": 32.57,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 25.39,
-            "resistance": 32.57,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 25.39,
-            "resistance": 32.57,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -116410,6 +116365,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 25.39,
+            "resistance": 32.57,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 25.39,
+            "resistance": 32.57,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 25.39,
+            "resistance": 32.57,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -116523,9 +116523,9 @@
         "industry": "氟化工",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -116542,8 +116542,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "主线回调观察中，右侧与回封先关闭。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 81,
         "minute_snapshot": {
           "status": "unavailable",
@@ -116562,51 +116562,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 62.96,
-            "resistance": 83.11,
-            "signal_score": 0.0,
-            "score_100": 81,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 62.96,
-            "resistance": 83.11,
-            "signal_score": 0.0,
-            "score_100": 81,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 62.96,
-            "resistance": 83.11,
-            "signal_score": 0.0,
-            "score_100": 81,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -116730,6 +116685,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 62.96,
+            "resistance": 83.11,
+            "signal_score": 0.0,
+            "score_100": 81,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 62.96,
+            "resistance": 83.11,
+            "signal_score": 0.0,
+            "score_100": 81,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 62.96,
+            "resistance": 83.11,
+            "signal_score": 0.0,
+            "score_100": 81,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -116843,9 +116843,9 @@
         "industry": "氟化工",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -116862,8 +116862,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "主线回调观察中，右侧与回封先关闭。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 78,
         "minute_snapshot": {
           "status": "unavailable",
@@ -116882,51 +116882,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 55.88,
-            "resistance": 64.3,
-            "signal_score": 0.0,
-            "score_100": 78,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 55.88,
-            "resistance": 64.3,
-            "signal_score": 0.0,
-            "score_100": 78,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 55.88,
-            "resistance": 64.3,
-            "signal_score": 0.0,
-            "score_100": 78,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -117050,6 +117005,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 55.88,
+            "resistance": 64.3,
+            "signal_score": 0.0,
+            "score_100": 78,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 55.88,
+            "resistance": 64.3,
+            "signal_score": 0.0,
+            "score_100": 78,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 55.88,
+            "resistance": 64.3,
+            "signal_score": 0.0,
+            "score_100": 78,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -117163,9 +117163,9 @@
         "industry": "氟化工",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -117182,8 +117182,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "主线回调观察中，右侧与回封先关闭。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 79,
         "minute_snapshot": {
           "status": "unavailable",
@@ -117202,51 +117202,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 47.37,
-            "resistance": 58.0,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 47.37,
-            "resistance": 58.0,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 47.37,
-            "resistance": 58.0,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -117370,6 +117325,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 47.37,
+            "resistance": 58.0,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 47.37,
+            "resistance": 58.0,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 47.37,
+            "resistance": 58.0,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -117483,9 +117483,9 @@
         "industry": "PCB",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -117502,8 +117502,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 77,
         "minute_snapshot": {
           "status": "unavailable",
@@ -117522,51 +117522,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 33.81,
-            "resistance": 42.15,
-            "signal_score": 0.0,
-            "score_100": 77,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 33.81,
-            "resistance": 42.15,
-            "signal_score": 0.0,
-            "score_100": 77,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 33.81,
-            "resistance": 42.15,
-            "signal_score": 0.0,
-            "score_100": 77,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -117690,6 +117645,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 33.81,
+            "resistance": 42.15,
+            "signal_score": 0.0,
+            "score_100": 77,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 33.81,
+            "resistance": 42.15,
+            "signal_score": 0.0,
+            "score_100": 77,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 33.81,
+            "resistance": 42.15,
+            "signal_score": 0.0,
+            "score_100": 77,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -117803,9 +117803,9 @@
         "industry": "PCB",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -117822,8 +117822,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 79,
         "minute_snapshot": {
           "status": "unavailable",
@@ -117842,51 +117842,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 95.96,
-            "resistance": 124.38,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 95.96,
-            "resistance": 124.38,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 95.96,
-            "resistance": 124.38,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -118010,6 +117965,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 95.96,
+            "resistance": 124.38,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 95.96,
+            "resistance": 124.38,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 95.96,
+            "resistance": 124.38,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -118123,9 +118123,9 @@
         "industry": "存储芯片",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -118142,8 +118142,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 76,
         "minute_snapshot": {
           "status": "unavailable",
@@ -118162,51 +118162,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 67.95,
-            "resistance": 79.05,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 67.95,
-            "resistance": 79.05,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 67.95,
-            "resistance": 79.05,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -118330,6 +118285,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 67.95,
+            "resistance": 79.05,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 67.95,
+            "resistance": 79.05,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 67.95,
+            "resistance": 79.05,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -118443,9 +118443,9 @@
         "industry": "MicroLED",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -118462,8 +118462,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 83,
         "minute_snapshot": {
           "status": "unavailable",
@@ -118482,51 +118482,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 5.15,
-            "resistance": 5.96,
-            "signal_score": 0.0,
-            "score_100": 83,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 5.15,
-            "resistance": 5.96,
-            "signal_score": 0.0,
-            "score_100": 83,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 5.15,
-            "resistance": 5.96,
-            "signal_score": 0.0,
-            "score_100": 83,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -118650,6 +118605,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 5.15,
+            "resistance": 5.96,
+            "signal_score": 0.0,
+            "score_100": 83,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 5.15,
+            "resistance": 5.96,
+            "signal_score": 0.0,
+            "score_100": 83,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 5.15,
+            "resistance": 5.96,
+            "signal_score": 0.0,
+            "score_100": 83,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -118765,9 +118765,9 @@
         "industry": "氟化工",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -118784,8 +118784,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "主线回调观察中，右侧与回封先关闭。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 79,
         "minute_snapshot": {
           "status": "unavailable",
@@ -118804,51 +118804,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 47.37,
-            "resistance": 58.0,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 47.37,
-            "resistance": 58.0,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 47.37,
-            "resistance": 58.0,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -118972,6 +118927,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 47.37,
+            "resistance": 58.0,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 47.37,
+            "resistance": 58.0,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 47.37,
+            "resistance": 58.0,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -119085,9 +119085,9 @@
         "industry": "氟化工",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -119104,8 +119104,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "主线回调观察中，右侧与回封先关闭。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 81,
         "minute_snapshot": {
           "status": "unavailable",
@@ -119124,51 +119124,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 62.96,
-            "resistance": 83.11,
-            "signal_score": 0.0,
-            "score_100": 81,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 62.96,
-            "resistance": 83.11,
-            "signal_score": 0.0,
-            "score_100": 81,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 62.96,
-            "resistance": 83.11,
-            "signal_score": 0.0,
-            "score_100": 81,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -119292,6 +119247,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 62.96,
+            "resistance": 83.11,
+            "signal_score": 0.0,
+            "score_100": 81,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 62.96,
+            "resistance": 83.11,
+            "signal_score": 0.0,
+            "score_100": 81,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 62.96,
+            "resistance": 83.11,
+            "signal_score": 0.0,
+            "score_100": 81,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -119405,9 +119405,9 @@
         "industry": "MicroLED",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -119424,8 +119424,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 83,
         "minute_snapshot": {
           "status": "unavailable",
@@ -119444,51 +119444,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 5.15,
-            "resistance": 5.96,
-            "signal_score": 0.0,
-            "score_100": 83,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 5.15,
-            "resistance": 5.96,
-            "signal_score": 0.0,
-            "score_100": 83,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 5.15,
-            "resistance": 5.96,
-            "signal_score": 0.0,
-            "score_100": 83,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -119612,6 +119567,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 5.15,
+            "resistance": 5.96,
+            "signal_score": 0.0,
+            "score_100": 83,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 5.15,
+            "resistance": 5.96,
+            "signal_score": 0.0,
+            "score_100": 83,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 5.15,
+            "resistance": 5.96,
+            "signal_score": 0.0,
+            "score_100": 83,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -119725,9 +119725,9 @@
         "industry": "存储芯片",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -119744,8 +119744,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 76,
         "minute_snapshot": {
           "status": "unavailable",
@@ -119764,51 +119764,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 67.95,
-            "resistance": 79.05,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 67.95,
-            "resistance": 79.05,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 67.95,
-            "resistance": 79.05,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -119932,6 +119887,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 67.95,
+            "resistance": 79.05,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 67.95,
+            "resistance": 79.05,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 67.95,
+            "resistance": 79.05,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -120045,9 +120045,9 @@
         "industry": "氟化工",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -120064,8 +120064,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "主线回调观察中，右侧与回封先关闭。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 78,
         "minute_snapshot": {
           "status": "unavailable",
@@ -120084,51 +120084,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 55.88,
-            "resistance": 64.3,
-            "signal_score": 0.0,
-            "score_100": 78,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 55.88,
-            "resistance": 64.3,
-            "signal_score": 0.0,
-            "score_100": 78,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 55.88,
-            "resistance": 64.3,
-            "signal_score": 0.0,
-            "score_100": 78,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -120252,6 +120207,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 55.88,
+            "resistance": 64.3,
+            "signal_score": 0.0,
+            "score_100": 78,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 55.88,
+            "resistance": 64.3,
+            "signal_score": 0.0,
+            "score_100": 78,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 55.88,
+            "resistance": 64.3,
+            "signal_score": 0.0,
+            "score_100": 78,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -120365,9 +120365,9 @@
         "industry": "柔性屏(折叠屏)",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -120384,8 +120384,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 76,
         "minute_snapshot": {
           "status": "unavailable",
@@ -120404,51 +120404,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 25.39,
-            "resistance": 32.57,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 25.39,
-            "resistance": 32.57,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 25.39,
-            "resistance": 32.57,
-            "signal_score": 0.0,
-            "score_100": 76,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -120572,6 +120527,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 25.39,
+            "resistance": 32.57,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 25.39,
+            "resistance": 32.57,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 25.39,
+            "resistance": 32.57,
+            "signal_score": 0.0,
+            "score_100": 76,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -120685,9 +120685,9 @@
         "industry": "PCB",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -120704,8 +120704,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 79,
         "minute_snapshot": {
           "status": "unavailable",
@@ -120724,51 +120724,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 95.96,
-            "resistance": 124.38,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 95.96,
-            "resistance": 124.38,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 95.96,
-            "resistance": 124.38,
-            "signal_score": 0.0,
-            "score_100": 79,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -120892,6 +120847,51 @@
           {
             "time": "14:46",
             "generated_at": "2026-07-03 14:46:07",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 95.96,
+            "resistance": 124.38,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 95.96,
+            "resistance": 124.38,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 95.96,
+            "resistance": 124.38,
+            "signal_score": 0.0,
+            "score_100": 79,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
             "status": "待触发",
             "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
             "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
@@ -121005,9 +121005,9 @@
         "industry": "PCB",
         "point_code": "B2",
         "point_title": "B2 回踩反弹确认",
-        "time": "14:46",
+        "time": "14:51",
         "quote_time": "",
-        "recommended_at": "2026-07-03 14:46:07",
+        "recommended_at": "2026-07-03 14:51:53",
         "price": null,
         "pct_chg": null,
         "volume_ratio": null,
@@ -121024,8 +121024,8 @@
         "current_status": "待触发",
         "execution_state": "待触发",
         "execution_note": "当前仅开放低吸，B2 进入盘中低吸确认观察。",
-        "last_seen_at": "2026-07-03 14:46:07",
-        "last_seen_time": "14:46",
+        "last_seen_at": "2026-07-03 14:51:53",
+        "last_seen_time": "14:51",
         "score_100": 77,
         "minute_snapshot": {
           "status": "unavailable",
@@ -121044,51 +121044,6 @@
         "line_trade_blocked": false,
         "line_risk_line": null,
         "recommendation_logs": [
-          {
-            "time": "14:05",
-            "generated_at": "2026-07-03 14:05:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 33.81,
-            "resistance": 42.15,
-            "signal_score": 0.0,
-            "score_100": 77,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:10",
-            "generated_at": "2026-07-03 14:10:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 33.81,
-            "resistance": 42.15,
-            "signal_score": 0.0,
-            "score_100": 77,
-            "source": "XTick分钟 + XTick实时日K"
-          },
-          {
-            "time": "14:15",
-            "generated_at": "2026-07-03 14:15:06",
-            "status": "待触发",
-            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
-            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
-            "price": null,
-            "vwap": null,
-            "opening_low": null,
-            "support": 33.81,
-            "resistance": 42.15,
-            "signal_score": 0.0,
-            "score_100": 77,
-            "source": "XTick分钟 + XTick实时日K"
-          },
           {
             "time": "14:20",
             "generated_at": "2026-07-03 14:20:06",
@@ -121223,6 +121178,51 @@
             "signal_score": 0.0,
             "score_100": 77,
             "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:49",
+            "generated_at": "2026-07-03 14:49:01",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 33.81,
+            "resistance": 42.15,
+            "signal_score": 0.0,
+            "score_100": 77,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:50",
+            "generated_at": "2026-07-03 14:50:06",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 33.81,
+            "resistance": 42.15,
+            "signal_score": 0.0,
+            "score_100": 77,
+            "source": "XTick分钟 + XTick实时日K"
+          },
+          {
+            "time": "14:51",
+            "generated_at": "2026-07-03 14:51:53",
+            "status": "待触发",
+            "reason": "已纳入盘中低吸确认观察，等待分时进一步转强。",
+            "next": "当前仅开放低吸，B2 先看回踩承接、VWAP 与量能是否同步确认。",
+            "price": null,
+            "vwap": null,
+            "opening_low": null,
+            "support": 33.81,
+            "resistance": 42.15,
+            "signal_score": 0.0,
+            "score_100": 77,
+            "source": "XTick分钟 + XTick实时日K"
           }
         ],
         "recommendation_times": [],
@@ -121321,7 +121321,7 @@
     ],
     "summary": "监控池为近5个交易日低吸策略活跃池，最新盘中提示在最上方。 按更新时间滚动记录集合竞价和分时确认，当前可执行 0 只，观察/屏蔽 0 只。",
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -122671,9 +122671,9 @@
         "display_industry": "CPO"
       }
     ],
-    "updated_at": "2026-07-03 14:46:07",
+    "updated_at": "2026-07-03 14:51:53",
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -122683,8 +122683,8 @@
   },
   "candidate_queue": {
     "title": "统一候选总队列",
-    "confirmed_at": "2026-07-03 14:46:07",
-    "updated_at": "2026-07-03 14:46:07",
+    "confirmed_at": "2026-07-03 14:51:53",
+    "updated_at": "2026-07-03 14:51:53",
     "summary": "统一候选总队列合并低吸、形态、资金方向、核心股跟踪和盘中实时候选，共31只；当前显示前24只；同一只股票只显示一次，优先按买点顺序、执行状态和主来源排序；形态选股固定放在最后。",
     "total_count": 31,
     "displayed_count": 24,
@@ -124185,15 +124185,6 @@
         "cycle_sort_rank": 206,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -124253,6 +124244,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -127331,15 +127331,6 @@
         "cycle_sort_rank": 206,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -127399,6 +127390,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -128904,15 +128904,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "看跌",
-            "reason": "14:10，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -128972,6 +128963,15 @@
             "from_state": "看涨",
             "to_state": "看跌",
             "reason": "14:46，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "看跌",
+            "reason": "14:51，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -132050,15 +132050,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -132118,6 +132109,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -133623,15 +133623,6 @@
         "cycle_sort_rank": 2,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "震荡",
-            "to_state": "看涨",
-            "reason": "14:10，5分钟从震荡变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "震荡",
@@ -133691,6 +133682,15 @@
             "from_state": "震荡",
             "to_state": "看涨",
             "reason": "14:46，5分钟从震荡变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "震荡",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从震荡变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -135196,15 +135196,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -135264,6 +135255,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -136789,15 +136789,6 @@
         "cycle_sort_rank": 103,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:10，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看跌",
@@ -136857,6 +136848,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -138385,15 +138385,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:10，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看跌",
@@ -138453,6 +138444,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -143155,15 +143155,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:15，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "震荡",
@@ -143223,6 +143214,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -147936,15 +147936,6 @@
         "cycle_sort_rank": 206,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "看跌",
-            "reason": "14:15，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "震荡",
@@ -148004,6 +147995,15 @@
             "from_state": "看涨",
             "to_state": "看跌",
             "reason": "14:46，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "看跌",
+            "reason": "14:51，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -149514,15 +149514,6 @@
         "cycle_sort_rank": 206,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -149582,6 +149573,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -151087,15 +151087,6 @@
         "cycle_sort_rank": 307,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "看跌",
-            "reason": "14:15，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "看涨",
@@ -151155,6 +151146,15 @@
             "from_state": "看涨",
             "to_state": "看跌",
             "reason": "14:46，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "看跌",
+            "reason": "14:51，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -152650,15 +152650,6 @@
         "cycle_sort_rank": 307,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "看跌",
-            "reason": "14:15，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "看涨",
@@ -152718,6 +152709,15 @@
             "from_state": "看涨",
             "to_state": "看跌",
             "reason": "14:46，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "看跌",
+            "reason": "14:51，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -154227,15 +154227,6 @@
         "cycle_sort_rank": 103,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:15，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "看跌",
@@ -154295,6 +154286,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -155800,15 +155800,6 @@
         "cycle_sort_rank": 103,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:15，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "看跌",
@@ -155868,6 +155859,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -160466,7 +160466,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "盘中判断",
       "mode": "formal_carryover",
       "mode_label": "正式层沿用",
@@ -160476,8 +160476,8 @@
   },
   "focus_review": {
     "title": "统一候选总队列",
-    "confirmed_at": "2026-07-03 14:46:07",
-    "updated_at": "2026-07-03 14:46:07",
+    "confirmed_at": "2026-07-03 14:51:53",
+    "updated_at": "2026-07-03 14:51:53",
     "summary": "统一候选总队列合并低吸、形态、资金方向、核心股跟踪和盘中实时候选，共31只；当前显示前24只；同一只股票只显示一次，优先按买点顺序、执行状态和主来源排序；形态选股固定放在最后。",
     "total_count": 31,
     "displayed_count": 24,
@@ -161978,15 +161978,6 @@
         "cycle_sort_rank": 206,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -162046,6 +162037,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -165124,15 +165124,6 @@
         "cycle_sort_rank": 206,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -165192,6 +165183,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -166697,15 +166697,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "看跌",
-            "reason": "14:10，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -166765,6 +166756,15 @@
             "from_state": "看涨",
             "to_state": "看跌",
             "reason": "14:46，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "看跌",
+            "reason": "14:51，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -169843,15 +169843,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -169911,6 +169902,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -171416,15 +171416,6 @@
         "cycle_sort_rank": 2,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "震荡",
-            "to_state": "看涨",
-            "reason": "14:10，5分钟从震荡变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "震荡",
@@ -171484,6 +171475,15 @@
             "from_state": "震荡",
             "to_state": "看涨",
             "reason": "14:46，5分钟从震荡变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "震荡",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从震荡变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -172989,15 +172989,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -173057,6 +173048,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -174582,15 +174582,6 @@
         "cycle_sort_rank": 103,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:10，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看跌",
@@ -174650,6 +174641,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -176178,15 +176178,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:10，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看跌",
@@ -176246,6 +176237,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -180948,15 +180948,6 @@
         "cycle_sort_rank": 104,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:15，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "震荡",
@@ -181016,6 +181007,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -185729,15 +185729,6 @@
         "cycle_sort_rank": 206,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "看跌",
-            "reason": "14:15，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "震荡",
@@ -185797,6 +185788,15 @@
             "from_state": "看涨",
             "to_state": "看跌",
             "reason": "14:46，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "看跌",
+            "reason": "14:51，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -187307,15 +187307,6 @@
         "cycle_sort_rank": 206,
         "state_timeline": [
           {
-            "time": "14:10",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "14:10，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "14:15",
             "cycle": "5分钟",
             "from_state": "看涨",
@@ -187375,6 +187366,15 @@
             "from_state": "看涨",
             "to_state": "震荡",
             "reason": "14:46，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "震荡",
+            "reason": "14:51，5分钟从看涨变为震荡，理由：沿用前一交易日5分钟收盘状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -188880,15 +188880,6 @@
         "cycle_sort_rank": 307,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "看跌",
-            "reason": "14:15，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "看涨",
@@ -188948,6 +188939,15 @@
             "from_state": "看涨",
             "to_state": "看跌",
             "reason": "14:46，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "看跌",
+            "reason": "14:51，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -190443,15 +190443,6 @@
         "cycle_sort_rank": 307,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看涨",
-            "to_state": "看跌",
-            "reason": "14:15，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "看涨",
@@ -190511,6 +190502,15 @@
             "from_state": "看涨",
             "to_state": "看跌",
             "reason": "14:46，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看涨",
+            "to_state": "看跌",
+            "reason": "14:51，5分钟从看涨变为看跌，理由：沿用前一交易日5分钟收盘偏弱状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -192020,15 +192020,6 @@
         "cycle_sort_rank": 103,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:15，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "看跌",
@@ -192088,6 +192079,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -193593,15 +193593,6 @@
         "cycle_sort_rank": 103,
         "state_timeline": [
           {
-            "time": "14:15",
-            "cycle": "5分钟",
-            "from_state": "看跌",
-            "to_state": "看涨",
-            "reason": "14:15，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
-            "event_type": "m5",
-            "trade_date": "2026-07-03"
-          },
-          {
             "time": "11:30",
             "cycle": "30分钟",
             "from_state": "看跌",
@@ -193661,6 +193652,15 @@
             "from_state": "看跌",
             "to_state": "看涨",
             "reason": "14:46，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
+            "event_type": "m5",
+            "trade_date": "2026-07-03"
+          },
+          {
+            "time": "14:51",
+            "cycle": "5分钟",
+            "from_state": "看跌",
+            "to_state": "看涨",
+            "reason": "14:51，5分钟从看跌变为看涨，理由：沿用前一交易日5分钟收盘偏强状态。",
             "event_type": "m5",
             "trade_date": "2026-07-03"
           }
@@ -198259,7 +198259,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "盘中判断",
       "mode": "formal_carryover",
       "mode_label": "正式层沿用",
@@ -198784,7 +198784,7 @@
       "note": "观察回调 2 条"
     },
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -202813,7 +202813,7 @@
     "stale_mode": "same_day_frozen"
   },
   "monitor_followup": {
-    "updated_at": "2026-07-03 14:46:07",
+    "updated_at": "2026-07-03 14:51:53",
     "update_stage": "noon",
     "latest_trade_date": "2026-07-02",
     "summary": "午间跟踪：延续观察17只、新选0只、剔除0只；跟踪池只纳入80分及以上且有仓位规划的候选。",
@@ -206086,11 +206086,11 @@
     ]
   },
   "watch_mode": {
-    "generated_at": "2026-07-03 14:46:07",
+    "generated_at": "2026-07-03 14:51:53",
     "refresh_minutes": 5,
-    "refresh_slot": "14:45",
+    "refresh_slot": "14:50",
     "refresh_phase": "intraday_rolling",
-    "refresh_phase_title": "14:45 本地5分钟实时刷新（15分钟同步）",
+    "refresh_phase_title": "14:50 本地5分钟实时刷新",
     "content_scope": "盘中判断",
     "watchlist": [
       {
@@ -206141,7 +206141,7 @@
         "line_risk_note": "",
         "line_trade_blocked": false,
         "freshness_meta": {
-          "confirmed_at": "2026-07-03 14:46:07",
+          "confirmed_at": "2026-07-03 14:51:53",
           "scope": "实时缺失回退",
           "mode": "fallback",
           "mode_label": "回退参考",
@@ -208736,7 +208736,7 @@
         "line_risk_note": "",
         "line_trade_blocked": false,
         "freshness_meta": {
-          "confirmed_at": "2026-07-03 14:46:07",
+          "confirmed_at": "2026-07-03 14:51:53",
           "scope": "实时缺失回退",
           "mode": "fallback",
           "mode_label": "回退参考",
@@ -211285,7 +211285,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-03 14:46:07",
+      "confirmed_at": "2026-07-03 14:51:53",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -211525,9 +211525,9 @@
                   "销售毛利率27.74%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "国家大基金持股",
+                "display_industry": "国家大基金持股",
+                "industry": "国家大基金持股",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -211645,9 +211645,9 @@
                   "销售毛利率36.54%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "先进封装",
+                "display_industry": "先进封装",
+                "industry": "先进封装",
                 "raw_industry": "先进封装"
               },
               "abnormal_risk": {
@@ -211975,9 +211975,9 @@
                   "专利68件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -212242,9 +212242,9 @@
                   "专利66件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "光纤",
-                "display_industry": "光纤",
-                "industry": "光纤",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -212906,9 +212906,9 @@
                   "专利252件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -213170,9 +213170,9 @@
                   "专利346件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "先进封装",
-                "display_industry": "先进封装",
-                "industry": "先进封装",
+                "display_concept": "国家大基金持股",
+                "display_industry": "国家大基金持股",
+                "industry": "国家大基金持股",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -213362,9 +213362,9 @@
                   "销售毛利率51.46%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "汽车芯片",
-                "display_industry": "汽车芯片",
-                "industry": "汽车芯片",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -213494,9 +213494,9 @@
                   "专利612件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -214310,9 +214310,9 @@
                   "专利239件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -214435,9 +214435,9 @@
                   "专利56件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "汽车芯片",
-                "display_industry": "汽车芯片",
-                "industry": "汽车芯片",
+                "display_concept": "国家大基金持股",
+                "display_industry": "国家大基金持股",
+                "industry": "国家大基金持股",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -215294,9 +215294,9 @@
               "专利252件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "国家大基金持股",
-            "display_industry": "国家大基金持股",
-            "industry": "国家大基金持股",
+            "display_concept": "存储芯片",
+            "display_industry": "存储芯片",
+            "industry": "存储芯片",
             "raw_industry": "国家大基金持股"
           },
           "abnormal_risk": {
@@ -216521,9 +216521,9 @@
                   "专利613件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "有机硅",
-                "display_industry": "有机硅",
-                "industry": "有机硅",
+                "display_concept": "消毒剂",
+                "display_industry": "消毒剂",
+                "industry": "消毒剂",
                 "raw_industry": "消毒剂"
               },
               "abnormal_risk": {
@@ -216790,9 +216790,9 @@
                   "专利138件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国企改革",
-                "display_industry": "国企改革",
-                "industry": "国企改革",
+                "display_concept": "水泥",
+                "display_industry": "水泥",
+                "industry": "水泥",
                 "raw_industry": "水泥"
               },
               "abnormal_risk": {
@@ -217474,9 +217474,9 @@
                   "专利882件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "草甘膦",
-                "display_industry": "草甘膦",
-                "industry": "草甘膦",
+                "display_concept": "磷化工",
+                "display_industry": "磷化工",
+                "industry": "磷化工",
                 "raw_industry": "磷化工"
               },
               "abnormal_risk": {
@@ -217607,9 +217607,9 @@
                   "专利323件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "磷化工",
-                "display_industry": "磷化工",
-                "industry": "磷化工",
+                "display_concept": "化肥",
+                "display_industry": "化肥",
+                "industry": "化肥",
                 "raw_industry": "化肥"
               },
               "abnormal_risk": {
@@ -217740,9 +217740,9 @@
                   "专利232件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "煤化工",
-                "display_industry": "煤化工",
-                "industry": "煤化工",
+                "display_concept": "化肥",
+                "display_industry": "化肥",
+                "industry": "化肥",
                 "raw_industry": "化肥"
               },
               "abnormal_risk": {
@@ -217940,9 +217940,9 @@
                   "专利82件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "有机硅",
-                "display_industry": "有机硅",
-                "industry": "有机硅",
+                "display_concept": "硅能源",
+                "display_industry": "硅能源",
+                "industry": "硅能源",
                 "raw_industry": "有机硅"
               },
               "abnormal_risk": {
@@ -218078,9 +218078,9 @@
                   "专利161件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "有机硅",
-                "display_industry": "有机硅",
-                "industry": "有机硅",
+                "display_concept": "硅能源",
+                "display_industry": "硅能源",
+                "industry": "硅能源",
                 "raw_industry": "有机硅"
               },
               "abnormal_risk": {
@@ -218209,9 +218209,9 @@
                   "专利545件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "有机硅",
-                "display_industry": "有机硅",
-                "industry": "有机硅",
+                "display_concept": "草甘膦",
+                "display_industry": "草甘膦",
+                "industry": "草甘膦",
                 "raw_industry": "草甘膦"
               },
               "abnormal_risk": {
@@ -218401,9 +218401,9 @@
                   "专利567件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "小米",
-                "display_industry": "小米",
-                "industry": "小米",
+                "display_concept": "专精特新",
+                "display_industry": "专精特新",
+                "industry": "专精特新",
                 "raw_industry": "专精特新"
               },
               "abnormal_risk": {
@@ -218531,9 +218531,9 @@
                   "专利154件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "人形机器人",
-                "display_industry": "人形机器人",
-                "industry": "人形机器人",
+                "display_concept": "PEEK材料",
+                "display_industry": "PEEK材料",
+                "industry": "PEEK材料",
                 "raw_industry": "PEEK材料"
               },
               "abnormal_risk": {
@@ -218656,9 +218656,9 @@
                   "专利2638件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "人形机器人",
-                "display_industry": "人形机器人",
-                "industry": "人形机器人",
+                "display_concept": "PEEK材料",
+                "display_industry": "PEEK材料",
+                "industry": "PEEK材料",
                 "raw_industry": "PEEK材料"
               },
               "abnormal_risk": {
@@ -219120,9 +219120,9 @@
                   "专利39件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "先进封装",
-                "display_industry": "先进封装",
-                "industry": "先进封装",
+                "display_concept": "光刻胶",
+                "display_industry": "光刻胶",
+                "industry": "光刻胶",
                 "raw_industry": "光刻胶"
               },
               "abnormal_risk": {
@@ -219732,9 +219732,9 @@
               "专利82件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "有机硅",
-            "display_industry": "有机硅",
-            "industry": "有机硅",
+            "display_concept": "硅能源",
+            "display_industry": "硅能源",
+            "industry": "硅能源",
             "raw_industry": "有机硅"
           },
           "abnormal_risk": {
@@ -219993,9 +219993,9 @@
               "专利161件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "有机硅",
-            "display_industry": "有机硅",
-            "industry": "有机硅",
+            "display_concept": "硅能源",
+            "display_industry": "硅能源",
+            "industry": "硅能源",
             "raw_industry": "有机硅"
           },
           "abnormal_risk": {
@@ -222062,9 +222062,9 @@
                   "专利141件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "云计算",
-                "display_industry": "云计算",
-                "industry": "云计算",
+                "display_concept": "算力租赁",
+                "display_industry": "算力租赁",
+                "industry": "算力租赁",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -222203,9 +222203,9 @@
                   "专利525件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "F5G",
-                "display_industry": "F5G",
-                "industry": "F5G",
+                "display_concept": "光纤",
+                "display_industry": "光纤",
+                "industry": "光纤",
                 "raw_industry": "光纤"
               },
               "abnormal_risk": {
@@ -222324,9 +222324,9 @@
                   "专利8件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "铜缆高速连接",
-                "display_industry": "铜缆高速连接",
-                "industry": "铜缆高速连接",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -222529,9 +222529,9 @@
                   "专利4435件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "芯片",
-                "display_industry": "芯片",
-                "industry": "芯片",
+                "display_concept": "铜缆高速连接",
+                "display_industry": "铜缆高速连接",
+                "industry": "铜缆高速连接",
                 "raw_industry": "铜缆高速连接"
               },
               "abnormal_risk": {
@@ -222861,9 +222861,9 @@
                   "专利322件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "机器视觉",
-                "display_industry": "机器视觉",
-                "industry": "机器视觉",
+                "display_concept": "新型工业化",
+                "display_industry": "新型工业化",
+                "industry": "新型工业化",
                 "raw_industry": "新型工业化"
               },
               "abnormal_risk": {
@@ -223201,9 +223201,9 @@
                   "专利404件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "第三代半导体",
+                "display_industry": "第三代半导体",
+                "industry": "第三代半导体",
                 "raw_industry": "第三代半导体"
               },
               "abnormal_risk": {
@@ -223326,9 +223326,9 @@
                   "专利75件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "第三代半导体",
-                "display_industry": "第三代半导体",
-                "industry": "第三代半导体",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -223532,9 +223532,9 @@
                   "专利1422件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "超级电容",
+                "display_industry": "超级电容",
+                "industry": "超级电容",
                 "raw_industry": "超级电容"
               },
               "abnormal_risk": {
@@ -223724,9 +223724,9 @@
                   "专利256件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "华为手机",
+                "display_industry": "华为手机",
+                "industry": "华为手机",
                 "raw_industry": "华为手机"
               },
               "abnormal_risk": {
@@ -223851,9 +223851,9 @@
                   "专利173件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "富士康",
-                "display_industry": "富士康",
-                "industry": "富士康",
+                "display_concept": "AI PC",
+                "display_industry": "AI PC",
+                "industry": "AI PC",
                 "raw_industry": "AI PC"
               },
               "abnormal_risk": {
@@ -223983,9 +223983,9 @@
                   "专利574件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "中国AI 50",
-                "display_industry": "中国AI 50",
-                "industry": "中国AI 50",
+                "display_concept": "液冷服务器",
+                "display_industry": "液冷服务器",
+                "industry": "液冷服务器",
                 "raw_industry": "液冷服务器"
               },
               "abnormal_risk": {
@@ -226346,9 +226346,9 @@
                   "专利280件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "机器人",
-                "display_industry": "机器人",
-                "industry": "机器人",
+                "display_concept": "减速器",
+                "display_industry": "减速器",
+                "industry": "减速器",
                 "raw_industry": "减速器"
               },
               "abnormal_risk": {
@@ -226476,9 +226476,9 @@
                   "专利782件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "无人驾驶",
-                "display_industry": "无人驾驶",
-                "industry": "无人驾驶",
+                "display_concept": "高端装备",
+                "display_industry": "高端装备",
+                "industry": "高端装备",
                 "raw_industry": "高端装备"
               },
               "abnormal_risk": {
@@ -226801,9 +226801,9 @@
                   "专利342件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "人形机器人",
-                "display_industry": "人形机器人",
-                "industry": "人形机器人",
+                "display_concept": "减速器",
+                "display_industry": "减速器",
+                "industry": "减速器",
                 "raw_industry": "减速器"
               },
               "abnormal_risk": {
@@ -226934,9 +226934,9 @@
                   "专利813件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "汽车热管理",
-                "display_industry": "汽车热管理",
-                "industry": "汽车热管理",
+                "display_concept": "人形机器人",
+                "display_industry": "人形机器人",
+                "industry": "人形机器人",
                 "raw_industry": "人形机器人"
               },
               "abnormal_risk": {
@@ -227129,9 +227129,9 @@
                   "专利310件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "同花顺新质50",
-                "display_industry": "同花顺新质50",
-                "industry": "同花顺新质50",
+                "display_concept": "人形机器人",
+                "display_industry": "人形机器人",
+                "industry": "人形机器人",
                 "raw_industry": "人形机器人"
               },
               "abnormal_risk": {
@@ -227262,9 +227262,9 @@
                   "专利406件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "商业航天",
-                "display_industry": "商业航天",
-                "industry": "商业航天",
+                "display_concept": "芯片",
+                "display_industry": "芯片",
+                "industry": "芯片",
                 "raw_industry": "芯片"
               },
               "abnormal_risk": {
@@ -227719,9 +227719,9 @@
                   "销售毛利率47.22%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "传感器",
-                "display_industry": "传感器",
-                "industry": "传感器",
+                "display_concept": "新型工业化",
+                "display_industry": "新型工业化",
+                "industry": "新型工业化",
                 "raw_industry": "新型工业化"
               },
               "abnormal_risk": {
@@ -227922,9 +227922,9 @@
                   "专利1920件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "人形机器人",
-                "display_industry": "人形机器人",
-                "industry": "人形机器人",
+                "display_concept": "新型工业化",
+                "display_industry": "新型工业化",
+                "industry": "新型工业化",
                 "raw_industry": "人形机器人"
               },
               "abnormal_risk": {
@@ -228046,9 +228046,9 @@
                   "专利340件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "新型工业化",
-                "display_industry": "新型工业化",
-                "industry": "新型工业化",
+                "display_concept": "人形机器人",
+                "display_industry": "人形机器人",
+                "industry": "人形机器人",
                 "raw_industry": "人形机器人"
               },
               "abnormal_risk": {
@@ -228174,9 +228174,9 @@
                   "专利220件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "机器视觉",
-                "display_industry": "机器视觉",
-                "industry": "机器视觉",
+                "display_concept": "新型工业化",
+                "display_industry": "新型工业化",
+                "industry": "新型工业化",
                 "raw_industry": "新型工业化"
               },
               "abnormal_risk": {
@@ -228649,9 +228649,9 @@
               "专利1920件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "人形机器人",
-            "display_industry": "人形机器人",
-            "industry": "人形机器人",
+            "display_concept": "新型工业化",
+            "display_industry": "新型工业化",
+            "industry": "新型工业化",
             "raw_industry": "人形机器人"
           },
           "abnormal_risk": {
@@ -230151,6 +230151,6 @@
       "strength_rank_score": 54.55
     }
   ],
-  "lightweight_intraday_refresh": false,
+  "lightweight_intraday_refresh": true,
   "monitor_only_intraday_refresh": true
 }
