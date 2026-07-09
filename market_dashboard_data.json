@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 09:26:05",
+  "generated_at": "2026-07-09 09:28:30",
   "update_stage": "open",
   "update_stage_title": "09:26 集合竞价更新",
   "refresh_slot": "09:26",
@@ -125,13 +125,13 @@
   "rankings": [
     {
       "source": "通达信",
-      "timestamp": "2026-07-09 09:26",
+      "timestamp": "2026-07-09 09:28",
       "stocks": [],
       "sectors": []
     },
     {
       "source": "财联社",
-      "timestamp": "2026-07-09 09:26",
+      "timestamp": "2026-07-09 09:28",
       "stocks": [
         {
           "rank": 1,
@@ -148,8 +148,8 @@
           "rank": 2,
           "code": "000725.SZ",
           "name": "京东方Ａ",
-          "price": 7.68,
-          "change": 0.65999997,
+          "price": 7.71,
+          "change": 1.05,
           "rank_change": 0,
           "display_concept": "电子纸",
           "display_industry": "电子纸",
@@ -159,8 +159,8 @@
           "rank": 3,
           "code": "000938.SZ",
           "name": "紫光股份",
-          "price": 32.73,
-          "change": -2.6499999,
+          "price": 33.33,
+          "change": -0.86,
           "rank_change": 0,
           "display_concept": "CPO",
           "display_industry": "CPO",
@@ -181,8 +181,8 @@
           "rank": 5,
           "code": "300017.SZ",
           "name": "网宿科技",
-          "price": 14.66,
-          "change": 0,
+          "price": 14.61,
+          "change": -0.34,
           "rank_change": 0,
           "display_concept": "算力租赁",
           "display_industry": "算力租赁",
@@ -192,8 +192,8 @@
           "rank": 6,
           "code": "603019.SH",
           "name": "中科曙光",
-          "price": 98.18,
-          "change": 0.030000001,
+          "price": 98.17,
+          "change": 0.02,
           "rank_change": 3,
           "display_concept": "中国AI 50",
           "display_industry": "中国AI 50",
@@ -214,8 +214,8 @@
           "rank": 8,
           "code": "600584.SH",
           "name": "长电科技",
-          "price": 96,
-          "change": 2.01,
+          "price": 97.7,
+          "change": 3.81,
           "rank_change": -1,
           "display_concept": "存储芯片",
           "display_industry": "存储芯片",
@@ -225,16 +225,16 @@
           "rank": 9,
           "code": "002152.SZ",
           "name": "广电运通",
-          "price": 10.47,
-          "change": 3.87,
+          "price": 10.32,
+          "change": 2.38,
           "rank_change": -1
         },
         {
           "rank": 10,
           "code": "600288.SH",
           "name": "大恒科技",
-          "price": 17.15,
-          "change": 0.23,
+          "price": 17.11,
+          "change": 0,
           "rank_change": 1,
           "display_concept": "太赫兹",
           "display_industry": "太赫兹",
@@ -244,8 +244,8 @@
           "rank": 11,
           "code": "002185.SZ",
           "name": "华天科技",
-          "price": 21.12,
-          "change": -2.09,
+          "price": 21.75,
+          "change": 0.83,
           "rank_change": -1,
           "display_concept": "存储芯片",
           "display_industry": "存储芯片",
@@ -255,8 +255,8 @@
           "rank": 12,
           "code": "603986.SH",
           "name": "兆易创新",
-          "price": 632,
-          "change": 4.78,
+          "price": 633,
+          "change": 4.95,
           "rank_change": 1,
           "display_concept": "存储芯片",
           "display_industry": "存储芯片",
@@ -266,8 +266,8 @@
           "rank": 13,
           "code": "603881.SH",
           "name": "数据港",
-          "price": 24.39,
-          "change": 0.74,
+          "price": 24.3,
+          "change": 0.37,
           "rank_change": -1,
           "display_concept": "算力租赁",
           "display_industry": "算力租赁",
@@ -285,8 +285,8 @@
           "rank": 15,
           "code": "002354.SZ",
           "name": "天娱数科",
-          "price": 7.85,
-          "change": -2.12,
+          "price": 8,
+          "change": -0.25,
           "rank_change": 1,
           "display_concept": "AI视频",
           "display_industry": "AI视频",
@@ -296,16 +296,16 @@
           "rank": 16,
           "code": "000070.SZ",
           "name": "特发信息",
-          "price": 18.62,
-          "change": 6.89,
+          "price": 18.7,
+          "change": 7.35,
           "rank_change": 1
         },
         {
           "rank": 17,
           "code": "603928.SH",
           "name": "兴业股份",
-          "price": 17.19,
-          "change": 5.07,
+          "price": 17,
+          "change": 3.9099998,
           "rank_change": -2,
           "display_concept": "丙烯酸",
           "display_industry": "丙烯酸",
@@ -315,16 +315,16 @@
           "rank": 18,
           "code": "603296.SH",
           "name": "华勤技术",
-          "price": 77,
-          "change": -1.65,
+          "price": 76.72,
+          "change": -2.01,
           "rank_change": 0
         },
         {
           "rank": 19,
           "code": "600667.SH",
           "name": "太极实业",
-          "price": 24.65,
-          "change": 3.22,
+          "price": 24.95,
+          "change": 4.48,
           "rank_change": 1,
           "display_concept": "存储芯片",
           "display_industry": "存储芯片",
@@ -367,8 +367,8 @@
           "rank": 23,
           "code": "603496.SH",
           "name": "恒为科技",
-          "price": 26,
-          "change": 5.9500003,
+          "price": 25.5,
+          "change": 3.9099998,
           "rank_change": -4
         },
         {
@@ -391,40 +391,40 @@
           "rank": 26,
           "code": "600602.SH",
           "name": "云赛智联",
-          "price": 16.7,
-          "change": 1.95,
+          "price": 16.48,
+          "change": 0.61,
           "rank_change": 0
         },
         {
           "rank": 27,
           "code": "002467.SZ",
           "name": "二六三",
-          "price": 4.66,
-          "change": -0.64,
+          "price": 4.7,
+          "change": 0.21,
           "rank_change": 1
         },
         {
           "rank": 28,
           "code": "688347.SH",
           "name": "华虹宏力",
-          "price": 358.44,
-          "change": 0.01,
+          "price": 365,
+          "change": 1.84,
           "rank_change": -1
         },
         {
           "rank": 29,
           "code": "600129.SH",
           "name": "太极集团",
-          "price": 15.19,
-          "change": 1.54,
+          "price": 14.96,
+          "change": 0,
           "rank_change": 1
         },
         {
           "rank": 30,
           "code": "688702.SH",
           "name": "盛科通信-U",
-          "price": 401.9,
-          "change": 0.1,
+          "price": 409.13,
+          "change": 1.9,
           "rank_change": 0
         }
       ],
@@ -434,7 +434,7 @@
           "id": 2421042,
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
           "brief": "①特朗普：美伊谅解备忘录“已终结”②央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持③特朗普：当前美国与伊朗之间的局势升级会很快平息④量化私募上半年增长超万亿元⑤沐曦股份：部分产品订单已排到明年甚至之后。",
-          "heat": 168295,
+          "heat": 173047,
           "article_schema": "cailianshe://article_detail?article_id=2421042"
         },
         {
@@ -442,7 +442,7 @@
           "id": 2421032,
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
           "brief": "①阿里巴巴暴涨11.05%，中概股集体走强；\n②Meta宣布斥资百亿美元新建数据中心；\n③燃料电池龙头遭做空报告偷袭；\n④SpaceXAI推出Grok 4.5新模型，发力法律、金融及编程任务。",
-          "heat": 157750,
+          "heat": 161352,
           "article_schema": "cailianshe://article_detail?article_id=2421032"
         },
         {
@@ -450,7 +450,7 @@
           "id": 2420693,
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
           "brief": "①会议认为我国经济运行总体平稳向新向优但仍面临供强需弱等挑战，要继续实施适度宽松货币政策。 \n②会议要求保持流动性充裕、强化政策利率引导、降低融资中间费用、做好金融“五篇大文章”支持重点领域。",
-          "heat": 313731,
+          "heat": 316217,
           "article_schema": "cailianshe://article_detail?article_id=2420693"
         },
         {
@@ -458,7 +458,7 @@
           "id": 2421004,
           "title": "长鑫科技，7月16日打新！",
           "brief": "长鑫科技披露，公司新股网下申购日和网上申购日均为2026年7月16日。",
-          "heat": 162124,
+          "heat": 165811,
           "article_schema": "cailianshe://article_detail?article_id=2421004"
         },
         {
@@ -466,7 +466,7 @@
           "id": 2420995,
           "title": "美联储会议纪要：部分官员支持6月加息 分歧表征实为“等数据”",
           "brief": "①美联储6月会议纪要显示，官员们对通胀和利率路径出现明显分歧；\n②随着AI需求、能源冲击、关税扰动持续推高通胀粘性，7月CPI和沃什首次国会听证将成为市场判断美联储下一步动作的关键节点。",
-          "heat": 175100,
+          "heat": 178524,
           "article_schema": "cailianshe://article_detail?article_id=2420995"
         },
         {
@@ -474,7 +474,7 @@
           "id": 2420856,
           "title": "特朗普：今晚可能再打伊朗",
           "brief": "",
-          "heat": 226143,
+          "heat": 228401,
           "article_schema": "cailianshe://article_detail?article_id=2420856"
         },
         {
@@ -482,7 +482,7 @@
           "id": 2420785,
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
           "brief": "①苹果与博通签署超300亿美元协议，加码美国芯片制造；\n②OpenAI将于9日正式发布GPT-5.6系列；\n③台积电据悉大幅扩展PIC产能，预计2028年将达到每月2.5万片。",
-          "heat": 277350,
+          "heat": 280050,
           "article_schema": "cailianshe://article_detail?article_id=2420785"
         },
         {
@@ -490,7 +490,7 @@
           "id": 2421013,
           "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
           "brief": "①北京时间周四清晨，美军在美股收盘后不久宣布对伊朗发动24小时内第二轮打击，目标指向其威胁霍尔木兹海峡航行自由的能力；\n②随着伊朗方面预告将对美军中东基地展开大规模报复，停火谈判前景再度蒙上阴影。",
-          "heat": 146028,
+          "heat": 148878,
           "article_schema": "cailianshe://article_detail?article_id=2421013"
         },
         {
@@ -498,7 +498,7 @@
           "id": 2421059,
           "title": "Meta又豪掷百亿兴建数据中心 GPT-5.6确认周四上线 | 环球市场",
           "brief": "①美军对伊朗发动新一轮袭击；\n②俄罗斯宣布柴油出口禁令；\n③苹果与博通达成超300亿美元芯片采购协议；\n④SK海力士美股上市据称已获得7倍超购。",
-          "heat": 167449,
+          "heat": 171524,
           "article_schema": "cailianshe://article_detail?article_id=2421059"
         },
         {
@@ -506,7 +506,7 @@
           "id": 2420933,
           "title": "独家|苹果折叠机预计不会出现量产延期 液态金属铰链或将“爽约”第一代产品",
           "brief": "①苹果折叠机量产预计不会延期，但苹果的销售策略可能会影响折叠机首轮出货节奏；\n②供应链企业人士透露，本代产品备货超千万，分析人士则预计今年出货600万-700万部；\n③进入生产旺季，果链企业正在积极招工。",
-          "heat": 253817,
+          "heat": 256742,
           "article_schema": "cailianshe://article_detail?article_id=2420933"
         },
         {
@@ -514,7 +514,7 @@
           "id": 2421081,
           "title": "9部门：支持符合条件的新型优质零售企业上市",
           "brief": "商务部等9部门近日印发的关于加快零售业创新发展的意见，7月9日对外发布。",
-          "heat": 92274,
+          "heat": 95999,
           "article_schema": "cailianshe://article_detail?article_id=2421081"
         },
         {
@@ -522,7 +522,7 @@
           "id": 2420797,
           "title": "是何催化剂？港股科网全线爆发，重仓ETF已迎8连涨",
           "brief": "①截至今天收盘，已经有23只投向港股市场的ETF连续上涨5天或以上；\n②更有2只港股ETF迎来8连涨，7月以来最高涨超13%；\n③资金已在此前调整中持续切换，行情是否持续要关注三个核心变量。",
-          "heat": 215529,
+          "heat": 217638,
           "article_schema": "cailianshe://article_detail?article_id=2420797"
         },
         {
@@ -530,39 +530,39 @@
           "id": 2420934,
           "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
           "brief": "①英伟达近两月市值蒸发约1万亿美元，未来12个月预期市盈率跌至18倍，为2019年初以来最低；\n②英伟达估值下滑非基本面恶化，其服务器GPU市占率达97%，82位覆盖分析师仅4位给予非买入评级，平均目标价较当前有超50%上涨空间。",
-          "heat": 292463,
+          "heat": 295441,
           "article_schema": "cailianshe://article_detail?article_id=2420934"
         },
         {
           "rank": 14,
-          "id": 2421052,
-          "title": "超强台风“巴威”预计将从我国哪里登陆？气象专家分析",
-          "brief": "根据目前的预报，“巴威”大概率本周末登陆我国华东地区，但登陆方式仍存在不确定性。",
-          "heat": 168377,
-          "article_schema": "cailianshe://article_detail?article_id=2421052"
-        },
-        {
-          "rank": 15,
-          "id": 2421080,
-          "title": "7月9日投资避雷针：市场竞争加剧 这家整车厂商预计上半年净亏损7.4亿元",
-          "brief": "①乘联分会发布数据，6月全国乘用车市场零售同比下降23.2%；\n②江淮汽车预计上半年净亏损7.4亿元，市场竞争加剧导致销量同比下滑；\n③美股三大指数收盘涨跌不一，半导体、存储概念股反弹。",
-          "heat": 73230,
-          "article_schema": "cailianshe://article_detail?article_id=2421080"
-        },
-        {
-          "rank": 16,
           "id": 2421094,
           "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
           "brief": "①市场分析师Mike Zaccardi指出，标普500信息技术板块中逾六成股票已较其52周盘中高点下跌超过20%；\n②这究竟只是一次短暂的回调，还是预示着市场将迎来更大范围的重新洗牌？\n③尽管科技股的这波抛售幅度看起来有些令人担忧，但一些分析师认为，这是大幅上涨后的正常走势。",
-          "heat": 47870,
+          "heat": 51042,
           "article_schema": "cailianshe://article_detail?article_id=2421094"
+        },
+        {
+          "rank": 15,
+          "id": 2421052,
+          "title": "超强台风“巴威”预计将从我国哪里登陆？气象专家分析",
+          "brief": "根据目前的预报，“巴威”大概率本周末登陆我国华东地区，但登陆方式仍存在不确定性。",
+          "heat": 172372,
+          "article_schema": "cailianshe://article_detail?article_id=2421052"
+        },
+        {
+          "rank": 16,
+          "id": 2421080,
+          "title": "7月9日投资避雷针：市场竞争加剧 这家整车厂商预计上半年净亏损7.4亿元",
+          "brief": "①乘联分会发布数据，6月全国乘用车市场零售同比下降23.2%；\n②江淮汽车预计上半年净亏损7.4亿元，市场竞争加剧导致销量同比下滑；\n③美股三大指数收盘涨跌不一，半导体、存储概念股反弹。",
+          "heat": 75714,
+          "article_schema": "cailianshe://article_detail?article_id=2421080"
         },
         {
           "rank": 17,
           "id": 2420778,
           "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
           "brief": "京东方A：预计上半年净利润同比增长54%-69% 柔性AMOLED产品出货量同比保持增长",
-          "heat": 284061,
+          "heat": 286748,
           "article_schema": "cailianshe://article_detail?article_id=2420778"
         },
         {
@@ -570,7 +570,7 @@
           "id": 2420975,
           "title": "美知名私募股权投资家：AI、医药与体育是未来长期投资主线",
           "brief": "①史蒂芬·帕柳卡表示，AI、体育等高速增长行业是未来长期投资重点，AI正从理论应用迈向实体部署阶段，未来10至20年将进入长期增长周期；\n②他称AI发展重点已转向推理和实际任务执行，量子计算未来3至5年成熟后将与AI结合带来技术突破。",
-          "heat": 174052,
+          "heat": 177223,
           "article_schema": "cailianshe://article_detail?article_id=2420975"
         },
         {
@@ -578,7 +578,7 @@
           "id": 2420824,
           "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
           "brief": "①三星电子宣布将于7月22日在伦敦举办发布会，或将推三款折叠屏手机、可穿戴设备等新品；\n②三星产品线将新增一款采用“护照式”短宽比例设计的Fold 8，采用更短、更宽的全新机身设计。",
-          "heat": 250355,
+          "heat": 252822,
           "article_schema": "cailianshe://article_detail?article_id=2420824"
         },
         {
@@ -586,7 +586,7 @@
           "id": 2420986,
           "title": "SpaceXAI推出Grok 4.5新模型 发力法律、金融及编程任务",
           "brief": "①SpaceXAI与Cursor联合发布首个共同训练的AI模型Grok 4.5。Cursor此前被SpaceX收购，交易估值达600亿美元；\n②Grok 4.5专攻复杂长期任务，覆盖软件工程、法律服务、金融服务等专业场景，网络安全能力获提升。",
-          "heat": 109622,
+          "heat": 111719,
           "article_schema": "cailianshe://article_detail?article_id=2420986"
         }
       ],
@@ -594,7 +594,7 @@
     },
     {
       "source": "同花顺",
-      "timestamp": "2026-07-09 09:26",
+      "timestamp": "2026-07-09 09:28",
       "stocks": [
         {
           "rank": 1,
@@ -23955,27 +23955,27 @@
   "market_live_monitor": {
     "status": "ok",
     "source": "同花顺问财广度 + XTick分钟",
-    "time": "2026-07-09 09:26:05",
+    "time": "2026-07-09 09:28:30",
     "trade_date": "2026-07-09",
-    "data_time": "09:26",
-    "data_label": "今日2026-07-09 09:26",
+    "data_time": "09:28",
+    "data_label": "今日2026-07-09 09:28",
     "is_stale": false,
     "breadth": {
       "status": "ok",
       "source": "同花顺问财实时",
       "trade_date": "2026-07-09",
-      "cached_at": "2026-07-09 09:26:25",
+      "cached_at": "2026-07-09 09:28:39",
       "index_name": "同花顺全A(沪深京)",
       "index_price": 1822.45,
       "index_pct_chg": -0.04,
       "up_count": 1729,
-      "down_count": 2845,
-      "limit_up_count": 0,
+      "down_count": 2488,
+      "limit_up_count": 3,
       "limit_down_count": 4,
-      "net_in_count": 41,
-      "net_out_count": 28,
-      "breadth_ratio": 37.8,
-      "flow_ratio": 1.46,
+      "net_in_count": 918,
+      "net_out_count": 454,
+      "breadth_ratio": 41.0,
+      "flow_ratio": 2.02,
       "queries": [
         {
           "query": "A股上涨家数",
@@ -24721,7 +24721,7 @@
     "action": "只把竞价当方向参考，开盘后优先确认竞价强方向能否继续放量并站稳竞价价。",
     "summary": "09:26 重点看集合竞价强弱，实时涨跌家数和资金流向待开盘后确认。；竞价强板块偏向半导体(15只强势)、元器件(14只强势)、通信设备(3只强势)；护盘方向证券(华安证券)。；只把竞价当方向参考，开盘后优先确认竞价强方向能否继续放量并站稳竞价价。",
     "freshness_meta": {
-      "confirmed_at": "2026-07-09 09:26:05",
+      "confirmed_at": "2026-07-09 09:28:30",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -24738,7 +24738,7 @@
           "crowded_label": "偏强/中性",
           "crowded_note": "开盘前先看竞价风险",
           "external_label": "偏强/中性",
-          "external_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "external_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "action_hint": "维持主线跟踪，优先看个股结构。"
         },
         {
@@ -24748,7 +24748,7 @@
           "crowded_label": "偏强/中性",
           "crowded_note": "开盘前先看竞价风险",
           "external_label": "偏强/中性",
-          "external_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "external_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "action_hint": "维持主线跟踪，优先看个股结构。"
         },
         {
@@ -24758,14 +24758,14 @@
           "crowded_label": "偏强/中性",
           "crowded_note": "开盘前先看竞价风险",
           "external_label": "偏强/中性",
-          "external_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "external_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "action_hint": "维持主线跟踪，优先看个股结构。"
         }
       ],
-      "confirmed_at": "2026-07-09 09:26:05",
-      "korea_confirmed_at": "2026-07-09 10:26:00",
+      "confirmed_at": "2026-07-09 09:28:30",
+      "korea_confirmed_at": "2026-07-09 10:28:00",
       "freshness_meta": {
-        "confirmed_at": "2026-07-09 09:26:05",
+        "confirmed_at": "2026-07-09 09:28:30",
         "scope": "盘中判断",
         "mode": "live",
         "mode_label": "实时判断",
@@ -24882,9 +24882,9 @@
           "source_count": 4
         }
       ],
-      "confirmed_at": "2026-07-09 09:26:05",
+      "confirmed_at": "2026-07-09 09:28:30",
       "freshness_meta": {
-        "confirmed_at": "2026-07-09 09:26:05",
+        "confirmed_at": "2026-07-09 09:28:30",
         "scope": "盘中判断",
         "mode": "same_day_frozen",
         "mode_label": "同日冻结",
@@ -24895,11 +24895,11 @@
   },
   "market_decision": {
     "status": "ok",
-    "score": 50,
+    "score": 52,
     "mode": "PULLBACK_ONLY",
     "mode_label": "只做回踩",
     "headline": "单日修复不等于确认，候选池继续等回踩",
-    "summary": "市场总分50，模式为只做回踩；低吸权限打开，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限打开，追涨权限关闭，加仓权限关闭。",
+    "summary": "市场总分52，模式为只做回踩；低吸权限打开，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限打开，追涨权限关闭，加仓权限关闭。",
     "position_advice": "三成左右",
     "dimensions": [
       {
@@ -24910,13 +24910,13 @@
       },
       {
         "name": "宽度",
-        "score": 13.1,
+        "score": 13.8,
         "max": 20,
-        "note": "上涨1729家、下跌2845家，宽度偏弱。"
+        "note": "上涨1729家、下跌2488家，宽度中性。"
       },
       {
         "name": "宽度动量",
-        "score": 4.8,
+        "score": 6.0,
         "max": 15,
         "note": "5分钟上涨段0/0，最近一段0.00%。"
       },
@@ -24924,13 +24924,13 @@
         "name": "资金",
         "score": 8.9,
         "max": 15,
-        "note": "活跃分3.8分，净流入/流出比1.46"
+        "note": "活跃分3.8分，净流入/流出比2.02"
       },
       {
         "name": "情绪",
         "score": 5.9,
         "max": 10,
-        "note": "涨停0家、跌停4家，最高7板，高位连板2只。"
+        "note": "涨停3家、跌停4家，最高7板，高位连板2只。"
       }
     ],
     "permissions": {
@@ -24967,14 +24967,14 @@
     "blocks_new_entries": false,
     "degraded": false,
     "slot": "09:26",
-    "time": "2026-07-09 09:26:05",
+    "time": "2026-07-09 09:28:30",
     "trade_date": "2026-07-09",
     "breadth": {
       "up_count": 1729,
-      "down_count": 2845,
-      "limit_up_count": 0,
+      "down_count": 2488,
+      "limit_up_count": 3,
       "limit_down_count": 4,
-      "breadth_ratio": 37.8
+      "breadth_ratio": 41.0
     },
     "indices": {
       "sh": {
@@ -25006,11 +25006,10 @@
       "summary": "算力租赁 存储芯片"
     },
     "evidence": [
-      "宽度：上涨1729家 / 下跌2845家，占比37.8%",
-      "情绪：涨停0家 / 跌停4家",
+      "宽度：上涨1729家 / 下跌2488家，占比41.0%",
+      "情绪：涨停3家 / 跌停4家",
       "指数：上证+0.17%，中证1000+0.54%，平均股价-1.86%",
       "主线：算力租赁，强度9.0，可观察核心承接",
-      "上涨家数占比仅37.8%",
       "主线算力租赁仍有承接，风险不一刀切"
     ],
     "source": "问财市场宽度 + XTick指数/中证1000 + 现有主线承接",
@@ -26363,7 +26362,7 @@
     },
     "timeline": [],
     "freshness_meta": {
-      "confirmed_at": "2026-07-09 09:26:05",
+      "confirmed_at": "2026-07-09 09:28:30",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -26455,12 +26454,12 @@
         ],
         "external_link_risk": {
           "score_100": 18,
-          "summary": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "summary": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-09 10:26:00"
+          "confirmed_at": "2026-07-09 10:28:00"
         },
-        "external_link_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_link_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "risk_signals": [
           "Tushare THS板块目录不可用：抱歉，您没有接口(ths_index)访问权限，权限的具体详情访问：https://tushare.pro/document/1?doc_id=108。",
           "竞价主线样本不足",
@@ -26473,7 +26472,7 @@
         ],
         "action_hint": "维持主线跟踪，优先看个股结构。",
         "summary": "存储芯片 风险 44.5 分，竞价 34 / 周线 68 / 日线 59 / 资金 45 / 缠论 40 / 同步撤退 34 / 韩股联动 18。",
-        "confirmed_at": "2026-07-09 10:26:00",
+        "confirmed_at": "2026-07-09 10:28:00",
         "mainline_score": 8.2,
         "proxy_sample_count": 8
       },
@@ -26558,12 +26557,12 @@
         ],
         "external_link_risk": {
           "score_100": 18,
-          "summary": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "summary": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-09 10:26:00"
+          "confirmed_at": "2026-07-09 10:28:00"
         },
-        "external_link_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_link_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "risk_signals": [
           "Tushare THS板块目录不可用：抱歉，您没有接口(ths_index)访问权限，权限的具体详情访问：https://tushare.pro/document/1?doc_id=108。",
           "竞价主线样本不足",
@@ -26576,7 +26575,7 @@
         ],
         "action_hint": "维持主线跟踪，优先看个股结构。",
         "summary": "共封装光学(CPO) 风险 44.5 分，竞价 34 / 周线 68 / 日线 59 / 资金 45 / 缠论 40 / 同步撤退 34 / 韩股联动 18。",
-        "confirmed_at": "2026-07-09 10:26:00",
+        "confirmed_at": "2026-07-09 10:28:00",
         "mainline_score": 5.9,
         "proxy_sample_count": 4
       },
@@ -26661,12 +26660,12 @@
         ],
         "external_link_risk": {
           "score_100": 18,
-          "summary": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "summary": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-09 10:26:00"
+          "confirmed_at": "2026-07-09 10:28:00"
         },
-        "external_link_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_link_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "risk_signals": [
           "Tushare THS板块目录不可用：抱歉，您没有接口(ths_index)访问权限，权限的具体详情访问：https://tushare.pro/document/1?doc_id=108。",
           "竞价主线样本不足",
@@ -26679,7 +26678,7 @@
         ],
         "action_hint": "维持主线跟踪，优先看个股结构。",
         "summary": "算力租赁 风险 44.5 分，竞价 34 / 周线 68 / 日线 59 / 资金 45 / 缠论 40 / 同步撤退 34 / 韩股联动 18。",
-        "confirmed_at": "2026-07-09 10:26:00",
+        "confirmed_at": "2026-07-09 10:28:00",
         "mainline_score": 9.0,
         "proxy_sample_count": 4
       }
@@ -26692,9 +26691,9 @@
       "note": "当前主线未见明确高风险"
     },
     "line_permission_overrides": {},
-    "confirmed_at": "2026-07-09 09:26:05",
+    "confirmed_at": "2026-07-09 09:28:30",
     "freshness_meta": {
-      "confirmed_at": "2026-07-09 09:26:05",
+      "confirmed_at": "2026-07-09 09:28:30",
       "scope": "主线风险",
       "mode": "live",
       "mode_label": "实时判断",
@@ -26712,7 +26711,7 @@
         "crowded_label": "偏强/中性",
         "crowded_note": "开盘前先看竞价风险",
         "external_label": "偏强/中性",
-        "external_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "action_hint": "维持主线跟踪，优先看个股结构。"
       },
       {
@@ -26722,7 +26721,7 @@
         "crowded_label": "偏强/中性",
         "crowded_note": "开盘前先看竞价风险",
         "external_label": "偏强/中性",
-        "external_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "action_hint": "维持主线跟踪，优先看个股结构。"
       },
       {
@@ -26732,14 +26731,14 @@
         "crowded_label": "偏强/中性",
         "crowded_note": "开盘前先看竞价风险",
         "external_label": "偏强/中性",
-        "external_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "action_hint": "维持主线跟踪，优先看个股结构。"
       }
     ],
-    "confirmed_at": "2026-07-09 09:26:05",
-    "korea_confirmed_at": "2026-07-09 10:26:00",
+    "confirmed_at": "2026-07-09 09:28:30",
+    "korea_confirmed_at": "2026-07-09 10:28:00",
     "freshness_meta": {
-      "confirmed_at": "2026-07-09 09:26:05",
+      "confirmed_at": "2026-07-09 09:28:30",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -26856,9 +26855,9 @@
         "source_count": 4
       }
     ],
-    "confirmed_at": "2026-07-09 09:26:05",
+    "confirmed_at": "2026-07-09 09:28:30",
     "freshness_meta": {
-      "confirmed_at": "2026-07-09 09:26:05",
+      "confirmed_at": "2026-07-09 09:28:30",
       "scope": "盘中判断",
       "mode": "same_day_frozen",
       "mode_label": "同日冻结",
@@ -26867,48 +26866,48 @@
     }
   },
   "korea_link_monitor": {
-    "summary": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+    "summary": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
     "items": [
       {
         "name": "KOSPI",
         "code": "KOSPI",
         "kind": "index",
-        "price": 7495.1,
+        "price": 7485.43,
         "prev_close": 7246.79,
-        "change": 248.31,
-        "pct_chg": 3.43,
+        "change": 238.64,
+        "pct_chg": 3.29,
         "state": "明显偏多",
-        "confirmed_at": "2026-07-09 10:26:00",
+        "confirmed_at": "2026-07-09 10:28:00",
         "source": "Naver韩国指数"
       },
       {
         "name": "KOSDAQ",
         "code": "KOSDAQ",
         "kind": "index",
-        "price": 816.43,
+        "price": 816.02,
         "prev_close": 785.0,
-        "change": 31.43,
-        "pct_chg": 4.0,
+        "change": 31.02,
+        "pct_chg": 3.95,
         "state": "明显偏多",
-        "confirmed_at": "2026-07-09 10:25:50",
+        "confirmed_at": "2026-07-09 10:28:00",
         "source": "Naver韩国指数"
       },
       {
         "name": "Samsung Electronics",
         "code": "005930.KS",
-        "price": 286250.0,
+        "price": 286500.0,
         "prev_close": 277500.0,
         "open": 288500.0,
         "high": 291500.0,
         "low": 284000.0,
-        "change": 8750.0,
-        "pct_chg": 3.15,
-        "time": "2026-07-09 09:01:26",
-        "currency": "6339304",
+        "change": 9000.0,
+        "pct_chg": 3.24,
+        "time": "2026-07-09 09:06:27",
+        "currency": "6497917",
         "source": "腾讯韩股龙头代理",
         "kind": "stock_proxy",
         "state": "明显偏多",
-        "confirmed_at": "2026-07-09 09:01:26"
+        "confirmed_at": "2026-07-09 09:06:27"
       },
       {
         "name": "SK hynix",
@@ -26920,20 +26919,20 @@
         "low": 2203000.0,
         "change": 152000.0,
         "pct_chg": 7.32,
-        "time": "2026-07-09 09:01:26",
-        "currency": "1507159",
+        "time": "2026-07-09 09:06:27",
+        "currency": "1557639",
         "source": "腾讯韩股龙头代理",
         "kind": "stock_proxy",
         "state": "明显偏多",
-        "confirmed_at": "2026-07-09 09:01:26"
+        "confirmed_at": "2026-07-09 09:06:27"
       }
     ],
     "risk_score_100": 18,
     "risk_level": "normal",
     "signals": [],
-    "confirmed_at": "2026-07-09 10:26:00",
+    "confirmed_at": "2026-07-09 10:28:00",
     "freshness_meta": {
-      "confirmed_at": "2026-07-09 10:26:00",
+      "confirmed_at": "2026-07-09 10:28:00",
       "scope": "韩股联动",
       "mode": "live",
       "mode_label": "实时判断",
@@ -94236,7 +94235,7 @@
           "point_name": "3/4量确认",
           "code": "603186.SH",
           "name": "华正新材",
-          "industry": "玻纤",
+          "industry": "元器件",
           "close": 247.25,
           "support": 193.73,
           "resistance": 269.87,
@@ -94520,15 +94519,15 @@
           "removed_date": "2026-06-26",
           "removal_reason": "收盘复评分数73低于75，移出低吸策略池。",
           "raw_industry": "元器件",
-          "display_concept": "玻纤",
-          "display_industry": "玻纤"
+          "display_concept": "元器件",
+          "display_industry": "元器件"
         },
         {
           "point_code": "KEYK",
           "point_name": "关键K",
           "code": "603678.SH",
           "name": "火炬电子",
-          "industry": "覆铜板",
+          "industry": "元器件",
           "close": 79.49,
           "support": 63.17,
           "resistance": 81.01,
@@ -94789,15 +94788,15 @@
           "removed_date": "2026-06-26",
           "removal_reason": "收盘复评分数69低于75，移出低吸策略池。",
           "raw_industry": "元器件",
-          "display_concept": "覆铜板",
-          "display_industry": "覆铜板"
+          "display_concept": "元器件",
+          "display_industry": "元器件"
         },
         {
           "point_code": "LINE",
           "point_name": "双线/BBI买点",
           "code": "603011.SH",
           "name": "合锻智能",
-          "industry": "专用机械·下游应用",
+          "industry": "专用机械",
           "close": 32.06,
           "support": 32.5,
           "resistance": 41.4,
@@ -95065,8 +95064,8 @@
           "removed_date": "2026-06-26",
           "removal_reason": "收盘复评分数70低于75，移出低吸策略池。",
           "raw_industry": "专用机械",
-          "display_concept": "专用机械·下游应用",
-          "display_industry": "专用机械·下游应用"
+          "display_concept": "专用机械",
+          "display_industry": "专用机械"
         },
         {
           "point_code": "B3",
@@ -95588,7 +95587,7 @@
           "point_name": "B2 回踩反弹确认",
           "code": "600237.SH",
           "name": "铜峰电子",
-          "industry": "树脂",
+          "industry": "元器件",
           "close": 13.21,
           "support": 11.49,
           "resistance": 13.54,
@@ -95873,8 +95872,8 @@
           "removed_date": "2026-06-26",
           "removal_reason": "收盘复评分数70低于75，移出低吸策略池。",
           "raw_industry": "元器件",
-          "display_concept": "树脂",
-          "display_industry": "树脂"
+          "display_concept": "元器件",
+          "display_industry": "元器件"
         },
         {
           "point_code": "B3",
@@ -96432,7 +96431,7 @@
           "point_name": "B3 强趋势延续",
           "code": "300814.SZ",
           "name": "中富电路",
-          "industry": "ABF",
+          "industry": "元器件",
           "close": 198.4,
           "support": 172.96,
           "resistance": 210.98,
@@ -96693,8 +96692,8 @@
           "removed_date": "2026-06-26",
           "removal_reason": "收盘复评分数69低于75，移出低吸策略池。",
           "raw_industry": "元器件",
-          "display_concept": "ABF",
-          "display_industry": "ABF"
+          "display_concept": "元器件",
+          "display_industry": "元器件"
         },
         {
           "point_code": "B3",
@@ -123457,7 +123456,7 @@
         "point_name": "3/4量确认",
         "code": "603186.SH",
         "name": "华正新材",
-        "industry": "玻纤",
+        "industry": "元器件",
         "close": 247.25,
         "support": 193.73,
         "resistance": 269.87,
@@ -123741,15 +123740,15 @@
         "removed_date": "2026-06-26",
         "removal_reason": "收盘复评分数73低于75，移出低吸策略池。",
         "raw_industry": "元器件",
-        "display_concept": "玻纤",
-        "display_industry": "玻纤"
+        "display_concept": "元器件",
+        "display_industry": "元器件"
       },
       {
         "point_code": "KEYK",
         "point_name": "关键K",
         "code": "603678.SH",
         "name": "火炬电子",
-        "industry": "覆铜板",
+        "industry": "元器件",
         "close": 79.49,
         "support": 63.17,
         "resistance": 81.01,
@@ -124010,15 +124009,15 @@
         "removed_date": "2026-06-26",
         "removal_reason": "收盘复评分数69低于75，移出低吸策略池。",
         "raw_industry": "元器件",
-        "display_concept": "覆铜板",
-        "display_industry": "覆铜板"
+        "display_concept": "元器件",
+        "display_industry": "元器件"
       },
       {
         "point_code": "LINE",
         "point_name": "双线/BBI买点",
         "code": "603011.SH",
         "name": "合锻智能",
-        "industry": "专用机械·下游应用",
+        "industry": "专用机械",
         "close": 32.06,
         "support": 32.5,
         "resistance": 41.4,
@@ -124286,8 +124285,8 @@
         "removed_date": "2026-06-26",
         "removal_reason": "收盘复评分数70低于75，移出低吸策略池。",
         "raw_industry": "专用机械",
-        "display_concept": "专用机械·下游应用",
-        "display_industry": "专用机械·下游应用"
+        "display_concept": "专用机械",
+        "display_industry": "专用机械"
       },
       {
         "point_code": "B3",
@@ -124809,7 +124808,7 @@
         "point_name": "B2 回踩反弹确认",
         "code": "600237.SH",
         "name": "铜峰电子",
-        "industry": "树脂",
+        "industry": "元器件",
         "close": 13.21,
         "support": 11.49,
         "resistance": 13.54,
@@ -125094,8 +125093,8 @@
         "removed_date": "2026-06-26",
         "removal_reason": "收盘复评分数70低于75，移出低吸策略池。",
         "raw_industry": "元器件",
-        "display_concept": "树脂",
-        "display_industry": "树脂"
+        "display_concept": "元器件",
+        "display_industry": "元器件"
       },
       {
         "point_code": "B3",
@@ -125653,7 +125652,7 @@
         "point_name": "B3 强趋势延续",
         "code": "300814.SZ",
         "name": "中富电路",
-        "industry": "ABF",
+        "industry": "元器件",
         "close": 198.4,
         "support": 172.96,
         "resistance": 210.98,
@@ -125914,8 +125913,8 @@
         "removed_date": "2026-06-26",
         "removal_reason": "收盘复评分数69低于75，移出低吸策略池。",
         "raw_industry": "元器件",
-        "display_concept": "ABF",
-        "display_industry": "ABF"
+        "display_concept": "元器件",
+        "display_industry": "元器件"
       },
       {
         "point_code": "B3",
@@ -273198,8 +273197,8 @@
   },
   "auction_focus_review": {
     "title": "集合竞价重点复核",
-    "confirmed_at": "2026-07-09 09:26:05",
-    "updated_at": "2026-07-09 09:26:05",
+    "confirmed_at": "2026-07-09 09:28:30",
+    "updated_at": "2026-07-09 09:28:30",
     "summary": "集合竞价重点复核与统一候选总队列共用来源，当前复核24/24只；09:26竞价结果作为盘前确认视角，用于给候选池做优先复核，不单独决定买入。",
     "items": [
       {
@@ -273654,24 +273653,24 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-09 09:26:05",
+      "confirmed_at": "2026-07-09 09:28:30",
       "scope": "盘前确认",
       "mode": "same_day_frozen",
       "mode_label": "同日冻结",
-      "source": "问财SkillHub",
+      "source": "本地竞价缓存",
       "degrade_note": "09:26确认后全天沿用；复核对象与统一候选总队列保持一致，当日竞价缺失时仅保留候选池复核视角"
     }
   },
   "trade_decision": {
-    "sentence": "50分 ｜ 只做回踩 ｜ 单日修复不等于确认，候选池继续等回踩 ｜ 早盘风险 正常观察。早盘系统性风险未触发强减仓，继续按主线和权限执行。",
+    "sentence": "52分 ｜ 只做回踩 ｜ 单日修复不等于确认，候选池继续等回踩 ｜ 早盘风险 正常观察。早盘系统性风险未触发强减仓，继续按主线和权限执行。",
     "allow_open": "低吸可",
     "mainline": "算力租赁",
     "priority": "低吸",
     "prohibition": "追高",
     "headline": "单日修复不等于确认，候选池继续等回踩",
-    "score": 50,
+    "score": 52,
     "mode_label": "只做回踩",
-    "summary": "市场总分50，模式为只做回踩；低吸权限打开，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限打开，追涨权限关闭，加仓权限关闭。；当前主线未见明确高风险",
+    "summary": "市场总分52，模式为只做回踩；低吸权限打开，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限打开，追涨权限关闭，加仓权限关闭。；当前主线未见明确高风险",
     "permissions": {
       "allow_chase": false,
       "allow_pullback": true,
@@ -273777,12 +273776,12 @@
         ],
         "external_link_risk": {
           "score_100": 18,
-          "summary": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "summary": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-09 10:26:00"
+          "confirmed_at": "2026-07-09 10:28:00"
         },
-        "external_link_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_link_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "risk_signals": [
           "Tushare THS板块目录不可用：抱歉，您没有接口(ths_index)访问权限，权限的具体详情访问：https://tushare.pro/document/1?doc_id=108。",
           "竞价主线样本不足",
@@ -273795,7 +273794,7 @@
         ],
         "action_hint": "维持主线跟踪，优先看个股结构。",
         "summary": "存储芯片 风险 44.5 分，竞价 34 / 周线 68 / 日线 59 / 资金 45 / 缠论 40 / 同步撤退 34 / 韩股联动 18。",
-        "confirmed_at": "2026-07-09 10:26:00",
+        "confirmed_at": "2026-07-09 10:28:00",
         "mainline_score": 8.2,
         "proxy_sample_count": 8
       },
@@ -273880,12 +273879,12 @@
         ],
         "external_link_risk": {
           "score_100": 18,
-          "summary": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "summary": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-09 10:26:00"
+          "confirmed_at": "2026-07-09 10:28:00"
         },
-        "external_link_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_link_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "risk_signals": [
           "Tushare THS板块目录不可用：抱歉，您没有接口(ths_index)访问权限，权限的具体详情访问：https://tushare.pro/document/1?doc_id=108。",
           "竞价主线样本不足",
@@ -273898,7 +273897,7 @@
         ],
         "action_hint": "维持主线跟踪，优先看个股结构。",
         "summary": "共封装光学(CPO) 风险 44.5 分，竞价 34 / 周线 68 / 日线 59 / 资金 45 / 缠论 40 / 同步撤退 34 / 韩股联动 18。",
-        "confirmed_at": "2026-07-09 10:26:00",
+        "confirmed_at": "2026-07-09 10:28:00",
         "mainline_score": 5.9,
         "proxy_sample_count": 4
       },
@@ -273983,12 +273982,12 @@
         ],
         "external_link_risk": {
           "score_100": 18,
-          "summary": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+          "summary": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-09 10:26:00"
+          "confirmed_at": "2026-07-09 10:28:00"
         },
-        "external_link_note": "韩国大盘均值 +3.71%；三星/海力士均值 +5.24%",
+        "external_link_note": "韩国大盘均值 +3.62%；三星/海力士均值 +5.28%",
         "risk_signals": [
           "Tushare THS板块目录不可用：抱歉，您没有接口(ths_index)访问权限，权限的具体详情访问：https://tushare.pro/document/1?doc_id=108。",
           "竞价主线样本不足",
@@ -274001,13 +274000,13 @@
         ],
         "action_hint": "维持主线跟踪，优先看个股结构。",
         "summary": "算力租赁 风险 44.5 分，竞价 34 / 周线 68 / 日线 59 / 资金 45 / 缠论 40 / 同步撤退 34 / 韩股联动 18。",
-        "confirmed_at": "2026-07-09 10:26:00",
+        "confirmed_at": "2026-07-09 10:28:00",
         "mainline_score": 9.0,
         "proxy_sample_count": 4
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-09 09:26:05",
+      "confirmed_at": "2026-07-09 09:28:30",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -274562,10 +274561,10 @@
   },
   "auction_analysis": {
     "status": "ok",
-    "source": "问财SkillHub",
+    "source": "本地竞价缓存",
     "trade_date": "2026-07-09",
     "daily_base_date": "2026-07-08",
-    "updated_at": "2026-07-09 09:26:05",
+    "updated_at": "2026-07-09 09:28:30",
     "cache_fresh": true,
     "summary": "集合竞价优先使用问财SkillHub，结合竞价涨幅、匹配金额、未匹配金额、评级、异动类型和流动性冲击；只保留主板主线股；12/12只达到80分仓位线，重点复核策略买点股票16只。高开强势、未匹配买盘为正、评级看多且主线清晰的票更容易被定义为弱转强或竞价抢筹；竞价砸盘、虚强高开和涨停试盘只做风险复核，不直接提高仓位。",
     "rows": [
@@ -286752,49 +286751,12 @@
       "strong_to_weak": 0
     },
     "fetch_status": {
-      "status": "ok",
-      "source": "问财SkillHub",
+      "status": "cached",
+      "source": "本地竞价缓存",
       "rows": 324,
-      "queries": [
-        {
-          "query": "今日竞价涨幅大于3%且竞价成交额大于5000万的股票",
-          "status": "ok",
-          "code_count": 22,
-          "summary": null
-        },
-        {
-          "query": "今日竞价抢筹的股票",
-          "status": "ok",
-          "code_count": 380,
-          "summary": null
-        },
-        {
-          "query": "今日竞价评级看多的股票",
-          "status": "ok",
-          "code_count": 354,
-          "summary": null
-        },
-        {
-          "query": "今日竞价未匹配金额为正且竞价成交额大于3000万的股票",
-          "status": "ok",
-          "code_count": 91,
-          "summary": null
-        },
-        {
-          "query": "今日竞价砸盘的股票",
-          "status": "ok",
-          "code_count": 164,
-          "summary": null
-        },
-        {
-          "query": "今日A股买一量，卖一量，委买，委卖，委差，竞价涨幅，竞价量比，股票代码，股票简称",
-          "status": "ok",
-          "code_count": 5529,
-          "summary": null
-        }
-      ]
+      "updated_at": "2026-07-09 09:26:16"
     },
-    "confirmed_at": "2026-07-09 09:26:05",
+    "confirmed_at": "2026-07-09 09:28:30",
     "frozen_after_slot": "09:26",
     "stale_mode": "same_day_frozen"
   },
@@ -302827,9 +302789,9 @@
                   "销售毛利率27.74%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -302947,9 +302909,9 @@
                   "销售毛利率36.54%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "先进封装",
+                "display_industry": "先进封装",
+                "industry": "先进封装",
                 "raw_industry": "先进封装"
               },
               "abnormal_risk": {
@@ -303307,9 +303269,9 @@
                   "销售毛利率40.02%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "中芯国际",
+                "display_industry": "中芯国际",
+                "industry": "中芯国际",
                 "raw_industry": "中芯国际"
               },
               "abnormal_risk": {
@@ -303441,9 +303403,9 @@
                   "专利68件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -304561,9 +304523,9 @@
                   "专利346件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "先进封装",
-                "display_industry": "先进封装",
-                "industry": "先进封装",
+                "display_concept": "国家大基金持股",
+                "display_industry": "国家大基金持股",
+                "industry": "国家大基金持股",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -305268,9 +305230,9 @@
                   "专利25件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "富士康",
-                "display_industry": "富士康",
-                "industry": "富士康",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -305736,9 +305698,9 @@
                   "专利84件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "中芯国际",
-                "display_industry": "中芯国际",
-                "industry": "中芯国际",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -305930,9 +305892,9 @@
                   "专利56件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "汽车芯片",
-                "display_industry": "汽车芯片",
-                "industry": "汽车芯片",
+                "display_concept": "国家大基金持股",
+                "display_industry": "国家大基金持股",
+                "industry": "国家大基金持股",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -306057,9 +306019,9 @@
                   "专利239件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -307054,9 +307016,9 @@
               "销售毛利率27.74%"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "国家大基金持股",
-            "display_industry": "国家大基金持股",
-            "industry": "国家大基金持股",
+            "display_concept": "存储芯片",
+            "display_industry": "存储芯片",
+            "industry": "存储芯片",
             "raw_industry": "国家大基金持股"
           },
           "abnormal_risk": {
@@ -309257,9 +309219,9 @@
                   "专利141件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "云计算",
-                "display_industry": "云计算",
-                "industry": "云计算",
+                "display_concept": "算力租赁",
+                "display_industry": "算力租赁",
+                "industry": "算力租赁",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -309389,9 +309351,9 @@
                   "专利525件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "F5G",
-                "display_industry": "F5G",
-                "industry": "F5G",
+                "display_concept": "光纤",
+                "display_industry": "光纤",
+                "industry": "光纤",
                 "raw_industry": "光纤"
               },
               "abnormal_risk": {
@@ -309510,9 +309472,9 @@
                   "专利8件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "铜缆高速连接",
-                "display_industry": "铜缆高速连接",
-                "industry": "铜缆高速连接",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -310204,9 +310166,9 @@
                   "专利322件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "机器视觉",
-                "display_industry": "机器视觉",
-                "industry": "机器视觉",
+                "display_concept": "新型工业化",
+                "display_industry": "新型工业化",
+                "industry": "新型工业化",
                 "raw_industry": "新型工业化"
               },
               "abnormal_risk": {
@@ -310395,9 +310357,9 @@
                   "专利404件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "第三代半导体",
-                "display_industry": "第三代半导体",
-                "industry": "第三代半导体",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "第三代半导体"
               },
               "abnormal_risk": {
@@ -310661,9 +310623,9 @@
                   "专利75件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "第三代半导体",
-                "display_industry": "第三代半导体",
-                "industry": "第三代半导体",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -310867,9 +310829,9 @@
                   "专利1422件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "超级电容",
+                "display_industry": "超级电容",
+                "industry": "超级电容",
                 "raw_industry": "超级电容"
               },
               "abnormal_risk": {
@@ -311319,9 +311281,9 @@
                   "专利256件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "华为手机",
+                "display_industry": "华为手机",
+                "industry": "华为手机",
                 "raw_industry": "华为手机"
               },
               "abnormal_risk": {
@@ -312174,9 +312136,9 @@
               "专利404件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "第三代半导体",
-            "display_industry": "第三代半导体",
-            "industry": "第三代半导体",
+            "display_concept": "存储芯片",
+            "display_industry": "存储芯片",
+            "industry": "存储芯片",
             "raw_industry": "第三代半导体"
           },
           "abnormal_risk": {
@@ -313434,9 +313396,9 @@
                   "专利525件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "F5G",
-                "display_industry": "F5G",
-                "industry": "F5G",
+                "display_concept": "光纤",
+                "display_industry": "光纤",
+                "industry": "光纤",
                 "raw_industry": "光纤"
               },
               "abnormal_risk": {
@@ -313569,9 +313531,9 @@
                   "专利2667件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "虚拟电厂",
-                "display_industry": "虚拟电厂",
-                "industry": "虚拟电厂",
+                "display_concept": "宁德时代",
+                "display_industry": "宁德时代",
+                "industry": "宁德时代",
                 "raw_industry": "宁德时代"
               },
               "abnormal_risk": {
@@ -314423,9 +314385,9 @@
                   "专利20件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "语音技术",
-                "display_industry": "语音技术",
-                "industry": "语音技术",
+                "display_concept": "虚拟数字人",
+                "display_industry": "虚拟数字人",
+                "industry": "虚拟数字人",
                 "raw_industry": "虚拟数字人"
               },
               "abnormal_risk": {
@@ -314782,9 +314744,9 @@
                   "专利85件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "算力租赁",
-                "display_industry": "算力租赁",
-                "industry": "算力租赁",
+                "display_concept": "东数西算(算力)",
+                "display_industry": "东数西算(算力)",
+                "industry": "东数西算(算力)",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -314981,9 +314943,9 @@
                   "专利16件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "算力租赁",
-                "display_industry": "算力租赁",
-                "industry": "算力租赁",
+                "display_concept": "云计算",
+                "display_industry": "云计算",
+                "industry": "云计算",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -315401,9 +315363,9 @@
                   "专利487件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "算力租赁",
-                "display_industry": "算力租赁",
-                "industry": "算力租赁",
+                "display_concept": "数字水印",
+                "display_industry": "数字水印",
+                "industry": "数字水印",
                 "raw_industry": "数字水印"
               },
               "abnormal_risk": {
@@ -315535,9 +315497,9 @@
                   "专利1566件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "云计算",
-                "display_industry": "云计算",
-                "industry": "云计算",
+                "display_concept": "算力租赁",
+                "display_industry": "算力租赁",
+                "industry": "算力租赁",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -316171,9 +316133,9 @@
               "专利85件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "算力租赁",
-            "display_industry": "算力租赁",
-            "industry": "算力租赁",
+            "display_concept": "东数西算(算力)",
+            "display_industry": "东数西算(算力)",
+            "industry": "东数西算(算力)",
             "raw_industry": "算力租赁"
           },
           "abnormal_risk": {
@@ -316437,9 +316399,9 @@
               "专利16件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "算力租赁",
-            "display_industry": "算力租赁",
-            "industry": "算力租赁",
+            "display_concept": "云计算",
+            "display_industry": "云计算",
+            "industry": "云计算",
             "raw_industry": "算力租赁"
           },
           "abnormal_risk": {
