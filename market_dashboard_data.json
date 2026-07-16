@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-16 11:07:25",
+  "generated_at": "2026-07-16 11:15:06",
   "update_stage": "noon",
-  "update_stage_title": "11:05 本地5分钟实时刷新",
-  "refresh_slot": "11:05",
+  "update_stage_title": "11:15 本地5分钟实时刷新（15分钟同步）",
+  "refresh_slot": "11:15",
   "refresh_phase": "intraday_rolling",
-  "refresh_phase_title": "11:05 本地5分钟实时刷新",
+  "refresh_phase_title": "11:15 本地5分钟实时刷新（15分钟同步）",
   "refresh_minutes": 5,
   "local_realtime_refresh_minutes": 5,
   "formal_refresh_minutes": 15,
   "intraday_window_minutes": 5,
-  "refresh_tier": "lightweight_intraday",
+  "refresh_tier": "formal_intraday",
   "review_available": false,
   "content_scope": {
     "market_structure": "日线结构",
@@ -26,14 +26,14 @@
     "daily_base_date": "2026-07-15",
     "realtime_date": "2026-07-16",
     "update_stage": "noon",
-    "refresh_slot": "11:05",
+    "refresh_slot": "11:15",
     "refresh_phase": "intraday_rolling",
-    "refresh_phase_title": "11:05 本地5分钟实时刷新",
+    "refresh_phase_title": "11:15 本地5分钟实时刷新（15分钟同步）",
     "refresh_minutes": 5,
     "local_realtime_refresh_minutes": 5,
     "formal_refresh_minutes": 15,
     "intraday_window_minutes": 5,
-    "refresh_tier": "lightweight_intraday",
+    "refresh_tier": "formal_intraday",
     "daily_static_in_open_noon": true,
     "daily_modules": [
       "连板梯队",
@@ -50,7 +50,7 @@
       "失败样本池",
       "自选/盯盘"
     ],
-    "summary": "本地5分钟实时刷新：只重算大盘监控、市场决策、监控池、统一候选总队列、失败样本池和盯盘；新闻、热榜、集合竞价与日线模块沿用上一关键时点；趋势/K线/均线/支撑压力/选股评分统一按前复权；集合竞价、涨停梯队、异动监管沿用原始交易口径。"
+    "summary": "本地5分钟实时刷新（15分钟同步）：与本地5分钟实时层保持同一套内容，当前仅额外执行同步动作；新闻、热榜、集合竞价与日线模块沿用上一关键时点；连板梯队、板块情绪、活跃市值和技术买点沿用本地日线2026-07-15；趋势/K线/均线/支撑压力/选股评分统一按前复权；集合竞价、涨停梯队、异动监管沿用原始交易口径。"
   },
   "selection_universe": {
     "scope": "沪深全市场",
@@ -71,39 +71,39 @@
     {
       "name": "上证指数",
       "code": "000001",
-      "price": 3926.43,
-      "change": -29.14,
-      "pct_chg": -0.74,
+      "price": 3922.92,
+      "change": -32.66,
+      "pct_chg": -0.83,
       "open": 3912.38,
       "high": 3940.45,
       "low": 3902.7,
       "pre_close": 3955.58,
-      "volume": 300510791.0,
-      "amount": 625565084690.0,
+      "volume": 309318599.0,
+      "amount": 643192368140.0,
       "status": "ok",
       "trade_date": "2026-07-16",
       "source": "XTick指数实时 + XTick分钟",
-      "realtime_time": "11:07",
-      "note": "XTick指数实时 + XTick分钟 11:07"
+      "realtime_time": "11:15",
+      "note": "XTick指数实时 + XTick分钟 11:15"
     },
     {
       "name": "中证1000",
       "code": "000852",
       "ts_code": "000852.SH",
-      "price": 7775.7,
-      "change": -42.12,
-      "pct_chg": -0.54,
+      "price": 7758.69,
+      "change": -59.14,
+      "pct_chg": -0.76,
       "open": 7713.14,
       "high": 7836.39,
       "low": 7642.7,
       "pre_close": 7817.83,
-      "volume": 140868599.0,
-      "amount": 265230219970.0,
+      "volume": 144812839.0,
+      "amount": 272641047240.0,
       "status": "ok",
       "trade_date": "2026-07-16",
       "source": "XTick指数实时 + XTick分钟",
-      "realtime_time": "11:07",
-      "note": "XTick指数实时 + XTick分钟 11:07"
+      "realtime_time": "11:15",
+      "note": "XTick指数实时 + XTick分钟 11:15"
     },
     {
       "name": "平均股价 830000",
@@ -3055,8 +3055,8 @@
           "rank": 6
         }
       ],
-      "change": 9.39,
-      "price": 41.35,
+      "change": 8.44,
+      "price": 40.99,
       "concept_tags": [
         "减肥药",
         "CRO概念"
@@ -3130,8 +3130,8 @@
           "rank": 1
         }
       ],
-      "change": 1.63,
-      "price": 21.14,
+      "change": 1.11,
+      "price": 21.03,
       "concept_tags": [
         "国家大基金持股",
         "先进封装"
@@ -3201,8 +3201,8 @@
           "rank": 2
         }
       ],
-      "change": -0.32,
-      "price": 87.18,
+      "change": -0.49,
+      "price": 87.03,
       "concept_tags": [
         "国家大基金持股",
         "存储芯片"
@@ -3272,8 +3272,8 @@
           "rank": 19
         }
       ],
-      "change": 6.17,
-      "price": 54.76,
+      "change": 7.0,
+      "price": 55.19,
       "concept_tags": [
         "CRO概念",
         "细胞免疫治疗"
@@ -3347,8 +3347,8 @@
           "rank": 4
         }
       ],
-      "change": 7.9,
-      "price": 269.76,
+      "change": 7.28,
+      "price": 268.2,
       "concept_tags": [
         "共封装光学(CPO)",
         "光纤概念"
@@ -3497,8 +3497,8 @@
           "rank": 5
         }
       ],
-      "change": 11.07,
-      "price": 78.69,
+      "change": 11.0,
+      "price": 78.64,
       "concept_tags": [
         "国家大基金持股",
         "存储芯片"
@@ -3639,8 +3639,8 @@
           "rank": 20
         }
       ],
-      "change": 1.03,
-      "price": 129.52,
+      "change": 0.5,
+      "price": 128.84,
       "concept_tags": [
         "创新药",
         "CRO概念"
@@ -3710,8 +3710,8 @@
           "rank": 24
         }
       ],
-      "change": 2.99,
-      "price": 308.98,
+      "change": 3.07,
+      "price": 309.22,
       "concept_tags": [
         "存储芯片",
         "国家大基金持股"
@@ -3781,8 +3781,8 @@
           "rank": 21
         }
       ],
-      "change": 4.46,
-      "price": 7.97,
+      "change": 4.33,
+      "price": 7.96,
       "concept_tags": [
         "AI视频",
         "虚拟数字人"
@@ -3852,8 +3852,8 @@
           "rank": 34
         }
       ],
-      "change": 2.84,
-      "price": 31.19,
+      "change": 2.24,
+      "price": 31.01,
       "concept_tags": [
         "电子竞技",
         "云游戏"
@@ -3923,8 +3923,8 @@
           "rank": 37
         }
       ],
-      "change": -1.57,
-      "price": 188.08,
+      "change": -1.16,
+      "price": 188.87,
       "concept_tags": [
         "CRO概念",
         "减肥药"
@@ -3998,8 +3998,8 @@
           "rank": 40
         }
       ],
-      "change": -4.55,
-      "price": 14.27,
+      "change": -4.88,
+      "price": 14.22,
       "concept_tags": [
         "抽水蓄能",
         "超超临界发电"
@@ -4073,8 +4073,8 @@
           "rank": 33
         }
       ],
-      "change": 3.11,
-      "price": 39.48,
+      "change": 3.24,
+      "price": 39.53,
       "concept_tags": [
         "CRO概念",
         "创新药"
@@ -4148,8 +4148,8 @@
           "rank": 39
         }
       ],
-      "change": 0.18,
-      "price": 56.91,
+      "change": -0.07,
+      "price": 56.77,
       "concept_tags": [
         "创新药",
         "减肥药"
@@ -4219,8 +4219,8 @@
           "rank": 42
         }
       ],
-      "change": 20.46,
-      "price": 66.11,
+      "change": 22.08,
+      "price": 67.0,
       "concept_tags": [
         "仿制药一致性评价",
         "创新药"
@@ -4357,8 +4357,8 @@
           "rank": 7
         }
       ],
-      "change": 13.14,
-      "price": 39.08,
+      "change": 12.33,
+      "price": 38.8,
       "concept_tags": [
         "WiFi 6",
         "算力租赁"
@@ -4424,8 +4424,8 @@
           "rank": 8
         }
       ],
-      "change": 11.97,
-      "price": 43.4,
+      "change": 10.76,
+      "price": 42.93,
       "concept_tags": [
         "工业母机",
         "人形机器人"
@@ -4491,8 +4491,8 @@
           "rank": 10
         }
       ],
-      "change": -1.31,
-      "price": 67.6,
+      "change": -1.88,
+      "price": 67.21,
       "concept_tags": [
         "光纤概念",
         "F5G概念"
@@ -4558,8 +4558,8 @@
           "rank": 12
         }
       ],
-      "change": -1.98,
-      "price": 532.5,
+      "change": -2.09,
+      "price": 531.9,
       "concept_tags": [
         "存储芯片",
         "汽车芯片"
@@ -4625,8 +4625,8 @@
           "rank": 13
         }
       ],
-      "change": 0.88,
-      "price": 45.84,
+      "change": 0.42,
+      "price": 45.63,
       "concept_tags": [
         "存储芯片",
         "先进封装"
@@ -4692,8 +4692,8 @@
           "rank": 14
         }
       ],
-      "change": -1.65,
-      "price": 19.66,
+      "change": -2.0,
+      "price": 19.59,
       "concept_tags": [
         "存储芯片",
         "先进封装"
@@ -4759,8 +4759,8 @@
           "rank": 16
         }
       ],
-      "change": 2.57,
-      "price": 401.26,
+      "change": 2.02,
+      "price": 399.12,
       "concept_tags": [
         "光纤概念",
         "铜缆高速连接"
@@ -4830,8 +4830,8 @@
           "rank": 17
         }
       ],
-      "change": 2.11,
-      "price": 71.51,
+      "change": 1.86,
+      "price": 71.33,
       "concept_tags": [
         "国产航母",
         "卫星导航"
@@ -4897,8 +4897,8 @@
           "rank": 18
         }
       ],
-      "change": 6.81,
-      "price": 86.84,
+      "change": 6.27,
+      "price": 86.4,
       "concept_tags": [
         "中国AI 50",
         "算力租赁"
@@ -4964,8 +4964,8 @@
           "rank": 22
         }
       ],
-      "change": 1.63,
-      "price": 53.77,
+      "change": 1.04,
+      "price": 53.46,
       "concept_tags": [
         "超级电容",
         "共封装光学(CPO)"
@@ -9679,7 +9679,7 @@
         "label": "弱势回落",
         "current_state": "downtrend",
         "score": 5.0,
-        "reason": "日线收盘已明显弱于MA20 4038.48；日线均线斜率转弱；日线MACD偏弱；日线BOLL中轨承压；日线KDJ钝化偏弱",
+        "reason": "日线收盘已明显弱于MA20 4038.30；日线均线斜率转弱；日线MACD偏弱；日线BOLL中轨承压；日线KDJ钝化偏弱",
         "invalidation": "日线若跌破最近一根K线低点 3902.70，当前代理结构转弱。",
         "next_watch": "继续观察是否能有效站稳最近高点 3940.45 上方。",
         "center_low": 3869.3,
@@ -11372,7 +11372,7 @@
             "open": 3912.38,
             "high": 3940.45,
             "low": 3902.7,
-            "close": 3926.43
+            "close": 3922.92
           }
         ],
         "volume": [
@@ -12573,7 +12573,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 300510791.0,
+            "value": 309318599.0,
             "color": "rgba(217,45,32,0.42)"
           }
         ],
@@ -13536,7 +13536,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 3951.82
+            "value": 3951.12
           }
         ],
         "ma10": [
@@ -14498,7 +14498,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 3984.17
+            "value": 3983.82
           }
         ],
         "ma20": [
@@ -15460,7 +15460,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 4038.48
+            "value": 4038.3
           }
         ],
         "macd_dif": [
@@ -16422,7 +16422,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": -35.575
+            "value": -35.855
           }
         ],
         "macd_dea": [
@@ -17384,7 +17384,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": -23.626
+            "value": -23.682
           }
         ],
         "macd_histogram": [
@@ -18585,7 +18585,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": -23.897,
+            "value": -24.345,
             "color": "rgba(18,128,92,0.62)"
           }
         ],
@@ -20463,7 +20463,7 @@
             "open": 3966.02,
             "high": 3983.05,
             "low": 3869.3,
-            "close": 3926.43
+            "close": 3922.92
           }
         ],
         "volume": [
@@ -20984,7 +20984,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 2047609691.0,
+            "value": 2056417499.0,
             "color": "rgba(18,128,92,0.42)"
           }
         ],
@@ -21403,7 +21403,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 4016.8
+            "value": 4016.09
           }
         ],
         "ma10": [
@@ -21817,7 +21817,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 4046.01
+            "value": 4045.66
           }
         ],
         "ma20": [
@@ -22191,7 +22191,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 4042.01
+            "value": 4041.84
           }
         ],
         "macd_dif": [
@@ -22609,7 +22609,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 13.405
+            "value": 13.125
           }
         ],
         "macd_dea": [
@@ -23027,7 +23027,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 37.105
+            "value": 37.049
           }
         ],
         "macd_histogram": [
@@ -23548,7 +23548,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": -47.401,
+            "value": -47.849,
             "color": "rgba(18,128,92,0.62)"
           }
         ],
@@ -23807,7 +23807,7 @@
             "open": 4090.76,
             "high": 4143.31,
             "low": 3869.3,
-            "close": 3926.43
+            "close": 3922.92
           }
         ],
         "volume": [
@@ -23928,7 +23928,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 6759746245.0,
+            "value": 6768554053.0,
             "color": "rgba(18,128,92,0.42)"
           }
         ],
@@ -24023,7 +24023,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 4018.68
+            "value": 4017.98
           }
         ],
         "ma10": [
@@ -24097,7 +24097,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 4018.65
+            "value": 4018.3
           }
         ],
         "ma20": [
@@ -24131,7 +24131,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 3741.52
+            "value": 3741.34
           }
         ],
         "macd_dif": [
@@ -24229,7 +24229,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 224.695
+            "value": 224.415
           }
         ],
         "macd_dea": [
@@ -24327,7 +24327,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 218.521
+            "value": 218.465
           }
         ],
         "macd_histogram": [
@@ -24448,7 +24448,7 @@
           },
           {
             "time": "2026-07-16",
-            "value": 12.348,
+            "value": 11.9,
             "color": "rgba(217,45,32,0.62)"
           }
         ],
@@ -24463,17 +24463,17 @@
         ]
       },
       "support": 3869.3,
-      "resistance": 4038.48,
+      "resistance": 4038.3,
       "support_label": "支撑",
       "resistance_label": "压力",
       "note": "日K放宽到更长历史窗口，周K补足近两年，月K补足24个月；日K叠加笔、中枢、分型。"
     },
-    "current": 3926.43,
-    "pct_chg": -0.74,
+    "current": 3922.92,
+    "pct_chg": -0.83,
     "support": 3869.3,
-    "pressure": 4038.48,
-    "ma20": 4038.48,
-    "ma60": 4081.81,
+    "pressure": 4038.3,
+    "ma20": 4038.3,
+    "ma60": 4081.75,
     "platform_low": 4000,
     "platform_high": 4100,
     "recent_low": 3869.3,
@@ -24502,27 +24502,27 @@
   "market_live_monitor": {
     "status": "ok",
     "source": "同花顺问财广度 + XTick分钟",
-    "time": "2026-07-16 11:07:25",
+    "time": "2026-07-16 11:15:06",
     "trade_date": "2026-07-16",
-    "data_time": "11:07",
-    "data_label": "今日2026-07-16 11:07",
+    "data_time": "11:15",
+    "data_label": "今日2026-07-16 11:15",
     "is_stale": false,
     "breadth": {
       "status": "ok",
       "source": "同花顺问财实时",
       "trade_date": "2026-07-16",
-      "cached_at": "2026-07-16 11:07:49",
+      "cached_at": "2026-07-16 11:15:36",
       "index_name": "同花顺全A(沪深京)",
-      "index_price": 1814.84,
-      "index_pct_chg": 0.52,
-      "up_count": 3301,
-      "down_count": 2101,
-      "limit_up_count": 48,
+      "index_price": 1814.24,
+      "index_pct_chg": 0.49,
+      "up_count": 3272,
+      "down_count": 2131,
+      "limit_up_count": 50,
       "limit_down_count": 7,
-      "net_in_count": 3220,
-      "net_out_count": 2054,
-      "breadth_ratio": 61.1,
-      "flow_ratio": 1.57,
+      "net_in_count": 3248,
+      "net_out_count": 2038,
+      "breadth_ratio": 60.6,
+      "flow_ratio": 1.59,
       "queries": [
         {
           "query": "A股上涨家数",
@@ -25779,15 +25779,111 @@
           "amount": 2227437570.0,
           "cum_volume": 300510791.0,
           "cum_amount": 625565084690.0
+        },
+        {
+          "minute": "1108",
+          "time": "11:08",
+          "price": 3925.91,
+          "open": 3926.82,
+          "high": 3926.9,
+          "low": 3925.73,
+          "volume": 1233216.0,
+          "amount": 2111373310.0,
+          "cum_volume": 301744007.0,
+          "cum_amount": 627676458000.0
+        },
+        {
+          "minute": "1109",
+          "time": "11:09",
+          "price": 3930.04,
+          "open": 3925.94,
+          "high": 3930.23,
+          "low": 3925.94,
+          "volume": 1176672.0,
+          "amount": 2130903040.0,
+          "cum_volume": 302920679.0,
+          "cum_amount": 629807361040.0
+        },
+        {
+          "minute": "1110",
+          "time": "11:10",
+          "price": 3927.57,
+          "open": 3930.28,
+          "high": 3930.28,
+          "low": 3927.22,
+          "volume": 1064672.0,
+          "amount": 2136801280.0,
+          "cum_volume": 303985351.0,
+          "cum_amount": 631944162320.0
+        },
+        {
+          "minute": "1111",
+          "time": "11:11",
+          "price": 3926.24,
+          "open": 3927.47,
+          "high": 3928.63,
+          "low": 3926.24,
+          "volume": 958144.0,
+          "amount": 2188902400.0,
+          "cum_volume": 304943495.0,
+          "cum_amount": 634133064720.0
+        },
+        {
+          "minute": "1112",
+          "time": "11:12",
+          "price": 3925.19,
+          "open": 3926.23,
+          "high": 3926.24,
+          "low": 3924.11,
+          "volume": 1046624.0,
+          "amount": 2347499520.0,
+          "cum_volume": 305990119.0,
+          "cum_amount": 636480564240.0
+        },
+        {
+          "minute": "1113",
+          "time": "11:13",
+          "price": 3926.12,
+          "open": 3925.46,
+          "high": 3926.12,
+          "low": 3924.2,
+          "volume": 1137408.0,
+          "amount": 2253979650.0,
+          "cum_volume": 307127527.0,
+          "cum_amount": 638734543890.0
+        },
+        {
+          "minute": "1114",
+          "time": "11:14",
+          "price": 3925.97,
+          "open": 3926.48,
+          "high": 3926.5,
+          "low": 3925.31,
+          "volume": 985696.0,
+          "amount": 2118909950.0,
+          "cum_volume": 308113223.0,
+          "cum_amount": 640853453840.0
+        },
+        {
+          "minute": "1115",
+          "time": "11:15",
+          "price": 3923.4,
+          "open": 3925.64,
+          "high": 3925.64,
+          "low": 3923.32,
+          "volume": 1205376.0,
+          "amount": 2338914300.0,
+          "cum_volume": 309318599.0,
+          "cum_amount": 643192368140.0
         }
       ],
-      "last_time": "11:07",
-      "last_price": 3926.83
+      "last_time": "11:15",
+      "last_price": 3923.4
     },
     "minute_features": {
-      "latest_time": "11:07",
-      "latest_price": 3926.83,
-      "latest_vwap": 20.82,
+      "latest_time": "11:15",
+      "latest_price": 3923.4,
+      "latest_vwap": 20.79,
       "opening_low": 3907.86,
       "opening_low_time": "09:34",
       "opening_low_window_minutes": 5,
@@ -25803,10 +25899,10 @@
       "holding_day_low": true,
       "volume_rebound_15m": false,
       "volume_rebound_5m": false,
-      "avg_delta_volume_15m": 1135004.0,
-      "prev_delta_volume_15m": 1650254.0,
-      "avg_delta_volume_5m": 1125395.0,
-      "prev_delta_volume_5m": 1049683.0,
+      "avg_delta_volume_15m": 1102965.0,
+      "prev_delta_volume_15m": 1352736.0,
+      "avg_delta_volume_5m": 1066650.0,
+      "prev_delta_volume_5m": 1187744.0,
       "rows": [
         {
           "minute": "0926",
@@ -26827,6 +26923,86 @@
           "delta_volume": 1080800.0,
           "delta_amount": 2227437570.0,
           "vwap": 20.81672616841237
+        },
+        {
+          "minute": "1108",
+          "time": "11:08",
+          "price": 3925.91,
+          "cum_volume": 301744007.0,
+          "cum_amount": 627676458000.0,
+          "delta_volume": 1233216.0,
+          "delta_amount": 2111373310.0,
+          "vwap": 20.801621355813705
+        },
+        {
+          "minute": "1109",
+          "time": "11:09",
+          "price": 3930.04,
+          "cum_volume": 302920679.0,
+          "cum_amount": 629807361040.0,
+          "delta_volume": 1176672.0,
+          "delta_amount": 2130903040.0,
+          "vwap": 20.791164311367464
+        },
+        {
+          "minute": "1110",
+          "time": "11:10",
+          "price": 3927.57,
+          "cum_volume": 303985351.0,
+          "cum_amount": 631944162320.0,
+          "delta_volume": 1064672.0,
+          "delta_amount": 2136801280.0,
+          "vwap": 20.78863867094701
+        },
+        {
+          "minute": "1111",
+          "time": "11:11",
+          "price": 3926.24,
+          "cum_volume": 304943495.0,
+          "cum_amount": 634133064720.0,
+          "delta_volume": 958144.0,
+          "delta_amount": 2188902400.0,
+          "vwap": 20.795100571664925
+        },
+        {
+          "minute": "1112",
+          "time": "11:12",
+          "price": 3925.19,
+          "cum_volume": 305990119.0,
+          "cum_amount": 636480564240.0,
+          "delta_volume": 1046624.0,
+          "delta_amount": 2347499520.0,
+          "vwap": 20.800690111173164
+        },
+        {
+          "minute": "1113",
+          "time": "11:13",
+          "price": 3926.12,
+          "cum_volume": 307127527.0,
+          "cum_amount": 638734543890.0,
+          "delta_volume": 1137408.0,
+          "delta_amount": 2253979650.0,
+          "vwap": 20.797046429836946
+        },
+        {
+          "minute": "1114",
+          "time": "11:14",
+          "price": 3925.97,
+          "cum_volume": 308113223.0,
+          "cum_amount": 640853453840.0,
+          "delta_volume": 985696.0,
+          "delta_amount": 2118909950.0,
+          "vwap": 20.799284353985676
+        },
+        {
+          "minute": "1115",
+          "time": "11:15",
+          "price": 3923.4,
+          "cum_volume": 309318599.0,
+          "cum_amount": 643192368140.0,
+          "delta_volume": 1205376.0,
+          "delta_amount": 2338914300.0,
+          "vwap": 20.793847192486474
         }
       ]
     },
@@ -27024,12 +27200,32 @@
       {
         "label": "11:05-11:10",
         "open": 3926.82,
-        "close": 3926.83,
-        "high": 3927.15,
-        "low": 3926.82,
+        "close": 3930.04,
+        "high": 3930.04,
+        "low": 3925.91,
+        "pct_chg": 0.08,
+        "volume": 6233056.0,
+        "amount": 11388518400.0
+      },
+      {
+        "label": "11:10-11:15",
+        "open": 3927.57,
+        "close": 3925.97,
+        "high": 3927.57,
+        "low": 3925.19,
+        "pct_chg": -0.04,
+        "volume": 5192544.0,
+        "amount": 11046092800.0
+      },
+      {
+        "label": "11:15-11:20",
+        "open": 3923.4,
+        "close": 3923.4,
+        "high": 3923.4,
+        "low": 3923.4,
         "pct_chg": 0.0,
-        "volume": 3823168.0,
-        "amount": 7146242050.0
+        "volume": 1205376.0,
+        "amount": 2338914300.0
       }
     ],
     "bars_5m": [
@@ -27226,12 +27422,32 @@
       {
         "label": "11:05-11:10",
         "open": 3926.82,
-        "close": 3926.83,
-        "high": 3927.15,
-        "low": 3926.82,
+        "close": 3930.04,
+        "high": 3930.04,
+        "low": 3925.91,
+        "pct_chg": 0.08,
+        "volume": 6233056.0,
+        "amount": 11388518400.0
+      },
+      {
+        "label": "11:10-11:15",
+        "open": 3927.57,
+        "close": 3925.97,
+        "high": 3927.57,
+        "low": 3925.19,
+        "pct_chg": -0.04,
+        "volume": 5192544.0,
+        "amount": 11046092800.0
+      },
+      {
+        "label": "11:15-11:20",
+        "open": 3923.4,
+        "close": 3923.4,
+        "high": 3923.4,
+        "low": 3923.4,
         "pct_chg": 0.0,
-        "volume": 3823168.0,
-        "amount": 7146242050.0
+        "volume": 1205376.0,
+        "amount": 2338914300.0
       }
     ],
     "auction_sector": {
@@ -27568,18 +27784,18 @@
       "defense": [],
       "summary": "竞价强板块偏向化学制药(1只强势)；护盘方向暂无明显护盘方向。"
     },
-    "refresh_slot": "11:05",
+    "refresh_slot": "11:15",
     "refresh_phase": "intraday_rolling",
-    "phase_title": "11:05 本地5分钟实时刷新",
+    "phase_title": "11:15 本地5分钟实时刷新（15分钟同步）",
     "intraday_label": "5分钟承接",
-    "breadth_line": "今日2026-07-16 11:07，上证3926.83（较开盘+0.37%）；上涨3301家，下跌2101家，涨停48家，跌停7家，主力净流入3220家，净流出2054家。",
+    "breadth_line": "今日2026-07-16 11:15，上证3923.40（较开盘+0.28%）；上涨3272家，下跌2131家，涨停50家，跌停7家，主力净流入3248家，净流出2038家。",
     "verdict": "承接转强",
     "structure_note": "指数与个股同步回暖，盘面扩散开始修复。",
-    "intraday_note": "5分钟节奏：09:30-09:35 -0.12%，11:05-11:10 0.00%；近两段分别为 11:00-11:05 -0.00%、11:05-11:10 0.00%；自日内低点回拉 0.61%；当前较开盘 +0.37%",
+    "intraday_note": "5分钟节奏：09:30-09:35 -0.12%，11:15-11:20 0.00%；近两段分别为 11:10-11:15 -0.04%、11:15-11:20 0.00%；自日内低点回拉 0.52%；当前较开盘 +0.28%",
     "action": "可以保留进攻仓，但仍只围绕主线核心做，不追杂毛。",
-    "summary": "今日2026-07-16 11:07，上证3926.83（较开盘+0.37%）；上涨3301家，下跌2101家，涨停48家，跌停7家，主力净流入3220家，净流出2054家。；指数与个股同步回暖，盘面扩散开始修复。；可以保留进攻仓，但仍只围绕主线核心做，不追杂毛。",
+    "summary": "今日2026-07-16 11:15，上证3923.40（较开盘+0.28%）；上涨3272家，下跌2131家，涨停50家，跌停7家，主力净流入3248家，净流出2038家。；指数与个股同步回暖，盘面扩散开始修复。；可以保留进攻仓，但仍只围绕主线核心做，不追杂毛。",
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -27593,10 +27809,10 @@
           "line_name": "存储芯片",
           "risk_level": "high",
           "risk_score_100": 79.8,
-          "crowded_label": "偏强/中性",
+          "crowded_label": "中性",
           "crowded_note": "仍有一半以上样本站在VWAP上方",
           "external_label": "明显承压",
-          "external_note": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "external_note": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：仍有一半以上样本站在VWAP上方 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
         },
         {
@@ -27620,10 +27836,10 @@
           "action_hint": "维持主线跟踪，优先看个股结构。"
         }
       ],
-      "confirmed_at": "2026-07-16 11:07:25",
-      "korea_confirmed_at": "2026-07-16 11:07:00",
+      "confirmed_at": "2026-07-16 11:15:06",
+      "korea_confirmed_at": "2026-07-16 11:15:00",
       "freshness_meta": {
-        "confirmed_at": "2026-07-16 11:07:25",
+        "confirmed_at": "2026-07-16 11:15:06",
         "scope": "盘中判断",
         "mode": "live",
         "mode_label": "实时判断",
@@ -27635,9 +27851,9 @@
       "status": "empty",
       "summary": "当前概念池里，暂未看到同时具备前排强度、概念扩散和资金进场的异动板块。",
       "items": [],
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "freshness_meta": {
-        "confirmed_at": "2026-07-16 11:07:25",
+        "confirmed_at": "2026-07-16 11:15:06",
         "scope": "盘中判断",
         "mode": "live",
         "mode_label": "实时判断",
@@ -27657,33 +27873,33 @@
     "dimensions": [
       {
         "name": "趋势",
-        "score": 11.9,
+        "score": 11.6,
         "max": 40,
-        "note": "指数-0.74%，MA20 4038.48，MA60 4081.81。"
+        "note": "指数-0.83%，MA20 4038.3，MA60 4081.75。"
       },
       {
         "name": "宽度",
-        "score": 19.7,
+        "score": 19.5,
         "max": 20,
-        "note": "上涨3301家、下跌2101家，宽度偏强。"
+        "note": "上涨3272家、下跌2131家，宽度偏强。"
       },
       {
         "name": "宽度动量",
         "score": 9.2,
         "max": 15,
-        "note": "5分钟上涨段10/20，最近一段0.00%。"
+        "note": "5分钟上涨段11/22，最近一段0.00%。"
       },
       {
         "name": "资金",
         "score": 9.7,
         "max": 15,
-        "note": "活跃分5分，净流入/流出比1.57"
+        "note": "活跃分5分，净流入/流出比1.59"
       },
       {
         "name": "情绪",
-        "score": 6.5,
+        "score": 6.6,
         "max": 10,
-        "note": "涨停48家、跌停7家，最高4板，高位连板3只。"
+        "note": "涨停50家、跌停7家，最高4板，高位连板3只。"
       }
     ],
     "permissions": {
@@ -27728,26 +27944,26 @@
     "recommended_position": "三成左右",
     "blocks_new_entries": false,
     "degraded": false,
-    "slot": "11:05",
-    "time": "2026-07-16 11:07:25",
+    "slot": "11:15",
+    "time": "2026-07-16 11:15:06",
     "trade_date": "2026-07-16",
     "breadth": {
-      "up_count": 3301,
-      "down_count": 2101,
-      "limit_up_count": 48,
+      "up_count": 3272,
+      "down_count": 2131,
+      "limit_up_count": 50,
       "limit_down_count": 7,
-      "breadth_ratio": 61.1
+      "breadth_ratio": 60.6
     },
     "indices": {
       "sh": {
         "name": "上证指数",
-        "price": 3926.43,
-        "pct_chg": -0.74
+        "price": 3922.92,
+        "pct_chg": -0.83
       },
       "csi1000": {
         "name": "中证1000",
-        "price": 7775.7,
-        "pct_chg": -0.54
+        "price": 7758.69,
+        "pct_chg": -0.76
       },
       "average": {
         "name": "平均股价 830000",
@@ -27768,9 +27984,9 @@
       "summary": "创新药 存储芯片"
     },
     "evidence": [
-      "宽度：上涨3301家 / 下跌2101家，占比61.1%",
-      "情绪：涨停48家 / 跌停7家",
-      "指数：上证-0.74%，中证1000-0.54%，平均股价-1.81%",
+      "宽度：上涨3272家 / 下跌2131家，占比60.6%",
+      "情绪：涨停50家 / 跌停7家",
+      "指数：上证-0.83%，中证1000-0.76%，平均股价-1.81%",
       "5分钟：开盘段-0.12%，最近段0.00%",
       "主线：创新药，强度9.5，可观察核心承接",
       "上证/中证1000/平均股价多数为负",
@@ -29251,7 +29467,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -30017,14 +30233,14 @@
           }
         },
         "crowded_unwind_risk": {
-          "score_100": 33,
+          "score_100": 37,
           "status": "ok",
-          "summary": "分时样本 10 只，跌回VWAP 20% ，跌破前5分钟低点 0% ，5分钟看跌 0% 。",
+          "summary": "分时样本 10 只，跌回VWAP 30% ，跌破前5分钟低点 0% ，5分钟看跌 0% 。",
           "signals": [
             "仍有一半以上样本站在VWAP上方"
           ],
           "sample_count": 10,
-          "below_vwap_ratio": 20.0,
+          "below_vwap_ratio": 30.0,
           "break_opening_low_ratio": 0.0,
           "m5_bearish_ratio": 0.0
         },
@@ -30034,16 +30250,16 @@
         "external_link_risk": {
           "score_100": 88,
           "status": "ok",
-          "summary": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "summary": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "signals": [
             "KOSPI/KOSDAQ同步走弱",
             "韩国芯片龙头同步大跌",
             "韩国大盘与芯片龙头同向走弱"
           ],
           "state": "high",
-          "confirmed_at": "2026-07-16 11:07:00"
+          "confirmed_at": "2026-07-16 11:15:00"
         },
-        "external_link_note": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_link_note": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "risk_signals": [
           "竞价负向样本占比过高",
           "竞价抢筹样本明显不足",
@@ -30055,7 +30271,7 @@
           "OBV继续走弱"
         ],
         "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：仍有一半以上样本站在VWAP上方 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱",
-        "summary": "存储芯片 风险 79.8 分，竞价 100 / 周线 20 / 日线 84 / 资金 76 / 缠论 76 / 同步撤退 33 / 韩股联动 88。",
+        "summary": "存储芯片 风险 79.8 分，竞价 100 / 周线 20 / 日线 84 / 资金 76 / 缠论 76 / 同步撤退 37 / 韩股联动 88。",
         "score_basis": "可用分项归一加权：竞价、日线、周线、资金、缠论；韩股联动风险门槛触发",
         "available_risk_components": [
           "auction",
@@ -30064,7 +30280,7 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-16 11:07:25",
+        "confirmed_at": "2026-07-16 11:15:06",
         "mainline_score": 6.5,
         "proxy_sample_count": 21
       },
@@ -30684,7 +30900,7 @@
           "summary": "该主线暂不纳入韩股科技映射加压。",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-16 11:07:00"
+          "confirmed_at": "2026-07-16 11:15:00"
         },
         "external_link_note": "该主线暂不纳入韩股科技映射加压。",
         "risk_signals": [
@@ -30707,7 +30923,7 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-16 11:07:25",
+        "confirmed_at": "2026-07-16 11:15:06",
         "mainline_score": 9.5,
         "proxy_sample_count": 7
       },
@@ -31363,7 +31579,7 @@
           "summary": "该主线暂不纳入韩股科技映射加压。",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-16 11:07:00"
+          "confirmed_at": "2026-07-16 11:15:00"
         },
         "external_link_note": "该主线暂不纳入韩股科技映射加压。",
         "risk_signals": [
@@ -31386,7 +31602,7 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-16 11:07:25",
+        "confirmed_at": "2026-07-16 11:15:06",
         "mainline_score": 5.1,
         "proxy_sample_count": 5
       }
@@ -31408,9 +31624,9 @@
         "note": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：仍有一半以上样本站在VWAP上方 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
       }
     },
-    "confirmed_at": "2026-07-16 11:07:25",
+    "confirmed_at": "2026-07-16 11:15:06",
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "主线风险",
       "mode": "live",
       "mode_label": "实时判断",
@@ -31425,10 +31641,10 @@
         "line_name": "存储芯片",
         "risk_level": "high",
         "risk_score_100": 79.8,
-        "crowded_label": "偏强/中性",
+        "crowded_label": "中性",
         "crowded_note": "仍有一半以上样本站在VWAP上方",
         "external_label": "明显承压",
-        "external_note": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_note": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：仍有一半以上样本站在VWAP上方 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
       },
       {
@@ -31452,10 +31668,10 @@
         "action_hint": "维持主线跟踪，优先看个股结构。"
       }
     ],
-    "confirmed_at": "2026-07-16 11:07:25",
-    "korea_confirmed_at": "2026-07-16 11:07:00",
+    "confirmed_at": "2026-07-16 11:15:06",
+    "korea_confirmed_at": "2026-07-16 11:15:00",
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -31467,9 +31683,9 @@
     "status": "empty",
     "summary": "当前概念池里，暂未看到同时具备前排强度、概念扩散和资金进场的异动板块。",
     "items": [],
-    "confirmed_at": "2026-07-16 11:07:25",
+    "confirmed_at": "2026-07-16 11:15:06",
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -31479,12 +31695,12 @@
   },
   "breaking_news_opportunities": {
     "title": "突发消息机会",
-    "confirmed_at": "2026-07-16 11:07:25",
-    "updated_at": "2026-07-16 11:07:25",
+    "confirmed_at": "2026-07-16 11:15:06",
+    "updated_at": "2026-07-16 11:15:06",
     "summary": "三道校验：消息有效性、概念集体响应、主板核心股确认。当前确认0条，未通过板块验证的消息不输出股票。",
     "items": [
       {
-        "event_time": "11:07",
+        "event_time": "11:15",
         "concept": "半导体",
         "status": "已失效",
         "news_title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -31508,7 +31724,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "11:07",
+        "event_time": "11:15",
         "concept": "油气",
         "status": "已失效",
         "news_title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -31532,7 +31748,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "11:07",
+        "event_time": "11:15",
         "concept": "存储芯片",
         "status": "已失效",
         "news_title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
@@ -31556,7 +31772,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "11:07",
+        "event_time": "11:15",
         "concept": "存储芯片",
         "status": "已失效",
         "news_title": "策略周报：美股科技龙头回暖 A股光模块情绪仍在低位-海外映射及AI轮动周报7月",
@@ -31568,8 +31784,8 @@
           "passed": false,
           "score": 34,
           "published_at": "2026-07-14 00:00:00",
-          "age_minutes": 3547.0,
-          "reason": "命中2项政策/产业/公司事件词；消息距当前约3547分钟；消息超过24小时"
+          "age_minutes": 3555.0,
+          "reason": "命中2项政策/产业/公司事件词；消息距当前约3555分钟；消息超过24小时"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -31580,7 +31796,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "11:07",
+        "event_time": "11:15",
         "concept": "半导体",
         "status": "已失效",
         "news_title": "策略周报：美股科技龙头回暖 A股光模块情绪仍在低位-海外映射及AI轮动周报7月",
@@ -31592,8 +31808,8 @@
           "passed": false,
           "score": 34,
           "published_at": "2026-07-14 00:00:00",
-          "age_minutes": 3547.0,
-          "reason": "命中2项政策/产业/公司事件词；消息距当前约3547分钟；消息超过24小时"
+          "age_minutes": 3555.0,
+          "reason": "命中2项政策/产业/公司事件词；消息距当前约3555分钟；消息超过24小时"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -31604,7 +31820,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "11:07",
+        "event_time": "11:15",
         "concept": "算力",
         "status": "已失效",
         "news_title": "美股AI科技回暖映射A股 光模块低位轮动机会浮现",
@@ -31616,8 +31832,8 @@
           "passed": false,
           "score": 10,
           "published_at": "2026-07-15 08:25:23",
-          "age_minutes": 1602.0,
-          "reason": "消息距当前约1602分钟；消息超过24小时"
+          "age_minutes": 1610.0,
+          "reason": "消息距当前约1610分钟；消息超过24小时"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -31628,7 +31844,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "11:07",
+        "event_time": "11:15",
         "concept": "存储芯片",
         "status": "已失效",
         "news_title": "美股AI科技回暖映射A股 光模块低位轮动机会浮现",
@@ -31640,8 +31856,8 @@
           "passed": false,
           "score": 10,
           "published_at": "2026-07-15 08:25:23",
-          "age_minutes": 1602.0,
-          "reason": "消息距当前约1602分钟；消息超过24小时"
+          "age_minutes": 1610.0,
+          "reason": "消息距当前约1610分钟；消息超过24小时"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -31652,7 +31868,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "11:07",
+        "event_time": "11:15",
         "concept": "半导体",
         "status": "已失效",
         "news_title": "美股AI科技回暖映射A股 光模块低位轮动机会浮现",
@@ -31664,8 +31880,8 @@
           "passed": false,
           "score": 10,
           "published_at": "2026-07-15 08:25:23",
-          "age_minutes": 1602.0,
-          "reason": "消息距当前约1602分钟；消息超过24小时"
+          "age_minutes": 1610.0,
+          "reason": "消息距当前约1610分钟；消息超过24小时"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -31678,7 +31894,7 @@
     ],
     "confirmed_count": 0,
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -31688,7 +31904,7 @@
   },
   "event_calendar": {
     "updated_at": "2026-07-16 09:29:58",
-    "confirmed_at": "2026-07-16 11:07:25",
+    "confirmed_at": "2026-07-16 11:15:06",
     "source": "东方财富财经日历",
     "source_status": "cache",
     "result_news_status": "not_refreshed",
@@ -33547,65 +33763,65 @@
     "summary": "未来24小时10项重点事件，本月87项重要日历，3项已匹配公布结果。"
   },
   "korea_link_monitor": {
-    "summary": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+    "summary": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
     "items": [
       {
         "name": "KOSPI",
         "code": "KOSPI",
         "kind": "index",
-        "price": 6860.05,
+        "price": 6854.2,
         "prev_close": 7284.41,
-        "change": -424.36,
-        "pct_chg": -5.83,
+        "change": -430.21,
+        "pct_chg": -5.91,
         "state": "明显偏空",
-        "confirmed_at": "2026-07-16 11:07:00",
+        "confirmed_at": "2026-07-16 11:15:00",
         "source": "Naver韩国指数"
       },
       {
         "name": "KOSDAQ",
         "code": "KOSDAQ",
         "kind": "index",
-        "price": 796.13,
+        "price": 797.59,
         "prev_close": 829.43,
-        "change": -33.3,
-        "pct_chg": -4.01,
+        "change": -31.84,
+        "pct_chg": -3.84,
         "state": "明显偏空",
-        "confirmed_at": "2026-07-16 11:07:00",
+        "confirmed_at": "2026-07-16 11:15:00",
         "source": "Naver韩国指数"
       },
       {
         "name": "Samsung Electronics",
         "code": "005930.KS",
-        "price": 256000.0,
+        "price": 258000.0,
         "prev_close": 279500.0,
         "open": 264500.0,
         "high": 265500.0,
         "low": 252500.0,
-        "change": -23500.0,
-        "pct_chg": -8.41,
-        "time": "2026-07-16 09:43:21",
-        "currency": "12212536",
+        "change": -21500.0,
+        "pct_chg": -7.69,
+        "time": "2026-07-16 09:53:21",
+        "currency": "12573630",
         "source": "腾讯韩股龙头代理",
         "kind": "stock_proxy",
         "state": "明显偏空",
-        "confirmed_at": "2026-07-16 09:43:21"
+        "confirmed_at": "2026-07-16 09:53:21"
       },
       {
         "name": "SK hynix",
         "code": "000660.KS",
-        "price": 1856000.0,
+        "price": 1870000.0,
         "prev_close": 2082000.0,
         "open": 1902000.0,
         "high": 1919000.0,
         "low": 1821000.0,
-        "change": -226000.0,
-        "pct_chg": -10.85,
-        "time": "2026-07-16 09:43:20",
-        "currency": "2593623",
+        "change": -212000.0,
+        "pct_chg": -10.18,
+        "time": "2026-07-16 09:53:21",
+        "currency": "2670961",
         "source": "腾讯韩股龙头代理",
         "kind": "stock_proxy",
         "state": "明显偏空",
-        "confirmed_at": "2026-07-16 09:43:20"
+        "confirmed_at": "2026-07-16 09:53:21"
       }
     ],
     "risk_score_100": 88,
@@ -33615,9 +33831,9 @@
       "韩国芯片龙头同步大跌",
       "韩国大盘与芯片龙头同向走弱"
     ],
-    "confirmed_at": "2026-07-16 11:07:00",
+    "confirmed_at": "2026-07-16 11:15:00",
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:00",
+      "confirmed_at": "2026-07-16 11:15:00",
       "scope": "韩股联动",
       "mode": "live",
       "mode_label": "实时判断",
@@ -34475,11 +34691,11 @@
     "confidence_cap": 10.0,
     "position_state": "贴近支撑待确认",
     "position_bias_score": -0.2,
-    "position_note": "距支撑约1.5%，但反弹确认不足，先控制仓位",
-    "support_gap_pct": 1.5,
+    "position_note": "距支撑约1.4%，但反弹确认不足，先控制仓位",
+    "support_gap_pct": 1.4,
     "pressure_gap_pct": 2.9,
     "threshold": 8.0,
-    "summary": "市场环境5.9分，指数4.1、活跃市值5.0、消息面6.0、主线清晰度8.6；距支撑约1.5%，但反弹确认不足，先控制仓位；风险偏中，市场环境只影响仓位和操作，不直接压低个股评分。"
+    "summary": "市场环境5.9分，指数4.1、活跃市值5.0、消息面6.0、主线清晰度8.6；距支撑约1.4%，但反弹确认不足，先控制仓位；风险偏中，市场环境只影响仓位和操作，不直接压低个股评分。"
   },
   "mainline_context": {
     "items": [
@@ -94308,11 +94524,11 @@
       "confidence_cap": 10.0,
       "position_state": "贴近支撑待确认",
       "position_bias_score": -0.2,
-      "position_note": "距支撑约1.5%，但反弹确认不足，先控制仓位",
-      "support_gap_pct": 1.5,
+      "position_note": "距支撑约1.4%，但反弹确认不足，先控制仓位",
+      "support_gap_pct": 1.4,
       "pressure_gap_pct": 2.9,
       "threshold": 8.0,
-      "summary": "市场环境5.9分，指数4.1、活跃市值5.0、消息面6.0、主线清晰度8.6；距支撑约1.5%，但反弹确认不足，先控制仓位；风险偏中，市场环境只影响仓位和操作，不直接压低个股评分。"
+      "summary": "市场环境5.9分，指数4.1、活跃市值5.0、消息面6.0、主线清晰度8.6；距支撑约1.4%，但反弹确认不足，先控制仓位；风险偏中，市场环境只影响仓位和操作，不直接压低个股评分。"
     },
     "display_threshold": 7.5,
     "position_threshold": 8.0,
@@ -185474,8 +185690,8 @@
   },
   "candidate_queue": {
     "title": "统一候选总队列",
-    "confirmed_at": "2026-07-16 11:07:25",
-    "updated_at": "2026-07-16 11:07:25",
+    "confirmed_at": "2026-07-16 11:15:06",
+    "updated_at": "2026-07-16 11:15:06",
     "summary": "统一候选总队列沿用上一正式层来源，共30只；本地5分钟轻刷新仅滚动更新30分钟/5分钟状态、时间线与执行权限，不重建候选来源。",
     "total_count": 30,
     "displayed_count": 24,
@@ -185576,7 +185792,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "存储芯片",
         "line_crowded_unwind_note": "仍有一半以上样本站在VWAP上方",
-        "line_external_link_note": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 119.0,
         "cycle_states": {
           "weekly": {
@@ -186366,7 +186582,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           }
         ],
         "intraday_risk_penalty": 3.0,
@@ -191880,7 +192096,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "存储芯片",
         "line_crowded_unwind_note": "仍有一半以上样本站在VWAP上方",
-        "line_external_link_note": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 119.0,
         "cycle_states": {
           "weekly": {
@@ -192661,7 +192877,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           }
         ],
         "intraday_risk_penalty": 3.0,
@@ -206454,7 +206670,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "formal_carryover",
       "mode_label": "正式层沿用",
@@ -206464,8 +206680,8 @@
   },
   "focus_review": {
     "title": "统一候选总队列",
-    "confirmed_at": "2026-07-16 11:07:25",
-    "updated_at": "2026-07-16 11:07:25",
+    "confirmed_at": "2026-07-16 11:15:06",
+    "updated_at": "2026-07-16 11:15:06",
     "summary": "统一候选总队列沿用上一正式层来源，共30只；本地5分钟轻刷新仅滚动更新30分钟/5分钟状态、时间线与执行权限，不重建候选来源。",
     "total_count": 30,
     "displayed_count": 24,
@@ -206566,7 +206782,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "存储芯片",
         "line_crowded_unwind_note": "仍有一半以上样本站在VWAP上方",
-        "line_external_link_note": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 119.0,
         "cycle_states": {
           "weekly": {
@@ -207356,7 +207572,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           }
         ],
         "intraday_risk_penalty": 3.0,
@@ -212870,7 +213086,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "存储芯片",
         "line_crowded_unwind_note": "仍有一半以上样本站在VWAP上方",
-        "line_external_link_note": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 119.0,
         "cycle_states": {
           "weekly": {
@@ -213651,7 +213867,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           }
         ],
         "intraday_risk_penalty": 3.0,
@@ -227444,7 +227660,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "formal_carryover",
       "mode_label": "正式层沿用",
@@ -227454,8 +227670,8 @@
   },
   "intraday_preferred_board": {
     "title": "日内优选榜",
-    "confirmed_at": "2026-07-16 11:07:25",
-    "updated_at": "2026-07-16 11:07:25",
+    "confirmed_at": "2026-07-16 11:15:06",
+    "updated_at": "2026-07-16 11:15:06",
     "market_mode_label": "只做回踩",
     "market_route": "强市主线",
     "summary": "强市主线：弱市优先防守承接，强市优先主线与概念异动；候选已覆盖原队列、周线、缠论、异动和防守板块（周线选股39只、缠论选股4只、异动选股0只、防守板块0只）。仅展示日内分≥5的候选，已隐藏62只低分候选。风险门禁先于分数，当前0只高分候选被拦截；被拦截候选仅用于观察，不构成买入提示。",
@@ -231000,7 +231216,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -231020,7 +231236,7 @@
   "tail_close_selection_history": {
     "version": 1,
     "entries": [],
-    "updated_at": "2026-07-16 11:07:25",
+    "updated_at": "2026-07-16 11:15:06",
     "postmortem": {
       "trial_days": 0,
       "signal_count": 0,
@@ -232308,14 +232524,14 @@
           }
         },
         "crowded_unwind_risk": {
-          "score_100": 33,
+          "score_100": 37,
           "status": "ok",
-          "summary": "分时样本 10 只，跌回VWAP 20% ，跌破前5分钟低点 0% ，5分钟看跌 0% 。",
+          "summary": "分时样本 10 只，跌回VWAP 30% ，跌破前5分钟低点 0% ，5分钟看跌 0% 。",
           "signals": [
             "仍有一半以上样本站在VWAP上方"
           ],
           "sample_count": 10,
-          "below_vwap_ratio": 20.0,
+          "below_vwap_ratio": 30.0,
           "break_opening_low_ratio": 0.0,
           "m5_bearish_ratio": 0.0
         },
@@ -232325,16 +232541,16 @@
         "external_link_risk": {
           "score_100": 88,
           "status": "ok",
-          "summary": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "summary": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "signals": [
             "KOSPI/KOSDAQ同步走弱",
             "韩国芯片龙头同步大跌",
             "韩国大盘与芯片龙头同向走弱"
           ],
           "state": "high",
-          "confirmed_at": "2026-07-16 11:07:00"
+          "confirmed_at": "2026-07-16 11:15:00"
         },
-        "external_link_note": "韩国大盘均值 -4.92%；三星/海力士均值 -9.63%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_link_note": "韩国大盘均值 -4.88%；三星/海力士均值 -8.94%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "risk_signals": [
           "竞价负向样本占比过高",
           "竞价抢筹样本明显不足",
@@ -232346,7 +232562,7 @@
           "OBV继续走弱"
         ],
         "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：仍有一半以上样本站在VWAP上方 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱",
-        "summary": "存储芯片 风险 79.8 分，竞价 100 / 周线 20 / 日线 84 / 资金 76 / 缠论 76 / 同步撤退 33 / 韩股联动 88。",
+        "summary": "存储芯片 风险 79.8 分，竞价 100 / 周线 20 / 日线 84 / 资金 76 / 缠论 76 / 同步撤退 37 / 韩股联动 88。",
         "score_basis": "可用分项归一加权：竞价、日线、周线、资金、缠论；韩股联动风险门槛触发",
         "available_risk_components": [
           "auction",
@@ -232355,7 +232571,7 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-16 11:07:25",
+        "confirmed_at": "2026-07-16 11:15:06",
         "mainline_score": 6.5,
         "proxy_sample_count": 21
       },
@@ -232975,7 +233191,7 @@
           "summary": "该主线暂不纳入韩股科技映射加压。",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-16 11:07:00"
+          "confirmed_at": "2026-07-16 11:15:00"
         },
         "external_link_note": "该主线暂不纳入韩股科技映射加压。",
         "risk_signals": [
@@ -232998,7 +233214,7 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-16 11:07:25",
+        "confirmed_at": "2026-07-16 11:15:06",
         "mainline_score": 9.5,
         "proxy_sample_count": 7
       },
@@ -233654,7 +233870,7 @@
           "summary": "该主线暂不纳入韩股科技映射加压。",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-16 11:07:00"
+          "confirmed_at": "2026-07-16 11:15:00"
         },
         "external_link_note": "该主线暂不纳入韩股科技映射加压。",
         "risk_signals": [
@@ -233677,13 +233893,13 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-16 11:07:25",
+        "confirmed_at": "2026-07-16 11:15:06",
         "mainline_score": 5.1,
         "proxy_sample_count": 5
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -234965,7 +235181,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -235023,7 +235239,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235078,7 +235294,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "互联网",
@@ -235136,7 +235352,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235191,7 +235407,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235246,7 +235462,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "农业综合",
@@ -235304,7 +235520,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235359,7 +235575,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235414,7 +235630,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235469,7 +235685,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235524,7 +235740,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "通信设备",
@@ -235584,7 +235800,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235639,7 +235855,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235694,7 +235910,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235749,7 +235965,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235804,7 +236020,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235859,7 +236075,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235914,7 +236130,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -235969,7 +236185,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236024,7 +236240,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236079,7 +236295,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236134,7 +236350,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236191,7 +236407,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -236249,7 +236465,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236304,7 +236520,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236359,7 +236575,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236414,7 +236630,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236469,7 +236685,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "医疗保健",
@@ -236527,7 +236743,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236582,7 +236798,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236637,7 +236853,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236692,7 +236908,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236747,7 +236963,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236802,7 +237018,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236857,7 +237073,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236912,7 +237128,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -236967,7 +237183,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237022,7 +237238,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237077,7 +237293,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "火力发电",
@@ -237137,7 +237353,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237192,7 +237408,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237249,7 +237465,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -237307,7 +237523,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237362,7 +237578,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237417,7 +237633,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237472,7 +237688,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237527,7 +237743,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237582,7 +237798,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "通信设备",
@@ -237640,7 +237856,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237695,7 +237911,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237750,7 +237966,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -237807,7 +238023,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -237865,7 +238081,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "元器件",
@@ -237925,7 +238141,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "生物制药",
@@ -237983,7 +238199,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -238038,7 +238254,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "半导体",
@@ -238096,7 +238312,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "区域地产",
@@ -238154,7 +238370,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -238209,7 +238425,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "半导体",
@@ -238271,7 +238487,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -238329,7 +238545,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -238384,7 +238600,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "互联网",
@@ -238442,7 +238658,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       }
@@ -238501,7 +238717,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -238559,7 +238775,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -238614,7 +238830,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "互联网",
@@ -238672,7 +238888,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -238727,7 +238943,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -238782,7 +238998,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "农业综合",
@@ -238840,7 +239056,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -238895,7 +239111,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -238950,7 +239166,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -239005,7 +239221,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -239060,7 +239276,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "通信设备",
@@ -239120,7 +239336,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       }
@@ -239179,7 +239395,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -239237,7 +239453,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -239292,7 +239508,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "医疗保健",
@@ -239352,7 +239568,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -239410,7 +239626,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -239467,7 +239683,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "化学制药",
@@ -239525,7 +239741,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "元器件",
@@ -239585,7 +239801,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "生物制药",
@@ -239643,7 +239859,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "半导体",
@@ -239701,7 +239917,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null
       },
@@ -239756,7 +239972,7 @@
         "followup_note": "午盘补看是否涨停",
         "followup_status_key": "pending",
         "followup_limit_up": false,
-        "followup_checked_at": "11:05",
+        "followup_checked_at": "11:15",
         "followup_price": null,
         "followup_pct_chg": null,
         "raw_industry": "半导体",
@@ -239791,7 +240007,7 @@
     "stale_mode": "same_day_frozen",
     "followup_meta": {
       "available": false,
-      "slot": "11:05",
+      "slot": "11:15",
       "display_count": 4,
       "counts": {
         "limit_up": 0,
@@ -244971,11 +245187,11 @@
     ]
   },
   "watch_mode": {
-    "generated_at": "2026-07-16 11:07:25",
+    "generated_at": "2026-07-16 11:15:06",
     "refresh_minutes": 5,
-    "refresh_slot": "11:05",
+    "refresh_slot": "11:15",
     "refresh_phase": "intraday_rolling",
-    "refresh_phase_title": "11:05 本地5分钟实时刷新",
+    "refresh_phase_title": "11:15 本地5分钟实时刷新（15分钟同步）",
     "content_scope": "盘中判断",
     "watchlist": [
       {
@@ -244983,13 +245199,13 @@
         "name": "华天科技",
         "industry": "存储芯片",
         "avg_cost": 25.3,
-        "price": 21.11,
-        "pct_chg": 1.49,
-        "amount_yi": 92.79,
-        "volume_wan_shou": 438.94,
-        "volume_ratio": 1.64,
-        "turnover": 13.21,
-        "main_net_yi": 6.96,
+        "price": 21.03,
+        "pct_chg": 1.11,
+        "amount_yi": 94.31,
+        "volume_wan_shou": 446.18,
+        "volume_ratio": 1.55,
+        "turnover": 13.43,
+        "main_net_yi": 6.75,
         "support": 17.45,
         "resistance": 23.81,
         "old_support": 21.37,
@@ -245001,20 +245217,20 @@
         "holding_group": "risk",
         "holding_priority": 100,
         "holding_reason": "09:26竞价涨幅-10.00%，优先复核跌停封单、可成交性与连续跌停风险；当前不补仓，风险处理优先于其他周期信号。",
-        "profit_pct": -16.56,
-        "support_distance_pct": 20.97,
-        "resistance_distance_pct": 12.79,
+        "profit_pct": -16.88,
+        "support_distance_pct": 20.52,
+        "resistance_distance_pct": 13.22,
         "stop_price": 17.45,
         "status_label": "承接确认",
         "status_tone": "ok",
         "status_note": "支撑上方转强，优先看量能能否继续放大。",
-        "reason": "本次未重新进入80分以上选股，但走势未破坏；符合核心低吸结构：趋势内缩量回踩，优先看承接；主线强度高：半导体；RPS96，属于全市场前10%强势股；20/60日动量和均线斜率较好；近10个交易日收盘热榜10天，资金关注度有延续；多个买点共振：集合竞价、B1、短线超卖修复；低吸加分+6.0：主线基础+2，上游强势，中游开始接力+2，收盘热榜+2，近10日收盘热榜10天，对应HBM，上游强势，中游开始接力：上游材料已打出强度，HBM有跟随，重点看量能能否继续放大；实时确认：实时价21.11，涨跌+1.49%，量比1.64，成交额92.79亿，主力净流入6.96亿，支撑承接有效并开始转强；仍守住支撑17.45；实时小幅上涨1.49%，反弹开始验证；量能开始放大(1.64)。",
+        "reason": "本次未重新进入80分以上选股，但走势未破坏；符合核心低吸结构：趋势内缩量回踩，优先看承接；主线强度高：半导体；RPS96，属于全市场前10%强势股；20/60日动量和均线斜率较好；近10个交易日收盘热榜10天，资金关注度有延续；多个买点共振：集合竞价、B1、短线超卖修复；低吸加分+6.0：主线基础+2，上游强势，中游开始接力+2，收盘热榜+2，近10日收盘热榜10天，对应HBM，上游强势，中游开始接力：上游材料已打出强度，HBM有跟随，重点看量能能否继续放大；实时确认：实时价21.03，涨跌+1.11%，量比1.55，成交额94.31亿，主力净流入6.75亿，支撑承接有效并开始转强；仍守住支撑17.45；实时小幅上涨1.11%，反弹开始验证；量能开始放大(1.55)。",
         "next_action": "可按原计划进入实盘观察，优先分批，继续看量能能否维持在健康区间。；继续看是否放量突破23.81；若回踩17.45附近不破，可继续保留观察；若放量延续，可看突破确认力度；失效条件看跌破止损 21.37；收盘跌回参考价下方，冲高接近目标 23.81 后量能衰减。",
         "opening_auction_note": "开盘竞价：竞价涨幅-10.00%，匹配额2.08亿，卖盘未匹配2.27亿，看空/大幅低开，竞价跌停/近跌停，持仓进入最高级风险复核，不补仓并优先评估封单与可成交性。",
         "closing_auction_note": "收盘竞价：收在日内偏低位置，放量，短线资金承接一般。",
         "cost_line_alert": {
           "label": "跌破成本线",
-          "note": "现价21.11已低于成本线25.30 16.56%，优先看能否快速收回；若同时失守支撑，卖点提醒优先级上调。"
+          "note": "现价21.03已低于成本线25.30 16.88%，优先看能否快速收回；若同时失守支撑，卖点提醒优先级上调。"
         },
         "sell_alerts": [
           {
@@ -245067,13 +245283,20 @@
         "t_sell_signals": [
           {
             "type": "sell",
+            "label": "跌回VWAP",
+            "triggered": true,
+            "reason": "实时价跌回VWAP 21.13 下方，且近5分钟量能转弱，适合先做T减仓。",
+            "severity": "减仓"
+          },
+          {
+            "type": "sell",
             "label": "30分钟转弱",
             "triggered": true,
             "reason": "30分钟级别开始转弱，做T后不宜急着把仓位再打满。",
             "severity": "防守"
           }
         ],
-        "t_signal_summary": "5分钟震荡；卖出提醒1项；该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：仍有一半以上样本站在VWAP上方 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱",
+        "t_signal_summary": "5分钟看跌；卖出提醒2项；该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：仍有一半以上样本站在VWAP上方 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱",
         "cycle_states": {
           "weekly": {
             "status": "ok",
@@ -245112,12 +245335,12 @@
             "mode": "live"
           },
           "m5": {
-            "state": "震荡",
-            "reason": "近5分钟量能转弱；最近5分钟结构回落；5分钟MACD转强；5分钟底背离修复",
-            "confirmed_at": "11:08",
+            "state": "看跌",
+            "reason": "跌回VWAP下方；近5分钟量能转弱；最近5分钟结构回落；5分钟红柱缩短；5分钟底背离修复",
+            "confirmed_at": "11:15",
             "features": {
-              "latest_time": "11:08",
-              "latest_price": 21.11,
+              "latest_time": "11:15",
+              "latest_price": 21.04,
               "latest_vwap": 21.13,
               "opening_low": 20.8,
               "opening_low_time": "09:30",
@@ -245129,15 +245352,15 @@
               "afternoon_high": null,
               "regained_vwap": false,
               "below_then_regain_vwap": false,
-              "last_below_vwap_time": "11:08",
+              "last_below_vwap_time": "11:15",
               "holding_opening_low": true,
               "holding_day_low": true,
               "volume_rebound_15m": false,
               "volume_rebound_5m": false,
-              "avg_delta_volume_15m": 18038.0,
-              "prev_delta_volume_15m": 31281.0,
-              "avg_delta_volume_5m": 10069.0,
-              "prev_delta_volume_5m": 25421.0,
+              "avg_delta_volume_15m": 10680.0,
+              "prev_delta_volume_15m": 27618.0,
+              "avg_delta_volume_5m": 9169.0,
+              "prev_delta_volume_5m": 10820.0,
               "rows": [
                 {
                   "minute": "0915",
@@ -246278,16 +246501,86 @@
                   "delta_volume": 7599.0,
                   "delta_amount": 16069632.0,
                   "vwap": 21.132040677857333
+                },
+                {
+                  "minute": "1109",
+                  "time": "11:09",
+                  "price": 21.2,
+                  "cum_volume": 4495947.0,
+                  "cum_amount": 9500866008.0,
+                  "delta_volume": 8100.0,
+                  "delta_amount": 17129472.0,
+                  "vwap": 21.13206852304976
+                },
+                {
+                  "minute": "1110",
+                  "time": "11:10",
+                  "price": 21.07,
+                  "cum_volume": 4509122.0,
+                  "cum_amount": 9528701400.0,
+                  "delta_volume": 13175.0,
+                  "delta_amount": 27835392.0,
+                  "vwap": 21.13205497655641
+                },
+                {
+                  "minute": "1111",
+                  "time": "11:11",
+                  "price": 21.06,
+                  "cum_volume": 4516864.0,
+                  "cum_amount": 9544998360.0,
+                  "delta_volume": 7742.0,
+                  "delta_amount": 16296960.0,
+                  "vwap": 21.13191444329517
+                },
+                {
+                  "minute": "1112",
+                  "time": "11:12",
+                  "price": 21.01,
+                  "cum_volume": 4532866.0,
+                  "cum_amount": 9578625496.0,
+                  "delta_volume": 16002.0,
+                  "delta_amount": 33627136.0,
+                  "vwap": 21.131499356036556
+                },
+                {
+                  "minute": "1113",
+                  "time": "11:13",
+                  "price": 21.05,
+                  "cum_volume": 4541695.0,
+                  "cum_amount": 9597210072.0,
+                  "delta_volume": 8829.0,
+                  "delta_amount": 18584576.0,
+                  "vwap": 21.13133988962271
+                },
+                {
+                  "minute": "1114",
+                  "time": "11:14",
+                  "price": 21.03,
+                  "cum_volume": 4548360.0,
+                  "cum_amount": 9611233752.0,
+                  "delta_volume": 6665.0,
+                  "delta_amount": 14023680.0,
+                  "vwap": 21.13120718676622
+                },
+                {
+                  "minute": "1115",
+                  "time": "11:15",
+                  "price": 21.04,
+                  "cum_volume": 4554966.0,
+                  "cum_amount": 9625131480.0,
+                  "delta_volume": 6606.0,
+                  "delta_amount": 13897728.0,
+                  "vwap": 21.131072065082375
                 }
               ]
             },
             "indicator_flags": {
               "macd_cross_up": false,
               "macd_cross_down": false,
-              "macd_up": true,
+              "macd_up": false,
               "macd_down": false,
               "hist_expand": false,
-              "hist_shrink": false,
+              "hist_shrink": true,
               "neg_hist_repair": false,
               "neg_hist_expand": false,
               "ma_bullish": false,
@@ -246300,7 +246593,7 @@
             "mode": "live"
           }
         },
-        "cycle_summary": "周线看涨 ｜ 日线看涨 ｜ 30分钟看跌 ｜ 5分钟震荡",
+        "cycle_summary": "周线看涨 ｜ 日线看涨 ｜ 30分钟看跌 ｜ 5分钟看跌",
         "price_action_position": {
           "pattern": "普通趋势结构",
           "state": "未到关键突破位",
@@ -246344,11 +246637,11 @@
             "trade_date": "2026-07-16"
           },
           {
-            "time": "11:08",
+            "time": "11:15",
             "cycle": "5分钟",
             "from_state": "看涨",
-            "to_state": "震荡",
-            "reason": "11:08，5分钟从看涨变为震荡，理由：近5分钟量能转弱；最近5分钟结构回落；5分钟MACD转强；5分钟底背离修复",
+            "to_state": "看跌",
+            "reason": "11:15，5分钟从看涨变为看跌，理由：跌回VWAP下方；近5分钟量能转弱；最近5分钟结构回落；5分钟红柱缩短；5分钟底背离修复",
             "event_type": "m5",
             "trade_date": "2026-07-16"
           }
@@ -246376,7 +246669,7 @@
         "line_risk_note": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：仍有一半以上样本站在VWAP上方 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱",
         "line_trade_blocked": true,
         "freshness_meta": {
-          "confirmed_at": "2026-07-16 11:07:25",
+          "confirmed_at": "2026-07-16 11:15:06",
           "scope": "盘中判断",
           "mode": "live",
           "mode_label": "实时判断",
@@ -250751,15 +251044,15 @@
         "name": "昭衍新药",
         "industry": "CRO",
         "avg_cost": 49.55,
-        "price": 54.74,
-        "pct_chg": 6.13,
-        "amount_yi": 50.05,
-        "volume_wan_shou": 92.91,
-        "volume_ratio": 4.3,
-        "turnover": 14.74,
+        "price": 54.99,
+        "pct_chg": 6.61,
+        "amount_yi": 50.8,
+        "volume_wan_shou": 94.28,
+        "volume_ratio": 4.07,
+        "turnover": 14.95,
         "main_net_yi": -5.94,
         "support": 53.15,
-        "resistance": 59.12,
+        "resistance": 59.39,
         "old_support": 49.1,
         "old_resistance": 53.15,
         "level_note": "旧压力53.15已突破，盯盘压力已按实时价上移",
@@ -250769,20 +251062,20 @@
         "holding_group": "risk",
         "holding_priority": 90,
         "holding_reason": "接近前高/高J值区域，伴随长上影、巨量或大涨，先兑现一部分。 当前优先保护本金，不补仓；跌破防守线时执行止损。",
-        "profit_pct": 10.47,
-        "support_distance_pct": 2.99,
+        "profit_pct": 10.98,
+        "support_distance_pct": 3.46,
         "resistance_distance_pct": 8.0,
         "stop_price": 53.15,
         "status_label": "突破旧压",
         "status_tone": "ok",
-        "status_note": "已站上旧压力53.15，当前上方压力更新为59.12。",
-        "reason": "本次未重新进入80分以上选股，但走势未破坏；加入持仓管理；实时突破旧压力：实时价54.74，涨跌+6.13%，量比4.30，成交额50.05亿，主力净流出5.94亿，旧压力53.15已上移为回踩参考，上方压力更新为59.12；旧压力53.15已突破，盯盘压力已按实时价上移；仍守住支撑53.15；实时上涨6.13%，反弹确认度提高；BOLL中轨 39.68、MA20 39.68、BBI 40.96支撑仍有效；量能开始放大(4.30)。",
-        "next_action": "不按旧压力减分；继续看能否守住53.15上方，并向59.12放量推进。；旧压力53.15已突破，回踩不破可视为突破位确认；上方继续看59.12附近压力反馈；若回踩53.15附近不破，可继续保留观察；若放量延续，可看突破确认力度；失效条件看跌破关键支撑或分时承接转弱时取消跟踪。",
+        "status_note": "已站上旧压力53.15，当前上方压力更新为59.39。",
+        "reason": "本次未重新进入80分以上选股，但走势未破坏；加入持仓管理；实时突破旧压力：实时价54.99，涨跌+6.61%，量比4.07，成交额50.80亿，主力净流出5.94亿，旧压力53.15已上移为回踩参考，上方压力更新为59.39；旧压力53.15已突破，盯盘压力已按实时价上移；仍守住支撑53.15；实时上涨6.61%，反弹确认度提高；BOLL中轨 39.68、MA20 39.68、BBI 40.96支撑仍有效；量能开始放大(4.07)。",
+        "next_action": "不按旧压力减分；继续看能否守住53.15上方，并向59.39放量推进。；旧压力53.15已突破，回踩不破可视为突破位确认；上方继续看59.39附近压力反馈；若回踩53.15附近不破，可继续保留观察；若放量延续，可看突破确认力度；失效条件看跌破关键支撑或分时承接转弱时取消跟踪。",
         "opening_auction_note": "开盘竞价：竞价涨幅+1.90%，匹配额3.59亿，卖盘未匹配0.01亿，偏空/竞价砸盘，偏弱，防高开兑现或低开承压。",
-        "closing_auction_note": "收盘竞价：尾盘承接偏强，收盘涨跌+6.13%，放量，次日优先看是否高开有溢价。",
+        "closing_auction_note": "收盘竞价：尾盘承接偏强，收盘涨跌+6.61%，放量，次日优先看是否高开有溢价。",
         "cost_line_alert": {
           "label": "站上成本线",
-          "note": "现价54.74高于成本线49.55 10.47%，成本线仍有缓冲。"
+          "note": "现价54.99高于成本线49.55 10.98%，成本线仍有缓冲。"
         },
         "sell_alerts": [
           {
@@ -250852,12 +251145,12 @@
           },
           "m5": {
             "state": "震荡",
-            "reason": "重新站回VWAP；近5分钟量能转弱；最近5分钟结构改善；5分钟MACD偏弱；5分钟绿柱放大",
-            "confirmed_at": "11:08",
+            "reason": "重新站回VWAP；最近5分钟结构改善；5分钟MACD偏弱",
+            "confirmed_at": "11:15",
             "features": {
-              "latest_time": "11:08",
-              "latest_price": 54.73,
-              "latest_vwap": 53.71,
+              "latest_time": "11:15",
+              "latest_price": 55.19,
+              "latest_vwap": 53.73,
               "opening_low": 51.58,
               "opening_low_time": "09:30",
               "opening_low_window_minutes": 5,
@@ -250873,10 +251166,10 @@
               "holding_day_low": true,
               "volume_rebound_15m": false,
               "volume_rebound_5m": false,
-              "avg_delta_volume_15m": 3302.0,
-              "prev_delta_volume_15m": 3513.0,
-              "avg_delta_volume_5m": 2308.0,
-              "prev_delta_volume_5m": 3992.0,
+              "avg_delta_volume_15m": 2243.0,
+              "prev_delta_volume_15m": 5108.0,
+              "avg_delta_volume_5m": 1948.0,
+              "prev_delta_volume_5m": 2010.0,
               "rows": [
                 {
                   "minute": "0915",
@@ -252017,6 +252310,76 @@
                   "delta_volume": 977.0,
                   "delta_amount": 5346816.0,
                   "vwap": 53.7127899121278
+                },
+                {
+                  "minute": "1109",
+                  "time": "11:09",
+                  "price": 54.68,
+                  "cum_volume": 1000005.0,
+                  "cum_amount": 5371481728.0,
+                  "delta_volume": 1737.0,
+                  "delta_amount": 9505792.0,
+                  "vwap": 53.71454870725646
+                },
+                {
+                  "minute": "1110",
+                  "time": "11:10",
+                  "price": 54.63,
+                  "cum_volume": 1001136.0,
+                  "cum_amount": 5377661056.0,
+                  "delta_volume": 1131.0,
+                  "delta_amount": 6179328.0,
+                  "vwap": 53.71558965015742
+                },
+                {
+                  "minute": "1111",
+                  "time": "11:11",
+                  "price": 54.69,
+                  "cum_volume": 1002346.0,
+                  "cum_amount": 5384277632.0,
+                  "delta_volume": 1210.0,
+                  "delta_amount": 6616576.0,
+                  "vwap": 53.716756808527194
+                },
+                {
+                  "minute": "1112",
+                  "time": "11:12",
+                  "price": 54.7,
+                  "cum_volume": 1003315.0,
+                  "cum_amount": 5389576320.0,
+                  "delta_volume": 969.0,
+                  "delta_amount": 5298688.0,
+                  "vwap": 53.71768906076357
+                },
+                {
+                  "minute": "1113",
+                  "time": "11:13",
+                  "price": 55.01,
+                  "cum_volume": 1005196.0,
+                  "cum_amount": 5399907968.0,
+                  "delta_volume": 1881.0,
+                  "delta_amount": 10331648.0,
+                  "vwap": 53.719950815562335
+                },
+                {
+                  "minute": "1114",
+                  "time": "11:14",
+                  "price": 55.01,
+                  "cum_volume": 1008301.0,
+                  "cum_amount": 5417015424.0,
+                  "delta_volume": 3105.0,
+                  "delta_amount": 17107456.0,
+                  "vwap": 53.72418974096029
+                },
+                {
+                  "minute": "1115",
+                  "time": "11:15",
+                  "price": 55.19,
+                  "cum_volume": 1010875.0,
+                  "cum_amount": 5431203456.0,
+                  "delta_volume": 2574.0,
+                  "delta_amount": 14188032.0,
+                  "vwap": 53.727745329541236
                 }
               ]
             },
@@ -252028,7 +252391,7 @@
               "hist_expand": false,
               "hist_shrink": false,
               "neg_hist_repair": false,
-              "neg_hist_expand": true,
+              "neg_hist_expand": false,
               "ma_bullish": false,
               "ma_bearish": false,
               "top_divergence": false,
@@ -252101,7 +252464,7 @@
         "line_risk_note": "维持主线跟踪，优先看个股结构。",
         "line_trade_blocked": false,
         "freshness_meta": {
-          "confirmed_at": "2026-07-16 11:07:25",
+          "confirmed_at": "2026-07-16 11:15:06",
           "scope": "盘中判断",
           "mode": "live",
           "mode_label": "实时判断",
@@ -256488,7 +256851,7 @@
             ]
           },
           "support": 53.15,
-          "resistance": 59.12,
+          "resistance": 59.39,
           "avg_cost": 49.55,
           "support_label": "支撑",
           "resistance_label": "压力",
@@ -256501,7 +256864,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-16 11:07:25",
+      "confirmed_at": "2026-07-16 11:15:06",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -274596,6 +274959,6 @@
       "strength_rank_score": -99.08
     }
   ],
-  "lightweight_intraday_refresh": true,
+  "lightweight_intraday_refresh": false,
   "monitor_only_intraday_refresh": true
 }
