@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20 13:30:05",
+  "generated_at": "2026-07-20 13:33:13",
   "update_stage": "noon",
   "update_stage_title": "13:30 本地5分钟实时刷新（15分钟同步）",
   "refresh_slot": "13:30",
@@ -71,39 +71,39 @@
     {
       "name": "上证指数",
       "code": "000001",
-      "price": 3786.89,
-      "change": 22.74,
-      "pct_chg": 0.6,
+      "price": 3784.55,
+      "change": 20.4,
+      "pct_chg": 0.54,
       "open": 3791.66,
       "high": 3831.66,
       "low": 3780.02,
       "pre_close": 3764.15,
-      "volume": 480030129.0,
-      "amount": 898837476260.0,
+      "volume": 489321713.0,
+      "amount": 914127680460.0,
       "status": "ok",
       "trade_date": "2026-07-20",
       "source": "XTick指数实时 + XTick分钟",
-      "realtime_time": "13:30",
-      "note": "XTick指数实时 + XTick分钟 13:30"
+      "realtime_time": "13:33",
+      "note": "XTick指数实时 + XTick分钟 13:33"
     },
     {
       "name": "中证1000",
       "code": "000852",
       "ts_code": "000852.SH",
-      "price": 6988.23,
-      "change": -179.77,
-      "pct_chg": -2.51,
+      "price": 6966.32,
+      "change": -201.68,
+      "pct_chg": -2.81,
       "open": 7256.27,
       "high": 7298.12,
-      "low": 6983.21,
+      "low": 6966.32,
       "pre_close": 7168.0,
-      "volume": 210996561.0,
-      "amount": 366652317150.0,
+      "volume": 213868289.0,
+      "amount": 371827957220.0,
       "status": "ok",
       "trade_date": "2026-07-20",
       "source": "XTick指数实时 + XTick分钟",
-      "realtime_time": "13:30",
-      "note": "XTick指数实时 + XTick分钟 13:30"
+      "realtime_time": "13:33",
+      "note": "XTick指数实时 + XTick分钟 13:33"
     },
     {
       "name": "平均股价 830000",
@@ -3012,8 +3012,8 @@
           "rank": 9
         }
       ],
-      "change": -0.88,
-      "price": 81.3,
+      "change": -0.89,
+      "price": 81.29,
       "concept_tags": [
         "中国AI 50",
         "算力租赁"
@@ -3042,8 +3042,8 @@
           "rank": 3
         }
       ],
-      "change": 11.67,
-      "price": 5.36,
+      "change": 11.04,
+      "price": 5.33,
       "concept_tags": [
         "流感",
         "医药电商"
@@ -3072,8 +3072,8 @@
           "rank": 8
         }
       ],
-      "change": -6.93,
-      "price": 81.08,
+      "change": -7.08,
+      "price": 80.95,
       "concept_tags": [
         "血氧仪",
         "天津自贸区"
@@ -3102,8 +3102,8 @@
           "rank": 5
         }
       ],
-      "change": -9.92,
-      "price": 77.47,
+      "change": -10.42,
+      "price": 77.04,
       "concept_tags": [
         "国家大基金持股",
         "存储芯片"
@@ -3162,8 +3162,8 @@
           "rank": 7
         }
       ],
-      "change": -5.2,
-      "price": 5.83,
+      "change": -5.53,
+      "price": 5.81,
       "concept_tags": [
         "电子纸",
         "MicroLED概念"
@@ -3222,8 +3222,8 @@
           "rank": 13
         }
       ],
-      "change": -2.57,
-      "price": 1002.0,
+      "change": -2.69,
+      "price": 1000.8,
       "concept_tags": [
         "共封装光学(CPO)",
         "F5G概念"
@@ -3252,8 +3252,8 @@
           "rank": 14
         }
       ],
-      "change": -13.98,
-      "price": 14.15,
+      "change": -12.89,
+      "price": 14.33,
       "concept_tags": [
         "F5G概念",
         "WiFi 6"
@@ -3312,8 +3312,8 @@
           "rank": 12
         }
       ],
-      "change": -3.43,
-      "price": 28.97,
+      "change": -3.57,
+      "price": 28.93,
       "concept_tags": [
         "WiFi 6",
         "F5G概念"
@@ -3342,8 +3342,8 @@
           "rank": 15
         }
       ],
-      "change": -8.55,
-      "price": 438.04,
+      "change": -9.0,
+      "price": 435.9,
       "concept_tags": [
         "存储芯片",
         "汽车芯片"
@@ -3462,8 +3462,8 @@
           "rank": 16
         }
       ],
-      "change": -5.74,
-      "price": 212.09,
+      "change": -6.5,
+      "price": 210.37,
       "concept_tags": [
         "共封装光学(CPO)",
         "光纤概念"
@@ -3492,8 +3492,8 @@
           "rank": 19
         }
       ],
-      "change": -6.51,
-      "price": 65.46,
+      "change": -7.3,
+      "price": 64.91,
       "concept_tags": [
         "国家大基金持股",
         "存储芯片"
@@ -3522,8 +3522,8 @@
           "rank": 28
         }
       ],
-      "change": 12.46,
-      "price": 12.64,
+      "change": 13.35,
+      "price": 12.74,
       "concept_tags": [
         "超超临界发电",
         "绿色电力"
@@ -3552,8 +3552,8 @@
           "rank": 27
         }
       ],
-      "change": 11.8,
-      "price": 6.35,
+      "change": 10.21,
+      "price": 6.26,
       "concept_tags": [
         "绿色电力",
         "风电"
@@ -3612,8 +3612,8 @@
           "rank": 48
         }
       ],
-      "change": 2.67,
-      "price": 380.58,
+      "change": 1.79,
+      "price": 377.34,
       "concept_tags": [
         "光纤概念",
         "铜缆高速连接"
@@ -3642,8 +3642,8 @@
           "rank": 82
         }
       ],
-      "change": -11.69,
-      "price": 11.11,
+      "change": -11.92,
+      "price": 11.08,
       "concept_tags": [
         "体育产业",
         "AI应用"
@@ -3672,8 +3672,8 @@
           "rank": 85
         }
       ],
-      "change": 3.98,
-      "price": 1320.5,
+      "change": 4.33,
+      "price": 1325.03,
       "concept_tags": [
         "超级品牌",
         "白酒概念"
@@ -3702,8 +3702,8 @@
           "rank": 94
         }
       ],
-      "change": 1.36,
-      "price": 20.07,
+      "change": 1.67,
+      "price": 20.13,
       "concept_tags": [
         "期货概念",
         "互联网保险"
@@ -3728,8 +3728,8 @@
           "rank": 23
         }
       ],
-      "change": 3.09,
-      "price": 99.87,
+      "change": 0.51,
+      "price": 97.37,
       "concept_tags": [
         "算力租赁",
         "英伟达概念"
@@ -3754,8 +3754,8 @@
           "rank": 17
         }
       ],
-      "change": -4.67,
-      "price": 57.57,
+      "change": -5.43,
+      "price": 57.11,
       "concept_tags": [
         "光纤概念",
         "F5G概念"
@@ -3806,8 +3806,8 @@
           "rank": 24
         }
       ],
-      "change": 8.74,
-      "price": 46.91,
+      "change": 8.95,
+      "price": 47.0,
       "concept_tags": [
         "CRO概念",
         "细胞免疫治疗"
@@ -8049,7 +8049,7 @@
         "label": "弱势回落",
         "current_state": "downtrend",
         "score": 10.0,
-        "reason": "日线收盘已明显弱于MA20 4001.15；日线均线斜率转弱；日线MACD偏弱；日线BOLL中轨承压；日线KDJ仍在低位修复区",
+        "reason": "日线收盘已明显弱于MA20 4001.03；日线均线斜率转弱；日线MACD偏弱；日线BOLL中轨承压；日线KDJ仍在低位修复区",
         "invalidation": "日线若跌破最近一根K线低点 3780.02，当前代理结构转弱。",
         "next_watch": "继续观察是否能有效站稳最近高点 3831.66 上方。",
         "center_low": 3745.17,
@@ -9742,7 +9742,7 @@
             "open": 3791.66,
             "high": 3831.66,
             "low": 3780.02,
-            "close": 3786.89
+            "close": 3784.55
           }
         ],
         "volume": [
@@ -10943,7 +10943,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 480030129.0,
+            "value": 489321713.0,
             "color": "rgba(18,128,92,0.42)"
           }
         ],
@@ -11906,7 +11906,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 3871.23
+            "value": 3870.76
           }
         ],
         "ma10": [
@@ -12868,7 +12868,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 3926.38
+            "value": 3926.15
           }
         ],
         "ma20": [
@@ -13830,7 +13830,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 4001.15
+            "value": 4001.03
           }
         ],
         "macd_dif": [
@@ -14792,7 +14792,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": -62.57
+            "value": -62.756
           }
         ],
         "macd_dea": [
@@ -15754,7 +15754,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": -36.662
+            "value": -36.7
           }
         ],
         "macd_histogram": [
@@ -16955,7 +16955,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": -51.815,
+            "value": -52.113,
             "color": "rgba(18,128,92,0.62)"
           }
         ],
@@ -18833,7 +18833,7 @@
             "open": 3791.66,
             "high": 3831.66,
             "low": 3780.02,
-            "close": 3786.89
+            "close": 3784.55
           }
         ],
         "volume": [
@@ -19354,7 +19354,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 480030129.0,
+            "value": 489321713.0,
             "color": "rgba(18,128,92,0.42)"
           }
         ],
@@ -19773,7 +19773,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 3923.62
+            "value": 3923.15
           }
         ],
         "ma10": [
@@ -20187,7 +20187,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 3994.93
+            "value": 3994.7
           }
         ],
         "ma20": [
@@ -20561,7 +20561,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 4017.03
+            "value": 4016.92
           }
         ],
         "macd_dif": [
@@ -20979,7 +20979,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": -16.941
+            "value": -17.127
           }
         ],
         "macd_dea": [
@@ -21397,7 +21397,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 24.225
+            "value": 24.188
           }
         ],
         "macd_histogram": [
@@ -21918,7 +21918,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": -82.332,
+            "value": -82.631,
             "color": "rgba(18,128,92,0.62)"
           }
         ],
@@ -22177,7 +22177,7 @@
             "open": 4090.76,
             "high": 4143.31,
             "low": 3745.17,
-            "close": 3786.89
+            "close": 3784.55
           }
         ],
         "volume": [
@@ -22298,7 +22298,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 8124998440.0,
+            "value": 8134290024.0,
             "color": "rgba(18,128,92,0.42)"
           }
         ],
@@ -22393,7 +22393,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 3990.78
+            "value": 3990.31
           }
         ],
         "ma10": [
@@ -22467,7 +22467,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 4004.69
+            "value": 4004.46
           }
         ],
         "ma20": [
@@ -22501,7 +22501,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 3734.54
+            "value": 3734.42
           }
         ],
         "macd_dif": [
@@ -22599,7 +22599,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 213.563
+            "value": 213.377
           }
         ],
         "macd_dea": [
@@ -22697,7 +22697,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": 216.294
+            "value": 216.257
           }
         ],
         "macd_histogram": [
@@ -22818,7 +22818,7 @@
           },
           {
             "time": "2026-07-20",
-            "value": -5.462,
+            "value": -5.76,
             "color": "rgba(18,128,92,0.62)"
           }
         ],
@@ -22840,17 +22840,17 @@
         ]
       },
       "support": 3745.17,
-      "resistance": 4001.15,
+      "resistance": 4001.03,
       "support_label": "支撑",
       "resistance_label": "压力",
       "note": "日K放宽到更长历史窗口，周K补足近两年，月K补足24个月；日K叠加笔、中枢、分型。"
     },
-    "current": 3786.89,
-    "pct_chg": 0.6,
+    "current": 3784.55,
+    "pct_chg": 0.54,
     "support": 3745.17,
-    "pressure": 4001.15,
-    "ma20": 4001.15,
-    "ma60": 4070.81,
+    "pressure": 4001.03,
+    "ma20": 4001.03,
+    "ma60": 4070.77,
     "platform_low": 4000,
     "platform_high": 4100,
     "recent_low": 3745.17,
@@ -22869,37 +22869,37 @@
     "index_score": 2.0,
     "active_score": 5.0,
     "news_score": 6.0,
-    "market_score": 3.7,
+    "market_score": 3.6,
     "risk_bias": "高",
     "composite": "大盘弱于20日线，优先防守和等待确认；活跃市值偏历史参考；消息面中性偏观察；外围影响暂不可用。",
     "external_label": "暂不可用",
     "external_summary": "外围指数整体波动有限，次日A股仍以自身主线强弱、成交量和竞价承接为主。",
-    "summary": "大盘位置：弱于20日线，优先防守和等待确认；市场环境分3.7，风险偏高；建议总仓位控制在三成左右，优先围绕主线强度和回踩确认做分批。"
+    "summary": "大盘位置：弱于20日线，优先防守和等待确认；市场环境分3.6，风险偏高；建议总仓位控制在三成左右，优先围绕主线强度和回踩确认做分批。"
   },
   "market_live_monitor": {
     "status": "ok",
     "source": "同花顺问财广度 + XTick分钟",
-    "time": "2026-07-20 13:30:05",
+    "time": "2026-07-20 13:33:13",
     "trade_date": "2026-07-20",
-    "data_time": "13:30",
-    "data_label": "今日2026-07-20 13:30",
+    "data_time": "13:33",
+    "data_label": "今日2026-07-20 13:33",
     "is_stale": false,
     "breadth": {
       "status": "ok",
       "source": "同花顺问财实时",
       "trade_date": "2026-07-20",
-      "cached_at": "2026-07-20 13:30:52",
+      "cached_at": "2026-07-20 13:33:53",
       "index_name": "同花顺全A(沪深京)",
-      "index_price": 1684.78,
-      "index_pct_chg": -1.61,
-      "up_count": 1933,
+      "index_price": 1679.07,
+      "index_pct_chg": -1.94,
+      "up_count": 1891,
       "down_count": 3469,
-      "limit_up_count": 55,
-      "limit_down_count": 108,
-      "net_in_count": 2930,
-      "net_out_count": 2400,
-      "breadth_ratio": 35.8,
-      "flow_ratio": 1.22,
+      "limit_up_count": 54,
+      "limit_down_count": 120,
+      "net_in_count": 2879,
+      "net_out_count": 2456,
+      "breadth_ratio": 35.3,
+      "flow_ratio": 1.17,
       "queries": [
         {
           "query": "A股上涨家数",
@@ -24792,34 +24792,70 @@
           "amount": 4065263620.0,
           "cum_volume": 480030129.0,
           "cum_amount": 898837476260.0
+        },
+        {
+          "minute": "1331",
+          "time": "13:31",
+          "price": 3787.2,
+          "open": 3785.4,
+          "high": 3789.31,
+          "low": 3785.4,
+          "volume": 2512288.0,
+          "amount": 4538105900.0,
+          "cum_volume": 482542417.0,
+          "cum_amount": 903375582160.0
+        },
+        {
+          "minute": "1332",
+          "time": "13:32",
+          "price": 3785.63,
+          "open": 3787.7,
+          "high": 3787.71,
+          "low": 3785.57,
+          "volume": 3898720.0,
+          "amount": 5629476900.0,
+          "cum_volume": 486441137.0,
+          "cum_amount": 909005059060.0
+        },
+        {
+          "minute": "1333",
+          "time": "13:33",
+          "price": 3784.28,
+          "open": 3785.85,
+          "high": 3786.85,
+          "low": 3784.13,
+          "volume": 2880576.0,
+          "amount": 5122621400.0,
+          "cum_volume": 489321713.0,
+          "cum_amount": 914127680460.0
         }
       ],
-      "last_time": "13:30",
-      "last_price": 3785.72
+      "last_time": "13:33",
+      "last_price": 3784.28
     },
     "minute_features": {
-      "latest_time": "13:30",
-      "latest_price": 3785.72,
-      "latest_vwap": 18.72,
+      "latest_time": "13:33",
+      "latest_price": 3784.28,
+      "latest_vwap": 18.68,
       "opening_low": 3791.66,
       "opening_low_time": "09:30",
       "opening_low_window_minutes": 5,
       "day_low": 3780.02,
       "day_low_time": "10:36",
       "morning_low": 3780.02,
-      "afternoon_low": 3785.72,
+      "afternoon_low": 3784.28,
       "afternoon_high": 3807.36,
       "regained_vwap": true,
       "below_then_regain_vwap": false,
       "last_below_vwap_time": null,
       "holding_opening_low": false,
       "holding_day_low": false,
-      "volume_rebound_15m": false,
-      "volume_rebound_5m": false,
-      "avg_delta_volume_15m": 2089988.0,
-      "prev_delta_volume_15m": 2323490.0,
-      "avg_delta_volume_5m": 2167437.0,
-      "prev_delta_volume_5m": 1937203.0,
+      "volume_rebound_15m": true,
+      "volume_rebound_5m": true,
+      "avg_delta_volume_15m": 2271829.0,
+      "prev_delta_volume_15m": 2042995.0,
+      "avg_delta_volume_5m": 2677568.0,
+      "prev_delta_volume_5m": 2069920.0,
       "rows": [
         {
           "minute": "0926",
@@ -26370,6 +26406,36 @@
           "delta_volume": 2217280.0,
           "delta_amount": 4065263620.0,
           "vwap": 18.724605435339246
+        },
+        {
+          "minute": "1331",
+          "time": "13:31",
+          "price": 3787.2,
+          "cum_volume": 482542417.0,
+          "cum_amount": 903375582160.0,
+          "delta_volume": 2512288.0,
+          "delta_amount": 4538105900.0,
+          "vwap": 18.721164198918498
+        },
+        {
+          "minute": "1332",
+          "time": "13:32",
+          "price": 3785.63,
+          "cum_volume": 486441137.0,
+          "cum_amount": 909005059060.0,
+          "delta_volume": 3898720.0,
+          "delta_amount": 5629476900.0,
+          "vwap": 18.686845949461713
+        },
+        {
+          "minute": "1333",
+          "time": "13:33",
+          "price": 3784.28,
+          "cum_volume": 489321713.0,
+          "cum_amount": 914127680460.0,
+          "delta_volume": 2880576.0,
+          "delta_amount": 5122621400.0,
+          "vwap": 18.681527023510604
         }
       ]
     },
@@ -26677,12 +26743,12 @@
       {
         "label": "13:30-13:35",
         "open": 3785.72,
-        "close": 3785.72,
-        "high": 3785.72,
-        "low": 3785.72,
-        "pct_chg": 0.0,
-        "volume": 2217280.0,
-        "amount": 4065263620.0
+        "close": 3784.28,
+        "high": 3787.2,
+        "low": 3784.28,
+        "pct_chg": -0.04,
+        "volume": 11508864.0,
+        "amount": 19355467820.0
       }
     ],
     "bars_5m": [
@@ -26989,12 +27055,12 @@
       {
         "label": "13:30-13:35",
         "open": 3785.72,
-        "close": 3785.72,
-        "high": 3785.72,
-        "low": 3785.72,
-        "pct_chg": 0.0,
-        "volume": 2217280.0,
-        "amount": 4065263620.0
+        "close": 3784.28,
+        "high": 3787.2,
+        "low": 3784.28,
+        "pct_chg": -0.04,
+        "volume": 11508864.0,
+        "amount": 19355467820.0
       }
     ],
     "auction_sector": {
@@ -27557,14 +27623,14 @@
     "refresh_phase": "intraday_rolling",
     "phase_title": "13:30 本地5分钟实时刷新（15分钟同步）",
     "intraday_label": "5分钟承接",
-    "breadth_line": "今日2026-07-20 13:30，上证3785.72（较开盘-0.16%）；上涨1933家，下跌3469家，涨停55家，跌停108家，主力净流入2930家，净流出2400家。",
+    "breadth_line": "今日2026-07-20 13:33，上证3784.28（较开盘-0.19%）；上涨1891家，下跌3469家，涨停54家，跌停120家，主力净流入2879家，净流出2456家。",
     "verdict": "承接一般偏弱",
     "structure_note": "盘中结构仍需观察。",
-    "intraday_note": "5分钟节奏：09:30-09:35 +0.42%，13:30-13:35 0.00%；近两段分别为 13:25-13:30 +0.03%、13:30-13:35 0.00%；自日内低点回拉 0.15%；当前较开盘 -0.16%",
+    "intraday_note": "5分钟节奏：09:30-09:35 +0.42%，13:30-13:35 -0.04%；近两段分别为 13:25-13:30 +0.03%、13:30-13:35 -0.04%；自日内低点回拉 0.11%；当前较开盘 -0.19%",
     "action": "指数虽有回拉，但市场广度仍差；仓位以收缩为主，只留最强主线和明显承接票。",
-    "summary": "今日2026-07-20 13:30，上证3785.72（较开盘-0.16%）；上涨1933家，下跌3469家，涨停55家，跌停108家，主力净流入2930家，净流出2400家。；盘中结构仍需观察。；指数虽有回拉，但市场广度仍差；仓位以收缩为主，只留最强主线和明显承接票。",
+    "summary": "今日2026-07-20 13:33，上证3784.28（较开盘-0.19%）；上涨1891家，下跌3469家，涨停54家，跌停120家，主力净流入2879家，净流出2456家。；盘中结构仍需观察。；指数虽有回拉，但市场广度仍差；仓位以收缩为主，只留最强主线和明显承接票。",
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -27577,11 +27643,11 @@
         {
           "line_name": "算力租赁",
           "risk_level": "high",
-          "risk_score_100": 88.8,
+          "risk_score_100": 89.5,
           "crowded_label": "明显承压",
           "crowded_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
           "external_label": "明显承压",
-          "external_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "external_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
         },
         {
@@ -27591,7 +27657,7 @@
           "crowded_label": "明显承压",
           "crowded_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
           "external_label": "明显承压",
-          "external_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "external_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
         },
         {
@@ -27601,14 +27667,14 @@
           "crowded_label": "明显承压",
           "crowded_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
           "external_label": "明显承压",
-          "external_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "external_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
         }
       ],
-      "confirmed_at": "2026-07-20 13:30:05",
-      "korea_confirmed_at": "2026-07-20 13:30:00",
+      "confirmed_at": "2026-07-20 13:33:13",
+      "korea_confirmed_at": "2026-07-20 13:33:00",
       "freshness_meta": {
-        "confirmed_at": "2026-07-20 13:30:05",
+        "confirmed_at": "2026-07-20 13:33:13",
         "scope": "盘中判断",
         "mode": "live",
         "mode_label": "实时判断",
@@ -27620,9 +27686,9 @@
       "status": "empty",
       "summary": "当前概念池里，暂未看到同时具备前排强度、概念扩散和资金进场的异动板块。",
       "items": [],
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "freshness_meta": {
-        "confirmed_at": "2026-07-20 13:30:05",
+        "confirmed_at": "2026-07-20 13:33:13",
         "scope": "盘中判断",
         "mode": "live",
         "mode_label": "实时判断",
@@ -27633,42 +27699,42 @@
   },
   "market_decision": {
     "status": "ok",
-    "score": 45,
-    "mode": "PULLBACK_ONLY",
-    "mode_label": "只做回踩",
+    "score": 44,
+    "mode": "RISK_OFF",
+    "mode_label": "防守等待",
     "headline": "主线高风险共振，今日新开仓关闭",
-    "summary": "市场总分45，模式为只做回踩；低吸权限关闭，追涨权限关闭，加仓权限关闭。",
+    "summary": "市场总分44，模式为防守等待；低吸权限关闭，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限关闭，追涨权限关闭，加仓权限关闭。",
     "position_advice": "三成左右",
     "dimensions": [
       {
         "name": "趋势",
-        "score": 13.6,
+        "score": 13.4,
         "max": 40,
-        "note": "指数+0.60%，MA20 4001.15，MA60 4070.81。"
+        "note": "指数+0.54%，MA20 4001.03，MA60 4070.77。"
       },
       {
         "name": "宽度",
-        "score": 12.6,
+        "score": 12.5,
         "max": 20,
-        "note": "上涨1933家、下跌3469家，宽度偏弱。"
+        "note": "上涨1891家、下跌3469家，宽度偏弱。"
       },
       {
         "name": "宽度动量",
-        "score": 6.2,
+        "score": 6.1,
         "max": 15,
-        "note": "5分钟上涨段11/31，最近一段0.00%。"
+        "note": "5分钟上涨段11/31，最近一段-0.04%。"
       },
       {
         "name": "资金",
-        "score": 8.2,
+        "score": 7.9,
         "max": 15,
-        "note": "活跃分5分，净流入/流出比1.22"
+        "note": "活跃分5分，净流入/流出比1.17"
       },
       {
         "name": "情绪",
-        "score": 4.3,
+        "score": 4.2,
         "max": 10,
-        "note": "涨停55家、跌停108家，最高3板，高位连板3只。"
+        "note": "涨停54家、跌停120家，最高3板，高位连板3只。"
       }
     ],
     "permissions": {
@@ -27730,25 +27796,25 @@
     "blocks_new_entries": false,
     "degraded": false,
     "slot": "13:30",
-    "time": "2026-07-20 13:30:05",
+    "time": "2026-07-20 13:33:13",
     "trade_date": "2026-07-20",
     "breadth": {
-      "up_count": 1933,
+      "up_count": 1891,
       "down_count": 3469,
-      "limit_up_count": 55,
-      "limit_down_count": 108,
-      "breadth_ratio": 35.8
+      "limit_up_count": 54,
+      "limit_down_count": 120,
+      "breadth_ratio": 35.3
     },
     "indices": {
       "sh": {
         "name": "上证指数",
-        "price": 3786.89,
-        "pct_chg": 0.6
+        "price": 3784.55,
+        "pct_chg": 0.54
       },
       "csi1000": {
         "name": "中证1000",
-        "price": 6988.23,
-        "pct_chg": -2.51
+        "price": 6966.32,
+        "pct_chg": -2.81
       },
       "average": {
         "name": "平均股价 830000",
@@ -27769,16 +27835,16 @@
       "summary": "共封装光学(CPO) 存储芯片"
     },
     "evidence": [
-      "宽度：上涨1933家 / 下跌3469家，占比35.8%",
-      "情绪：涨停55家 / 跌停108家",
-      "指数：上证+0.60%，中证1000-2.51%，平均股价-7.46%",
-      "5分钟：开盘段+0.42%，最近段0.00%",
+      "宽度：上涨1891家 / 下跌3469家，占比35.3%",
+      "情绪：涨停54家 / 跌停120家",
+      "指数：上证+0.54%，中证1000-2.81%，平均股价-7.46%",
+      "5分钟：开盘段+0.42%，最近段-0.04%",
       "主线：共封装光学(CPO)，强度5.6，逆势承接不足",
-      "上涨家数占比仅35.8%",
+      "上涨家数占比仅35.3%",
+      "下跌3469家显著多于上涨1891家",
       "上证/中证1000/平均股价多数为负",
       "中证1000弱于上证，小票风险更大",
-      "跌停108家，亏钱效应抬升",
-      "主线承接不清晰"
+      "跌停120家，亏钱效应抬升"
     ],
     "source": "问财市场宽度 + XTick指数/中证1000 + 现有主线承接",
     "snapshot_state": {
@@ -29060,13 +29126,13 @@
         "indices": {
           "sh": {
             "name": "上证指数",
-            "price": 3786.89,
-            "pct_chg": 0.6
+            "price": 3784.55,
+            "pct_chg": 0.54
           },
           "csi1000": {
             "name": "中证1000",
-            "price": 6988.23,
-            "pct_chg": -2.51
+            "price": 6966.32,
+            "pct_chg": -2.81
           },
           "average": {
             "name": "平均股价 830000",
@@ -29077,7 +29143,7 @@
         "evidence": [
           "宽度：上涨4075家 / 下跌1271家，占比76.2%",
           "情绪：涨停27家 / 跌停18家",
-          "指数：上证+0.60%，中证1000-2.51%，平均股价-7.46%",
+          "指数：上证+0.54%，中证1000-2.81%，平均股价-7.46%",
           "5分钟：开盘段+0.42%，最近段-0.21%",
           "主线：共封装光学(CPO)，强度5.6，逆势承接不足",
           "主线承接不清晰"
@@ -29093,7 +29159,7 @@
           ],
           "summary": "共封装光学(CPO) 存储芯片"
         },
-        "reason_summary": "宽度：上涨4075家 / 下跌1271家，占比76.2%；情绪：涨停27家 / 跌停18家；指数：上证+0.60%，中证1000-2.51%，平均股价-7.46%",
+        "reason_summary": "宽度：上涨4075家 / 下跌1271家，占比76.2%；情绪：涨停27家 / 跌停18家；指数：上证+0.54%，中证1000-2.81%，平均股价-7.46%",
         "degraded": false
       },
       {
@@ -29383,7 +29449,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -29401,7 +29467,7 @@
         "index_code": "VIRTUAL:算力租赁",
         "data_mode": "virtual_basket",
         "index_access_note": "",
-        "risk_score_100": 88.8,
+        "risk_score_100": 89.5,
         "risk_level": "high",
         "auction_risk": {
           "score_100": 0,
@@ -30182,18 +30248,18 @@
           }
         },
         "crowded_unwind_risk": {
-          "score_100": 96,
+          "score_100": 100,
           "status": "ok",
-          "summary": "分时样本 10 只，跌回VWAP 90% ，跌破前5分钟低点 80% ，5分钟看跌 70% 。",
+          "summary": "分时样本 10 只，跌回VWAP 100% ，跌破前5分钟低点 80% ，5分钟看跌 80% 。",
           "signals": [
             "主线内多数样本跌回VWAP下方",
             "主线内前5分钟低点失守扩散",
             "主线内5分钟看跌快速扩散"
           ],
           "sample_count": 10,
-          "below_vwap_ratio": 90.0,
+          "below_vwap_ratio": 100.0,
           "break_opening_low_ratio": 80.0,
-          "m5_bearish_ratio": 70.0
+          "m5_bearish_ratio": 80.0
         },
         "crowded_unwind_signals": [
           "主线内多数样本跌回VWAP下方",
@@ -30203,16 +30269,16 @@
         "external_link_risk": {
           "score_100": 88,
           "status": "ok",
-          "summary": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "summary": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "signals": [
             "KOSPI/KOSDAQ同步走弱",
             "韩国芯片龙头同步大跌",
             "韩国大盘与芯片龙头同向走弱"
           ],
           "state": "high",
-          "confirmed_at": "2026-07-20 13:30:00"
+          "confirmed_at": "2026-07-20 13:33:00"
         },
-        "external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "risk_signals": [
           "竞价分化，中性偏观察",
           "收盘明显弱于MA20 152.77；MA20斜率未转弱；MACD保持偏多；BOLL中轨承压；KDJ偏低位",
@@ -30224,7 +30290,7 @@
           "A/D短期下穿中期"
         ],
         "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱",
-        "summary": "算力租赁 风险 88.8 分，竞价 0 / 周线 74 / 日线 100 / 资金 92 / 缠论 76 / 同步撤退 96 / 韩股联动 88。",
+        "summary": "算力租赁 风险 89.5 分，竞价 0 / 周线 74 / 日线 100 / 资金 92 / 缠论 76 / 同步撤退 100 / 韩股联动 88。",
         "score_basis": "可用分项归一加权：竞价、日线、周线、资金、缠论；同步撤退+韩股联动双重风险门槛触发",
         "available_risk_components": [
           "auction",
@@ -30233,7 +30299,7 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-20 13:30:05",
+        "confirmed_at": "2026-07-20 13:33:13",
         "mainline_score": 3.9,
         "proxy_sample_count": 10
       },
@@ -30843,16 +30909,16 @@
         "external_link_risk": {
           "score_100": 88,
           "status": "ok",
-          "summary": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "summary": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "signals": [
             "KOSPI/KOSDAQ同步走弱",
             "韩国芯片龙头同步大跌",
             "韩国大盘与芯片龙头同向走弱"
           ],
           "state": "high",
-          "confirmed_at": "2026-07-20 13:30:00"
+          "confirmed_at": "2026-07-20 13:33:00"
         },
-        "external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "risk_signals": [
           "竞价主线样本不足",
           "收盘明显弱于MA20 177.90；MA5/MA10/MA20偏多排列；MACD保持偏多；BOLL中轨承压；KDJ偏低位",
@@ -31617,7 +31683,7 @@
         "crowded_unwind_risk": {
           "score_100": 100,
           "status": "ok",
-          "summary": "分时样本 10 只，跌回VWAP 100% ，跌破前5分钟低点 90% ，5分钟看跌 80% 。",
+          "summary": "分时样本 10 只，跌回VWAP 100% ，跌破前5分钟低点 90% ，5分钟看跌 90% 。",
           "signals": [
             "主线内多数样本跌回VWAP下方",
             "主线内前5分钟低点失守扩散",
@@ -31626,7 +31692,7 @@
           "sample_count": 10,
           "below_vwap_ratio": 100.0,
           "break_opening_low_ratio": 90.0,
-          "m5_bearish_ratio": 80.0
+          "m5_bearish_ratio": 90.0
         },
         "crowded_unwind_signals": [
           "主线内多数样本跌回VWAP下方",
@@ -31636,16 +31702,16 @@
         "external_link_risk": {
           "score_100": 88,
           "status": "ok",
-          "summary": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "summary": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "signals": [
             "KOSPI/KOSDAQ同步走弱",
             "韩国芯片龙头同步大跌",
             "韩国大盘与芯片龙头同向走弱"
           ],
           "state": "high",
-          "confirmed_at": "2026-07-20 13:30:00"
+          "confirmed_at": "2026-07-20 13:33:00"
         },
-        "external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "risk_signals": [
           "竞价分化，中性偏观察",
           "收盘明显弱于MA20 172.04；MA5/MA10/MA20偏多排列；MACD保持偏多；BOLL中轨承压；KDJ偏低位",
@@ -31666,7 +31732,7 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-20 13:30:05",
+        "confirmed_at": "2026-07-20 13:33:13",
         "mainline_score": 4.1,
         "proxy_sample_count": 23
       }
@@ -31704,9 +31770,9 @@
         "note": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
       }
     },
-    "confirmed_at": "2026-07-20 13:30:05",
+    "confirmed_at": "2026-07-20 13:33:13",
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "主线风险",
       "mode": "live",
       "mode_label": "实时判断",
@@ -31720,11 +31786,11 @@
       {
         "line_name": "算力租赁",
         "risk_level": "high",
-        "risk_score_100": 88.8,
+        "risk_score_100": 89.5,
         "crowded_label": "明显承压",
         "crowded_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
         "external_label": "明显承压",
-        "external_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
       },
       {
@@ -31734,7 +31800,7 @@
         "crowded_label": "明显承压",
         "crowded_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
         "external_label": "明显承压",
-        "external_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
       },
       {
@@ -31744,14 +31810,14 @@
         "crowded_label": "明显承压",
         "crowded_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
         "external_label": "明显承压",
-        "external_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱"
       }
     ],
-    "confirmed_at": "2026-07-20 13:30:05",
-    "korea_confirmed_at": "2026-07-20 13:30:00",
+    "confirmed_at": "2026-07-20 13:33:13",
+    "korea_confirmed_at": "2026-07-20 13:33:00",
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -31762,7 +31828,7 @@
   "mainline_drive_confirmation": {
     "title": "板块带动确认",
     "trade_date": "2026-07-20",
-    "confirmed_at": "2026-07-20 13:30:05",
+    "confirmed_at": "2026-07-20 13:33:13",
     "refresh_minutes": 5,
     "identity_window_minutes": 30,
     "summary": "每5分钟刷新，龙头身份按滚动30分钟强度、VWAP承接、封板高度、成交容量和板块跟随综合确认；达到70分才列为龙头。医疗主线合并医药、器械、服务及相关分支；页面不使用风险门禁隐藏龙头，已识别龙头独立获得低吸2分（日内榜+0.2分）。",
@@ -31778,68 +31844,68 @@
         ],
         "line_score": 5.1,
         "sample_count": 7,
-        "line_avg_pct": -1.39,
-        "line_slope_30m_pct": -1.27,
+        "line_avg_pct": -1.66,
+        "line_slope_30m_pct": -1.74,
         "up_count": 2,
         "slope_up_count": 0,
         "leaders": [],
         "samples": [
           {
-            "code": "603629.SH",
-            "pct_chg": 3.09,
+            "code": "300738.SZ",
+            "pct_chg": 1.32,
             "slope_5m_pct": 0.0,
-            "slope_30m_pct": 0.0,
+            "slope_30m_pct": -0.77,
             "display_concept": "算力租赁",
             "display_industry": "算力租赁",
             "industry": "算力租赁"
           },
           {
-            "code": "300738.SZ",
-            "pct_chg": 0.83,
-            "slope_5m_pct": 0.15,
-            "slope_30m_pct": -1.1,
+            "code": "603629.SH",
+            "pct_chg": 1.22,
+            "slope_5m_pct": -1.81,
+            "slope_30m_pct": -1.81,
             "display_concept": "算力租赁",
             "display_industry": "算力租赁",
             "industry": "算力租赁"
           },
           {
             "code": "000977.SZ",
-            "pct_chg": -0.99,
-            "slope_5m_pct": -0.59,
-            "slope_30m_pct": -1.12,
+            "pct_chg": -0.8,
+            "slope_5m_pct": -0.53,
+            "slope_30m_pct": -1.5,
             "display_concept": "算力租赁",
             "display_industry": "算力租赁",
             "industry": "算力租赁"
           },
           {
             "code": "000938.SZ",
-            "pct_chg": -2.15,
-            "slope_5m_pct": -0.26,
-            "slope_30m_pct": -1.05,
+            "pct_chg": -2.05,
+            "slope_5m_pct": -0.55,
+            "slope_30m_pct": -2.15,
             "display_concept": "算力租赁",
             "display_industry": "算力租赁",
             "industry": "算力租赁"
           },
           {
             "code": "601138.SH",
-            "pct_chg": -3.84,
-            "slope_5m_pct": -0.35,
-            "slope_30m_pct": -1.67,
+            "pct_chg": -3.92,
+            "slope_5m_pct": -0.75,
+            "slope_30m_pct": -1.84,
             "display_concept": "CPO",
             "display_industry": "CPO",
             "industry": "CPO"
           },
           {
             "code": "002335.SZ",
-            "pct_chg": -2.51,
-            "slope_5m_pct": -0.14,
-            "slope_30m_pct": -1.5
+            "pct_chg": -2.67,
+            "slope_5m_pct": -0.61,
+            "slope_30m_pct": -1.63
           },
           {
             "code": "000967.SZ",
-            "pct_chg": -4.16,
-            "slope_5m_pct": -0.42,
-            "slope_30m_pct": -2.46
+            "pct_chg": -4.69,
+            "slope_5m_pct": -1.11,
+            "slope_30m_pct": -2.47
           }
         ]
       },
@@ -31850,8 +31916,8 @@
         ],
         "line_score": 5.7,
         "sample_count": 9,
-        "line_avg_pct": -6.43,
-        "line_slope_30m_pct": -1.22,
+        "line_avg_pct": -6.53,
+        "line_slope_30m_pct": -1.18,
         "up_count": 0,
         "slope_up_count": 0,
         "leaders": [],
@@ -31859,17 +31925,17 @@
           {
             "code": "300308.SZ",
             "pct_chg": -2.56,
-            "slope_5m_pct": -0.4,
-            "slope_30m_pct": -0.77,
+            "slope_5m_pct": -0.39,
+            "slope_30m_pct": -0.48,
             "display_concept": "CPO",
             "display_industry": "CPO",
             "industry": "CPO"
           },
           {
             "code": "300502.SZ",
-            "pct_chg": -2.91,
-            "slope_5m_pct": -0.74,
-            "slope_30m_pct": -0.7,
+            "pct_chg": -2.94,
+            "slope_5m_pct": -0.43,
+            "slope_30m_pct": -0.51,
             "display_concept": "CPO",
             "display_industry": "CPO",
             "industry": "CPO"
@@ -31878,7 +31944,7 @@
             "code": "002281.SZ",
             "pct_chg": -8.33,
             "slope_5m_pct": 0.0,
-            "slope_30m_pct": 0.0,
+            "slope_30m_pct": -0.01,
             "display_concept": "CPO",
             "display_industry": "CPO",
             "industry": "CPO"
@@ -31893,43 +31959,43 @@
             "industry": "CPO"
           },
           {
+            "code": "002384.SZ",
+            "pct_chg": -10.0,
+            "slope_5m_pct": 0.0,
+            "slope_30m_pct": -0.39,
+            "display_concept": "CPO",
+            "display_industry": "CPO",
+            "industry": "CPO"
+          },
+          {
             "code": "300394.SZ",
-            "pct_chg": -6.0,
-            "slope_5m_pct": -0.8,
-            "slope_30m_pct": -1.74,
+            "pct_chg": -6.36,
+            "slope_5m_pct": -1.02,
+            "slope_30m_pct": -2.07,
             "display_concept": "CPO",
             "display_industry": "CPO",
             "industry": "CPO"
           },
           {
             "code": "000938.SZ",
-            "pct_chg": -2.15,
-            "slope_5m_pct": -0.26,
-            "slope_30m_pct": -1.05,
+            "pct_chg": -2.05,
+            "slope_5m_pct": -0.55,
+            "slope_30m_pct": -2.15,
             "display_concept": "算力租赁",
             "display_industry": "算力租赁",
             "industry": "算力租赁"
           },
           {
-            "code": "002384.SZ",
-            "pct_chg": -10.0,
-            "slope_5m_pct": -0.12,
-            "slope_30m_pct": -0.87,
-            "display_concept": "CPO",
-            "display_industry": "CPO",
-            "industry": "CPO"
-          },
-          {
             "code": "002025.SZ",
-            "pct_chg": -4.79,
-            "slope_5m_pct": -0.39,
-            "slope_30m_pct": -2.35
+            "pct_chg": -5.17,
+            "slope_5m_pct": -0.58,
+            "slope_30m_pct": -1.94
           },
           {
             "code": "000021.SZ",
-            "pct_chg": -11.11,
-            "slope_5m_pct": -0.81,
-            "slope_30m_pct": -3.51,
+            "pct_chg": -11.34,
+            "slope_5m_pct": -1.06,
+            "slope_30m_pct": -3.04,
             "display_concept": "存储芯片",
             "display_industry": "存储芯片",
             "industry": "存储芯片"
@@ -31943,8 +32009,8 @@
         ],
         "line_score": 4.4,
         "sample_count": 12,
-        "line_avg_pct": -7.22,
-        "line_slope_30m_pct": -2.71,
+        "line_avg_pct": -7.58,
+        "line_slope_30m_pct": -2.6,
         "up_count": 0,
         "slope_up_count": 0,
         "leaders": [],
@@ -31960,18 +32026,9 @@
           },
           {
             "code": "002396.SZ",
-            "pct_chg": -3.43,
-            "slope_5m_pct": -0.21,
-            "slope_30m_pct": -3.3,
-            "display_concept": "存储芯片",
-            "display_industry": "存储芯片",
-            "industry": "存储芯片"
-          },
-          {
-            "code": "600487.SH",
-            "pct_chg": -4.95,
-            "slope_5m_pct": -0.98,
-            "slope_30m_pct": -1.46,
+            "pct_chg": -3.5,
+            "slope_5m_pct": -0.75,
+            "slope_30m_pct": -2.98,
             "display_concept": "存储芯片",
             "display_industry": "存储芯片",
             "industry": "存储芯片"
@@ -31980,73 +32037,82 @@
             "code": "002185.SZ",
             "pct_chg": -9.41,
             "slope_5m_pct": 0.0,
-            "slope_30m_pct": -2.15,
+            "slope_30m_pct": -1.17,
+            "display_concept": "存储芯片",
+            "display_industry": "存储芯片",
+            "industry": "存储芯片"
+          },
+          {
+            "code": "600487.SH",
+            "pct_chg": -5.28,
+            "slope_5m_pct": -1.14,
+            "slope_30m_pct": -1.24,
             "display_concept": "存储芯片",
             "display_industry": "存储芯片",
             "industry": "存储芯片"
           },
           {
             "code": "002156.SZ",
-            "pct_chg": -6.4,
-            "slope_5m_pct": -0.64,
-            "slope_30m_pct": -4.1,
+            "pct_chg": -7.14,
+            "slope_5m_pct": -2.06,
+            "slope_30m_pct": -4.76,
             "display_concept": "存储芯片",
             "display_industry": "存储芯片",
             "industry": "存储芯片"
           },
           {
             "code": "600584.SH",
-            "pct_chg": -9.87,
-            "slope_5m_pct": -0.64,
-            "slope_30m_pct": -3.08,
+            "pct_chg": -10.42,
+            "slope_5m_pct": -1.27,
+            "slope_30m_pct": -3.29,
             "display_concept": "存储芯片",
             "display_industry": "存储芯片",
             "industry": "存储芯片"
           },
           {
             "code": "300661.SZ",
-            "pct_chg": -4.76,
-            "slope_5m_pct": -0.71,
-            "slope_30m_pct": -2.0,
+            "pct_chg": -5.18,
+            "slope_5m_pct": -1.25,
+            "slope_30m_pct": -2.01,
             "display_concept": "存储芯片",
             "display_industry": "存储芯片",
             "industry": "存储芯片"
           },
           {
             "code": "301269.SZ",
-            "pct_chg": -5.71,
-            "slope_5m_pct": 0.61,
-            "slope_30m_pct": -2.42
+            "pct_chg": -5.99,
+            "slope_5m_pct": -0.74,
+            "slope_30m_pct": -2.38
           },
           {
             "code": "300604.SZ",
-            "pct_chg": -8.51,
-            "slope_5m_pct": -1.37,
-            "slope_30m_pct": -3.96,
+            "pct_chg": -8.93,
+            "slope_5m_pct": -1.75,
+            "slope_30m_pct": -3.64,
             "display_concept": "存储芯片",
             "display_industry": "存储芯片",
             "industry": "存储芯片"
           },
           {
             "code": "603986.SH",
-            "pct_chg": -8.48,
-            "slope_5m_pct": -0.79,
-            "slope_30m_pct": -2.72,
+            "pct_chg": -8.97,
+            "slope_5m_pct": -1.26,
+            "slope_30m_pct": -2.56,
             "display_concept": "存储芯片",
             "display_industry": "存储芯片",
             "industry": "存储芯片"
           },
           {
             "code": "300223.SZ",
-            "pct_chg": -9.88,
-            "slope_5m_pct": -0.62,
-            "slope_30m_pct": -3.27
+            "pct_chg": -10.33,
+            "slope_5m_pct": -0.88,
+            "slope_30m_pct": -2.8
           },
           {
             "code": "688729.SH",
-            "pct_chg": -15.3,
-            "slope_5m_pct": -0.65,
-            "slope_30m_pct": -4.01
+            "pct_chg": -15.78,
+            "slope_5m_pct": -1.38,
+            "slope_30m_pct": -4.33
           }
         ]
       },
@@ -32057,21 +32123,12 @@
         ],
         "line_score": 2.0,
         "sample_count": 7,
-        "line_avg_pct": -7.79,
-        "line_slope_30m_pct": -0.38,
+        "line_avg_pct": -7.82,
+        "line_slope_30m_pct": -0.35,
         "up_count": 0,
         "slope_up_count": 0,
         "leaders": [],
         "samples": [
-          {
-            "code": "000100.SZ",
-            "pct_chg": -0.2,
-            "slope_5m_pct": 0.0,
-            "slope_30m_pct": -0.6,
-            "display_concept": "PCB",
-            "display_industry": "PCB",
-            "industry": "PCB"
-          },
           {
             "code": "301217.SZ",
             "pct_chg": -8.34,
@@ -32080,6 +32137,15 @@
             "display_concept": "PET铜箔",
             "display_industry": "PET铜箔",
             "industry": "PET铜箔"
+          },
+          {
+            "code": "000100.SZ",
+            "pct_chg": -0.4,
+            "slope_5m_pct": -0.2,
+            "slope_30m_pct": -0.8,
+            "display_concept": "PCB",
+            "display_industry": "PCB",
+            "industry": "PCB"
           },
           {
             "code": "002636.SZ",
@@ -32091,19 +32157,19 @@
             "industry": "PCB"
           },
           {
+            "code": "002384.SZ",
+            "pct_chg": -10.0,
+            "slope_5m_pct": 0.0,
+            "slope_30m_pct": -0.39,
+            "display_concept": "CPO",
+            "display_industry": "CPO",
+            "industry": "CPO"
+          },
+          {
             "code": "001314.SZ",
             "pct_chg": -5.51,
             "slope_5m_pct": 0.0,
             "slope_30m_pct": 0.0
-          },
-          {
-            "code": "002384.SZ",
-            "pct_chg": -10.0,
-            "slope_5m_pct": -0.12,
-            "slope_30m_pct": -0.87,
-            "display_concept": "CPO",
-            "display_industry": "CPO",
-            "industry": "CPO"
           },
           {
             "code": "002552.SZ",
@@ -32113,9 +32179,9 @@
           },
           {
             "code": "002463.SZ",
-            "pct_chg": -11.7,
-            "slope_5m_pct": -0.45,
-            "slope_30m_pct": -1.18,
+            "pct_chg": -11.75,
+            "slope_5m_pct": -0.2,
+            "slope_30m_pct": -1.24,
             "display_concept": "PCB",
             "display_industry": "PCB",
             "industry": "PCB"
@@ -32124,7 +32190,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -32136,9 +32202,9 @@
     "status": "empty",
     "summary": "当前概念池里，暂未看到同时具备前排强度、概念扩散和资金进场的异动板块。",
     "items": [],
-    "confirmed_at": "2026-07-20 13:30:05",
+    "confirmed_at": "2026-07-20 13:33:13",
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -32148,12 +32214,12 @@
   },
   "breaking_news_opportunities": {
     "title": "突发消息机会",
-    "confirmed_at": "2026-07-20 13:30:05",
-    "updated_at": "2026-07-20 13:30:05",
+    "confirmed_at": "2026-07-20 13:33:13",
+    "updated_at": "2026-07-20 13:33:13",
     "summary": "三道校验：消息有效性、概念集体响应、主板核心股确认。当前确认0条，未通过板块验证的消息不输出股票。",
     "items": [
       {
-        "event_time": "13:30",
+        "event_time": "13:33",
         "concept": "算力",
         "status": "消息待确认",
         "news_title": "东吴证券：市场调整后应该关注哪些景气线索？",
@@ -32165,8 +32231,8 @@
           "passed": true,
           "score": 81,
           "published_at": "2026-07-19 15:14:00",
-          "age_minutes": 1336.0,
-          "reason": "命中3项政策/产业/公司事件词；消息距当前约1336分钟"
+          "age_minutes": 1339.0,
+          "reason": "命中3项政策/产业/公司事件词；消息距当前约1339分钟"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -32177,7 +32243,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "13:30",
+        "event_time": "13:33",
         "concept": "半导体",
         "status": "消息待确认",
         "news_title": "东吴证券：市场调整后应该关注哪些景气线索？",
@@ -32189,8 +32255,8 @@
           "passed": true,
           "score": 81,
           "published_at": "2026-07-19 15:14:00",
-          "age_minutes": 1336.0,
-          "reason": "命中3项政策/产业/公司事件词；消息距当前约1336分钟"
+          "age_minutes": 1339.0,
+          "reason": "命中3项政策/产业/公司事件词；消息距当前约1339分钟"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -32201,7 +32267,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "13:30",
+        "event_time": "13:33",
         "concept": "半导体",
         "status": "消息待确认",
         "news_title": "台积电美国扩产，A股半导体链先看谁能拿到订单",
@@ -32213,8 +32279,8 @@
           "passed": true,
           "score": 69,
           "published_at": "2026-07-20 09:07:00",
-          "age_minutes": 263.0,
-          "reason": "命中2项政策/产业/公司事件词；消息距当前约263分钟"
+          "age_minutes": 266.0,
+          "reason": "命中2项政策/产业/公司事件词；消息距当前约266分钟"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -32225,7 +32291,7 @@
         "catalyst_score": 0.0
       },
       {
-        "event_time": "13:30",
+        "event_time": "13:33",
         "concept": "存储芯片",
         "status": "已失效",
         "news_title": "证监会将就稳市场召开专题座谈会",
@@ -32237,8 +32303,8 @@
           "passed": false,
           "score": 44,
           "published_at": "2026-07-20 04:12:00",
-          "age_minutes": 558.0,
-          "reason": "命中2项政策/产业/公司事件词；消息距当前约558分钟；偏观点或盘点类内容"
+          "age_minutes": 561.0,
+          "reason": "命中2项政策/产业/公司事件词；消息距当前约561分钟；偏观点或盘点类内容"
         },
         "sector_response": {},
         "validation_evidence": [
@@ -32251,7 +32317,7 @@
     ],
     "confirmed_count": 0,
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -32261,7 +32327,7 @@
   },
   "event_calendar": {
     "updated_at": "2026-07-20 11:30:52",
-    "confirmed_at": "2026-07-20 13:30:05",
+    "confirmed_at": "2026-07-20 13:33:13",
     "source": "东方财富财经日历",
     "source_status": "cache",
     "result_news_status": "not_refreshed",
@@ -34063,65 +34129,65 @@
     "summary": "未来24小时6项重点事件，本月88项重要日历，3项已匹配公布结果。"
   },
   "korea_link_monitor": {
-    "summary": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+    "summary": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
     "items": [
       {
         "name": "KOSPI",
         "code": "KOSPI",
         "kind": "index",
-        "price": 6517.0,
+        "price": 6511.2,
         "prev_close": 6820.6,
-        "change": -303.6,
-        "pct_chg": -4.45,
+        "change": -309.4,
+        "pct_chg": -4.54,
         "state": "明显偏空",
-        "confirmed_at": "2026-07-20 13:30:00",
+        "confirmed_at": "2026-07-20 13:33:00",
         "source": "Naver韩国指数"
       },
       {
         "name": "KOSDAQ",
         "code": "KOSDAQ",
         "kind": "index",
-        "price": 752.28,
+        "price": 751.47,
         "prev_close": 791.84,
-        "change": -39.56,
-        "pct_chg": -5.0,
+        "change": -40.37,
+        "pct_chg": -5.1,
         "state": "明显偏空",
-        "confirmed_at": "2026-07-20 13:30:00",
+        "confirmed_at": "2026-07-20 13:33:00",
         "source": "Naver韩国指数"
       },
       {
         "name": "Samsung Electronics",
         "code": "005930.KS",
-        "price": 245000.0,
+        "price": 244000.0,
         "prev_close": 255000.0,
         "open": 241000.0,
         "high": 257500.0,
         "low": 240000.0,
-        "change": -10000.0,
-        "pct_chg": -3.92,
-        "time": "2026-07-20 12:05:20",
-        "currency": "18375798",
+        "change": -11000.0,
+        "pct_chg": -4.31,
+        "time": "2026-07-20 12:10:16",
+        "currency": "18499751",
         "source": "腾讯韩股龙头代理",
         "kind": "stock_proxy",
         "state": "明显偏空",
-        "confirmed_at": "2026-07-20 12:05:20"
+        "confirmed_at": "2026-07-20 12:10:16"
       },
       {
         "name": "SK hynix",
         "code": "000660.KS",
-        "price": 1791000.0,
+        "price": 1786000.0,
         "prev_close": 1842000.0,
         "open": 1745000.0,
         "high": 1892000.0,
         "low": 1735000.0,
-        "change": -51000.0,
-        "pct_chg": -2.77,
-        "time": "2026-07-20 12:05:21",
-        "currency": "4576504",
+        "change": -56000.0,
+        "pct_chg": -3.04,
+        "time": "2026-07-20 12:10:15",
+        "currency": "4614326",
         "source": "腾讯韩股龙头代理",
         "kind": "stock_proxy",
         "state": "明显偏空",
-        "confirmed_at": "2026-07-20 12:05:21"
+        "confirmed_at": "2026-07-20 12:10:15"
       }
     ],
     "risk_score_100": 88,
@@ -34131,9 +34197,9 @@
       "韩国芯片龙头同步大跌",
       "韩国大盘与芯片龙头同向走弱"
     ],
-    "confirmed_at": "2026-07-20 13:30:00",
+    "confirmed_at": "2026-07-20 13:33:00",
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:00",
+      "confirmed_at": "2026-07-20 13:33:00",
       "scope": "韩股联动",
       "mode": "live",
       "mode_label": "实时判断",
@@ -35134,7 +35200,7 @@
   },
   "selection_market_context": {
     "environment_score": 6.0,
-    "market_score": 3.7,
+    "market_score": 3.6,
     "index_score": 2.0,
     "active_score": 5.0,
     "news_score": 6.0,
@@ -105072,7 +105138,7 @@
     "summary": "低吸策略活跃池：5只，新入池1只，晋级0只，本次剔除0只；保留规则为75分以上、最多5个交易日。",
     "market_context": {
       "environment_score": 6.0,
-      "market_score": 3.7,
+      "market_score": 3.6,
       "index_score": 2.0,
       "active_score": 5.0,
       "news_score": 6.0,
@@ -190993,8 +191059,8 @@
   },
   "candidate_queue": {
     "title": "统一候选总队列",
-    "confirmed_at": "2026-07-20 13:30:05",
-    "updated_at": "2026-07-20 13:30:05",
+    "confirmed_at": "2026-07-20 13:33:13",
+    "updated_at": "2026-07-20 13:33:13",
     "summary": "统一候选总队列沿用上一正式层来源，共23只；本地5分钟轻刷新仅滚动更新30分钟/5分钟状态、时间线与执行权限，不重建候选来源。",
     "total_count": 23,
     "displayed_count": 23,
@@ -192046,7 +192112,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "存储芯片",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 118.5,
         "cycle_states": {
           "weekly": {
@@ -192871,7 +192937,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -195871,7 +195937,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "算力租赁",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 89.6,
         "cycle_states": {
           "weekly": {
@@ -196709,7 +196775,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -196830,7 +196896,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "算力租赁",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 89.1,
         "cycle_states": {
           "weekly": {
@@ -197664,7 +197730,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -197783,7 +197849,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "算力租赁",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 94.1,
         "cycle_states": {
           "weekly": {
@@ -198612,7 +198678,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -210979,7 +211045,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "存储芯片",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 75.0,
         "cycle_states": {
           "weekly": {
@@ -211808,7 +211874,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -211849,7 +211915,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "formal_carryover",
       "mode_label": "正式层沿用",
@@ -211859,8 +211925,8 @@
   },
   "focus_review": {
     "title": "统一候选总队列",
-    "confirmed_at": "2026-07-20 13:30:05",
-    "updated_at": "2026-07-20 13:30:05",
+    "confirmed_at": "2026-07-20 13:33:13",
+    "updated_at": "2026-07-20 13:33:13",
     "summary": "统一候选总队列沿用上一正式层来源，共23只；本地5分钟轻刷新仅滚动更新30分钟/5分钟状态、时间线与执行权限，不重建候选来源。",
     "total_count": 23,
     "displayed_count": 23,
@@ -212912,7 +212978,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "存储芯片",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 118.5,
         "cycle_states": {
           "weekly": {
@@ -213737,7 +213803,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -216737,7 +216803,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "算力租赁",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 89.6,
         "cycle_states": {
           "weekly": {
@@ -217575,7 +217641,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -217696,7 +217762,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "算力租赁",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 89.1,
         "cycle_states": {
           "weekly": {
@@ -218530,7 +218596,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -218649,7 +218715,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "算力租赁",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 94.1,
         "cycle_states": {
           "weekly": {
@@ -219478,7 +219544,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -231845,7 +231911,7 @@
         "line_trade_blocked": true,
         "line_risk_line": "存储芯片",
         "line_crowded_unwind_note": "主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散",
-        "line_external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "line_external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "review_priority_score": 75.0,
         "cycle_states": {
           "weekly": {
@@ -232674,7 +232740,7 @@
             "label": "外围及韩股联动",
             "score": 0.0,
             "max_score": 0.5,
-            "reason": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
+            "reason": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌"
           },
           {
             "key": "mainline_drive",
@@ -232715,7 +232781,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "formal_carryover",
       "mode_label": "正式层沿用",
@@ -232725,9 +232791,9 @@
   },
   "intraday_preferred_board": {
     "title": "日内优选榜",
-    "confirmed_at": "2026-07-20 13:30:05",
-    "updated_at": "2026-07-20 13:30:05",
-    "market_mode_label": "只做回踩",
+    "confirmed_at": "2026-07-20 13:33:13",
+    "updated_at": "2026-07-20 13:33:13",
+    "market_mode_label": "防守等待",
     "market_route": "弱市防守",
     "summary": "弱市防守：弱市优先防守承接，强市优先主线与概念异动；候选已覆盖原队列、周线、缠论、异动和防守板块（周线选股70只、缠论选股7只、异动选股0只、防守板块2只）。仅展示日内分≥5的候选，已隐藏99只低分候选。风险门禁先于分数，当前0只高分候选被拦截；被拦截候选仅用于观察，不构成买入提示。",
     "eligible_count": 0,
@@ -232738,7 +232804,7 @@
     "display_threshold": 5.0,
     "items": [],
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -233103,7 +233169,7 @@
         "postmortem": {}
       }
     ],
-    "updated_at": "2026-07-20 13:30:05",
+    "updated_at": "2026-07-20 13:33:13",
     "postmortem": {
       "trial_days": 0,
       "signal_count": 0,
@@ -233578,15 +233644,15 @@
     }
   },
   "trade_decision": {
-    "sentence": "45分 ｜ 只做回踩 ｜ 主线高风险共振，今日新开仓关闭 ｜ 早盘风险 降仓到五成。早盘宽度和指数转弱，先降仓防守。",
+    "sentence": "44分 ｜ 防守等待 ｜ 主线高风险共振，今日新开仓关闭 ｜ 早盘风险 降仓到五成。早盘宽度和指数转弱，先降仓防守。",
     "allow_open": "空仓",
     "mainline": "分支",
     "priority": "空仓",
     "prohibition": "追高、接弱转强失败票、逆势开新仓、主线高风险，关闭右侧/回封、所属主线高风险回调",
     "headline": "主线高风险共振，今日新开仓关闭",
-    "score": 45,
-    "mode_label": "只做回踩",
-    "summary": "市场总分45，模式为只做回踩；低吸权限关闭，追涨权限关闭，加仓权限关闭。；高风险 3 条",
+    "score": 44,
+    "mode_label": "防守等待",
+    "summary": "市场总分44，模式为防守等待；低吸权限关闭，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限关闭，追涨权限关闭，加仓权限关闭。；高风险 3 条",
     "permissions": {
       "allow_chase": false,
       "allow_pullback": false,
@@ -233643,7 +233709,7 @@
         "index_code": "VIRTUAL:算力租赁",
         "data_mode": "virtual_basket",
         "index_access_note": "",
-        "risk_score_100": 88.8,
+        "risk_score_100": 89.5,
         "risk_level": "high",
         "auction_risk": {
           "score_100": 0,
@@ -234424,18 +234490,18 @@
           }
         },
         "crowded_unwind_risk": {
-          "score_100": 96,
+          "score_100": 100,
           "status": "ok",
-          "summary": "分时样本 10 只，跌回VWAP 90% ，跌破前5分钟低点 80% ，5分钟看跌 70% 。",
+          "summary": "分时样本 10 只，跌回VWAP 100% ，跌破前5分钟低点 80% ，5分钟看跌 80% 。",
           "signals": [
             "主线内多数样本跌回VWAP下方",
             "主线内前5分钟低点失守扩散",
             "主线内5分钟看跌快速扩散"
           ],
           "sample_count": 10,
-          "below_vwap_ratio": 90.0,
+          "below_vwap_ratio": 100.0,
           "break_opening_low_ratio": 80.0,
-          "m5_bearish_ratio": 70.0
+          "m5_bearish_ratio": 80.0
         },
         "crowded_unwind_signals": [
           "主线内多数样本跌回VWAP下方",
@@ -234445,16 +234511,16 @@
         "external_link_risk": {
           "score_100": 88,
           "status": "ok",
-          "summary": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "summary": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "signals": [
             "KOSPI/KOSDAQ同步走弱",
             "韩国芯片龙头同步大跌",
             "韩国大盘与芯片龙头同向走弱"
           ],
           "state": "high",
-          "confirmed_at": "2026-07-20 13:30:00"
+          "confirmed_at": "2026-07-20 13:33:00"
         },
-        "external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "risk_signals": [
           "竞价分化，中性偏观察",
           "收盘明显弱于MA20 152.77；MA20斜率未转弱；MACD保持偏多；BOLL中轨承压；KDJ偏低位",
@@ -234466,7 +234532,7 @@
           "A/D短期下穿中期"
         ],
         "action_hint": "该主线高风险回调，相关候选只观察不新开仓。 程序化/同步砸盘迹象：主线内多数样本跌回VWAP下方；主线内前5分钟低点失守扩散；主线内5分钟看跌快速扩散 韩股科技联动：KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌；韩国大盘与芯片龙头同向走弱",
-        "summary": "算力租赁 风险 88.8 分，竞价 0 / 周线 74 / 日线 100 / 资金 92 / 缠论 76 / 同步撤退 96 / 韩股联动 88。",
+        "summary": "算力租赁 风险 89.5 分，竞价 0 / 周线 74 / 日线 100 / 资金 92 / 缠论 76 / 同步撤退 100 / 韩股联动 88。",
         "score_basis": "可用分项归一加权：竞价、日线、周线、资金、缠论；同步撤退+韩股联动双重风险门槛触发",
         "available_risk_components": [
           "auction",
@@ -234475,7 +234541,7 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-20 13:30:05",
+        "confirmed_at": "2026-07-20 13:33:13",
         "mainline_score": 3.9,
         "proxy_sample_count": 10
       },
@@ -235085,16 +235151,16 @@
         "external_link_risk": {
           "score_100": 88,
           "status": "ok",
-          "summary": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "summary": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "signals": [
             "KOSPI/KOSDAQ同步走弱",
             "韩国芯片龙头同步大跌",
             "韩国大盘与芯片龙头同向走弱"
           ],
           "state": "high",
-          "confirmed_at": "2026-07-20 13:30:00"
+          "confirmed_at": "2026-07-20 13:33:00"
         },
-        "external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "risk_signals": [
           "竞价主线样本不足",
           "收盘明显弱于MA20 177.90；MA5/MA10/MA20偏多排列；MACD保持偏多；BOLL中轨承压；KDJ偏低位",
@@ -235859,7 +235925,7 @@
         "crowded_unwind_risk": {
           "score_100": 100,
           "status": "ok",
-          "summary": "分时样本 10 只，跌回VWAP 100% ，跌破前5分钟低点 90% ，5分钟看跌 80% 。",
+          "summary": "分时样本 10 只，跌回VWAP 100% ，跌破前5分钟低点 90% ，5分钟看跌 90% 。",
           "signals": [
             "主线内多数样本跌回VWAP下方",
             "主线内前5分钟低点失守扩散",
@@ -235868,7 +235934,7 @@
           "sample_count": 10,
           "below_vwap_ratio": 100.0,
           "break_opening_low_ratio": 90.0,
-          "m5_bearish_ratio": 80.0
+          "m5_bearish_ratio": 90.0
         },
         "crowded_unwind_signals": [
           "主线内多数样本跌回VWAP下方",
@@ -235878,16 +235944,16 @@
         "external_link_risk": {
           "score_100": 88,
           "status": "ok",
-          "summary": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+          "summary": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
           "signals": [
             "KOSPI/KOSDAQ同步走弱",
             "韩国芯片龙头同步大跌",
             "韩国大盘与芯片龙头同向走弱"
           ],
           "state": "high",
-          "confirmed_at": "2026-07-20 13:30:00"
+          "confirmed_at": "2026-07-20 13:33:00"
         },
-        "external_link_note": "韩国大盘均值 -4.72%；三星/海力士均值 -3.34%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
+        "external_link_note": "韩国大盘均值 -4.82%；三星/海力士均值 -3.67%；KOSPI/KOSDAQ同步走弱；韩国芯片龙头同步大跌",
         "risk_signals": [
           "竞价分化，中性偏观察",
           "收盘明显弱于MA20 172.04；MA5/MA10/MA20偏多排列；MACD保持偏多；BOLL中轨承压；KDJ偏低位",
@@ -235908,13 +235974,13 @@
           "flow",
           "chanlun"
         ],
-        "confirmed_at": "2026-07-20 13:30:05",
+        "confirmed_at": "2026-07-20 13:33:13",
         "mainline_score": 4.1,
         "proxy_sample_count": 23
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -246245,7 +246311,7 @@
     ]
   },
   "watch_mode": {
-    "generated_at": "2026-07-20 13:30:05",
+    "generated_at": "2026-07-20 13:33:13",
     "refresh_minutes": 5,
     "refresh_slot": "13:30",
     "refresh_phase": "intraday_rolling",
@@ -246259,11 +246325,11 @@
         "avg_cost": 25.3,
         "price": 16.85,
         "pct_chg": -9.41,
-        "amount_yi": 73.42,
-        "volume_wan_shou": 417.06,
-        "volume_ratio": 0.99,
-        "turnover": 12.55,
-        "main_net_yi": -2.39,
+        "amount_yi": 73.54,
+        "volume_wan_shou": 417.72,
+        "volume_ratio": 0.97,
+        "turnover": 12.57,
+        "main_net_yi": -2.37,
         "support": 16.01,
         "resistance": 23.81,
         "old_support": 21.37,
@@ -246282,7 +246348,7 @@
         "status_label": "持有转弱",
         "status_tone": "danger",
         "status_note": "盘中回落-9.41%，持仓转入防守管理。",
-        "reason": "本次未重新进入80分以上选股，但走势未破坏；符合核心低吸结构：趋势内缩量回踩，优先看承接；主线强度高：半导体；RPS96，属于全市场前10%强势股；20/60日动量和均线斜率较好；近10个交易日收盘热榜10天，资金关注度有延续；多个买点共振：集合竞价、B1、短线超卖修复；低吸加分+6.0：主线基础+2，上游强势，中游开始接力+2，收盘热榜+2，近10日收盘热榜10天，对应HBM，上游强势，中游开始接力：上游材料已打出强度，HBM有跟随，重点看量能能否继续放大；实时观察：实时价16.85，涨跌-9.41%，量比0.99，成交额73.42亿，主力净流出2.39亿，尚未形成明确确认；仍守住支撑16.01；实时下跌-9.41%，承接需要继续验证；量能维持平稳(0.99)。",
+        "reason": "本次未重新进入80分以上选股，但走势未破坏；符合核心低吸结构：趋势内缩量回踩，优先看承接；主线强度高：半导体；RPS96，属于全市场前10%强势股；20/60日动量和均线斜率较好；近10个交易日收盘热榜10天，资金关注度有延续；多个买点共振：集合竞价、B1、短线超卖修复；低吸加分+6.0：主线基础+2，上游强势，中游开始接力+2，收盘热榜+2，近10日收盘热榜10天，对应HBM，上游强势，中游开始接力：上游材料已打出强度，HBM有跟随，重点看量能能否继续放大；实时观察：实时价16.85，涨跌-9.41%，量比0.97，成交额73.54亿，主力净流出2.37亿，尚未形成明确确认；仍守住支撑16.01；实时下跌-9.41%，承接需要继续验证；量能维持平稳(0.97)。",
         "next_action": "继续等支撑承接、量能和主线热度同步确认。；继续看是否放量突破23.81；若回踩16.01附近不破，可继续保留观察；失效条件看跌破止损 21.37；收盘跌回参考价下方，冲高接近目标 23.81 后量能衰减。",
         "opening_auction_note": "开盘竞价：竞价涨幅-0.64%，匹配额0.81亿，卖盘未匹配0.03亿，看空/竞价砸盘，偏弱，防高开兑现或低开承压。",
         "closing_auction_note": "收盘竞价：尾盘承压，收盘涨跌-9.41%，平量，次日先看是否低开修复。",
@@ -246329,7 +246395,7 @@
             "type": "sell",
             "label": "跌回VWAP",
             "triggered": true,
-            "reason": "实时价跌回VWAP 17.62 下方，且近5分钟量能转弱，适合先做T减仓。",
+            "reason": "实时价跌回VWAP 17.61 下方，且近5分钟量能转弱，适合先做T减仓。",
             "severity": "减仓"
           },
           {
@@ -246395,11 +246461,11 @@
           "m5": {
             "state": "看跌",
             "reason": "跌回VWAP下方；近5分钟量能转弱；最近5分钟结构改善；5分钟MACD偏弱；5分钟绿柱缩短；5分钟短均线走弱；5分钟底背离修复",
-            "confirmed_at": "13:31",
+            "confirmed_at": "13:34",
             "features": {
-              "latest_time": "13:31",
+              "latest_time": "13:34",
               "latest_price": 16.85,
-              "latest_vwap": 17.62,
+              "latest_vwap": 17.61,
               "opening_low": 17.63,
               "opening_low_time": "09:33",
               "opening_low_window_minutes": 5,
@@ -246410,15 +246476,15 @@
               "afternoon_high": 17.22,
               "regained_vwap": false,
               "below_then_regain_vwap": false,
-              "last_below_vwap_time": "13:31",
+              "last_below_vwap_time": "13:34",
               "holding_opening_low": false,
               "holding_day_low": false,
-              "volume_rebound_15m": true,
+              "volume_rebound_15m": false,
               "volume_rebound_5m": false,
-              "avg_delta_volume_15m": 22877.0,
-              "prev_delta_volume_15m": 17250.0,
-              "avg_delta_volume_5m": 6939.0,
-              "prev_delta_volume_5m": 30345.0,
+              "avg_delta_volume_15m": 16522.0,
+              "prev_delta_volume_15m": 21878.0,
+              "avg_delta_volume_5m": 3333.0,
+              "prev_delta_volume_5m": 13694.0,
               "rows": [
                 {
                   "minute": "0915",
@@ -248089,6 +248155,36 @@
                   "delta_volume": 2898.0,
                   "delta_amount": 4882944.0,
                   "vwap": 17.615844108923405
+                },
+                {
+                  "minute": "1332",
+                  "time": "13:32",
+                  "price": 16.85,
+                  "cum_volume": 4215059.0,
+                  "cum_amount": 7425000480.0,
+                  "delta_volume": 2374.0,
+                  "delta_amount": 4000256.0,
+                  "vwap": 17.615412927790572
+                },
+                {
+                  "minute": "1333",
+                  "time": "13:33",
+                  "price": 16.85,
+                  "cum_volume": 4217458.0,
+                  "cum_amount": 7429042720.0,
+                  "delta_volume": 2399.0,
+                  "delta_amount": 4042240.0,
+                  "vwap": 17.614977363141495
+                },
+                {
+                  "minute": "1334",
+                  "time": "13:34",
+                  "price": 16.85,
+                  "cum_volume": 4219754.0,
+                  "cum_amount": 7432911904.0,
+                  "delta_volume": 2296.0,
+                  "delta_amount": 3869184.0,
+                  "vwap": 17.61456213798245
                 }
               ]
             },
@@ -248137,11 +248233,11 @@
             "trade_date": "2026-07-20"
           },
           {
-            "time": "13:31",
+            "time": "13:34",
             "cycle": "5分钟",
             "from_state": "",
             "to_state": "看跌",
-            "reason": "13:31，5分钟看跌，理由：跌回VWAP下方；近5分钟量能转弱；最近5分钟结构改善；5分钟MACD偏弱；5分钟绿柱缩短；5分钟短均线走弱；5分钟底背离修复",
+            "reason": "13:34，5分钟看跌，理由：跌回VWAP下方；近5分钟量能转弱；最近5分钟结构改善；5分钟MACD偏弱；5分钟绿柱缩短；5分钟短均线走弱；5分钟底背离修复",
             "event_type": "m5",
             "trade_date": "2026-07-20"
           }
@@ -248169,7 +248265,7 @@
         "line_risk_note": "",
         "line_trade_blocked": false,
         "freshness_meta": {
-          "confirmed_at": "2026-07-20 13:30:05",
+          "confirmed_at": "2026-07-20 13:33:13",
           "scope": "盘中判断",
           "mode": "live",
           "mode_label": "实时判断",
@@ -252507,13 +252603,13 @@
         "name": "昭衍新药",
         "industry": "CRO",
         "avg_cost": 49.55,
-        "price": 46.9,
-        "pct_chg": 8.72,
-        "amount_yi": 35.93,
-        "volume_wan_shou": 78.7,
-        "volume_ratio": 1.8,
-        "turnover": 12.48,
-        "main_net_yi": 5.94,
+        "price": 47.39,
+        "pct_chg": 9.85,
+        "amount_yi": 36.13,
+        "volume_wan_shou": 79.13,
+        "volume_ratio": 1.78,
+        "turnover": 12.55,
+        "main_net_yi": 6.0,
         "support": 42.95,
         "resistance": 50.54,
         "old_support": 49.1,
@@ -252525,20 +252621,20 @@
         "holding_group": "risk",
         "holding_priority": 100,
         "holding_reason": "09:26竞价涨幅-9.99%，优先复核跌停封单、可成交性与连续跌停风险；当前不补仓，风险处理优先于其他周期信号。",
-        "profit_pct": -5.35,
-        "support_distance_pct": 9.2,
-        "resistance_distance_pct": 7.76,
+        "profit_pct": -4.36,
+        "support_distance_pct": 10.34,
+        "resistance_distance_pct": 6.65,
         "stop_price": 42.95,
         "status_label": "承接确认",
         "status_tone": "ok",
         "status_note": "支撑上方转强，优先看量能能否继续放大。",
-        "reason": "本次未重新进入80分以上选股，但走势未破坏；加入持仓管理；实时确认：实时价46.90，涨跌+8.72%，量比1.80，成交额35.93亿，主力净流入5.94亿，支撑承接有效并开始转强；仍守住支撑42.95；实时上涨8.72%，反弹确认度提高；BOLL中轨 41.35、MA20 41.35、BBI 42.95支撑仍有效；量能开始放大(1.80)。",
+        "reason": "本次未重新进入80分以上选股，但走势未破坏；加入持仓管理；实时确认：实时价47.39，涨跌+9.85%，量比1.78，成交额36.13亿，主力净流入6.00亿，支撑承接有效并开始转强；仍守住支撑42.95；实时上涨9.85%，反弹确认度提高；BOLL中轨 41.35、MA20 41.35、BBI 42.95支撑仍有效；量能开始放大(1.78)。",
         "next_action": "可按原计划进入实盘观察，优先分批，继续看量能能否维持在健康区间。；继续看是否放量突破50.54；若回踩42.95附近不破，可继续保留观察；若放量延续，可看突破确认力度；失效条件看跌破关键支撑或分时承接转弱时取消跟踪。",
         "opening_auction_note": "开盘竞价：竞价涨幅-9.99%，匹配额0.53亿，卖盘未匹配3.23亿，看空/大幅低开，竞价跌停/近跌停，持仓进入最高级风险复核，不补仓并优先评估封单与可成交性。",
         "closing_auction_note": "收盘竞价：收在日内偏低位置，放量，短线资金承接一般。",
         "cost_line_alert": {
           "label": "跌破成本线",
-          "note": "现价46.90已低于成本线49.55 5.35%，优先看能否快速收回；若同时失守支撑，卖点提醒优先级上调。"
+          "note": "现价47.39已低于成本线49.55 4.36%，优先看能否快速收回；若同时失守支撑，卖点提醒优先级上调。"
         },
         "sell_alerts": [
           {
@@ -252624,11 +252720,11 @@
           "m5": {
             "state": "震荡",
             "reason": "重新站回VWAP；近5分钟量能回升；最近5分钟结构回落；5分钟MACD偏弱；5分钟绿柱放大；5分钟短均线走弱；5分钟底背离修复",
-            "confirmed_at": "13:31",
+            "confirmed_at": "13:34",
             "features": {
-              "latest_time": "13:31",
-              "latest_price": 46.72,
-              "latest_vwap": 45.61,
+              "latest_time": "13:34",
+              "latest_price": 47.17,
+              "latest_vwap": 45.62,
               "opening_low": 43.14,
               "opening_low_time": "09:30",
               "opening_low_window_minutes": 5,
@@ -252642,12 +252738,12 @@
               "last_below_vwap_time": null,
               "holding_opening_low": true,
               "holding_day_low": true,
-              "volume_rebound_15m": false,
+              "volume_rebound_15m": true,
               "volume_rebound_5m": true,
-              "avg_delta_volume_15m": 1423.0,
-              "prev_delta_volume_15m": 1408.0,
-              "avg_delta_volume_5m": 1607.0,
-              "prev_delta_volume_5m": 1345.0,
+              "avg_delta_volume_15m": 1440.0,
+              "prev_delta_volume_15m": 1238.0,
+              "avg_delta_volume_5m": 1868.0,
+              "prev_delta_volume_5m": 1073.0,
               "rows": [
                 {
                   "minute": "0915",
@@ -254318,6 +254414,36 @@
                   "delta_volume": 3389.0,
                   "delta_amount": 15848704.0,
                   "vwap": 45.61490645701482
+                },
+                {
+                  "minute": "1332",
+                  "time": "13:32",
+                  "price": 46.84,
+                  "cum_volume": 799564.0,
+                  "cum_amount": 3647338856.0,
+                  "delta_volume": 1161.0,
+                  "delta_amount": 5431040.0,
+                  "vwap": 45.61659674522615
+                },
+                {
+                  "minute": "1333",
+                  "time": "13:33",
+                  "price": 46.83,
+                  "cum_volume": 800668.0,
+                  "cum_amount": 3652508264.0,
+                  "delta_volume": 1104.0,
+                  "delta_amount": 5169408.0,
+                  "vwap": 45.61826205118726
+                },
+                {
+                  "minute": "1334",
+                  "time": "13:34",
+                  "price": 47.17,
+                  "cum_volume": 802868.0,
+                  "cum_amount": 3662870376.0,
+                  "delta_volume": 2200.0,
+                  "delta_amount": 10362112.0,
+                  "vwap": 45.622323669644324
                 }
               ]
             },
@@ -254393,7 +254519,7 @@
         "line_risk_note": "",
         "line_trade_blocked": false,
         "freshness_meta": {
-          "confirmed_at": "2026-07-20 13:30:05",
+          "confirmed_at": "2026-07-20 13:33:13",
           "scope": "盘中判断",
           "mode": "live",
           "mode_label": "实时判断",
@@ -258749,7 +258875,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-20 13:30:05",
+      "confirmed_at": "2026-07-20 13:33:13",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -259513,9 +259639,9 @@
                   "专利995件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "东数西算(算力)",
-                "display_industry": "东数西算(算力)",
-                "industry": "东数西算(算力)",
+                "display_concept": "液冷服务器",
+                "display_industry": "液冷服务器",
+                "industry": "液冷服务器",
                 "raw_industry": "液冷服务器"
               },
               "abnormal_risk": {
@@ -260215,9 +260341,9 @@
                   "专利20件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "虚拟数字人",
-                "display_industry": "虚拟数字人",
-                "industry": "虚拟数字人",
+                "display_concept": "语音技术",
+                "display_industry": "语音技术",
+                "industry": "语音技术",
                 "raw_industry": "虚拟数字人"
               },
               "abnormal_risk": {
@@ -260983,9 +261109,9 @@
                   "专利98件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "传感器",
-                "display_industry": "传感器",
-                "industry": "传感器",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "传感器"
               },
               "abnormal_risk": {
@@ -261179,9 +261305,9 @@
                   "专利1566件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "云计算",
-                "display_industry": "云计算",
-                "industry": "云计算",
+                "display_concept": "算力租赁",
+                "display_industry": "算力租赁",
+                "industry": "算力租赁",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -261304,9 +261430,9 @@
                   "专利487件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "数字水印",
-                "display_industry": "数字水印",
-                "industry": "数字水印",
+                "display_concept": "算力租赁",
+                "display_industry": "算力租赁",
+                "industry": "算力租赁",
                 "raw_industry": "数字水印"
               },
               "abnormal_risk": {
@@ -261889,9 +262015,9 @@
               "专利995件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "东数西算(算力)",
-            "display_industry": "东数西算(算力)",
-            "industry": "东数西算(算力)",
+            "display_concept": "液冷服务器",
+            "display_industry": "液冷服务器",
+            "industry": "液冷服务器",
             "raw_industry": "液冷服务器"
           },
           "abnormal_risk": {
@@ -262148,9 +262274,9 @@
               "专利1566件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "云计算",
-            "display_industry": "云计算",
-            "industry": "云计算",
+            "display_concept": "算力租赁",
+            "display_industry": "算力租赁",
+            "industry": "算力租赁",
             "raw_industry": "算力租赁"
           },
           "abnormal_risk": {
@@ -263283,9 +263409,9 @@
                   "专利1571件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "铜缆高速连接",
-                "display_industry": "铜缆高速连接",
-                "industry": "铜缆高速连接",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -264279,9 +264405,9 @@
                   "专利141件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "算力租赁",
-                "display_industry": "算力租赁",
-                "industry": "算力租赁",
+                "display_concept": "云计算",
+                "display_industry": "云计算",
+                "industry": "云计算",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -264411,9 +264537,9 @@
                   "专利525件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "光纤",
-                "display_industry": "光纤",
-                "industry": "光纤",
+                "display_concept": "F5G",
+                "display_industry": "F5G",
+                "industry": "F5G",
                 "raw_industry": "光纤"
               },
               "abnormal_risk": {
@@ -264533,9 +264659,9 @@
                   "专利8件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "铜缆高速连接",
+                "display_industry": "铜缆高速连接",
+                "industry": "铜缆高速连接",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -264884,9 +265010,9 @@
                   "专利4435件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "铜缆高速连接",
-                "display_industry": "铜缆高速连接",
-                "industry": "铜缆高速连接",
+                "display_concept": "芯片",
+                "display_industry": "芯片",
+                "industry": "芯片",
                 "raw_industry": "铜缆高速连接"
               },
               "abnormal_risk": {
@@ -265093,9 +265219,9 @@
                   "专利322件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "新型工业化",
-                "display_industry": "新型工业化",
-                "industry": "新型工业化",
+                "display_concept": "机器视觉",
+                "display_industry": "机器视觉",
+                "industry": "机器视觉",
                 "raw_industry": "新型工业化"
               },
               "abnormal_risk": {
@@ -265425,9 +265551,9 @@
                   "专利404件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "第三代半导体",
-                "display_industry": "第三代半导体",
-                "industry": "第三代半导体",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "第三代半导体"
               },
               "abnormal_risk": {
@@ -265550,9 +265676,9 @@
                   "专利75件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "第三代半导体",
+                "display_industry": "第三代半导体",
+                "industry": "第三代半导体",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -265756,9 +265882,9 @@
                   "专利1422件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "超级电容",
-                "display_industry": "超级电容",
-                "industry": "超级电容",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "超级电容"
               },
               "abnormal_risk": {
@@ -265948,9 +266074,9 @@
                   "专利256件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "华为手机",
-                "display_industry": "华为手机",
-                "industry": "华为手机",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "华为手机"
               },
               "abnormal_risk": {
@@ -266200,9 +266326,9 @@
                   "专利995件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "液冷服务器",
-                "display_industry": "液冷服务器",
-                "industry": "液冷服务器",
+                "display_concept": "东数西算(算力)",
+                "display_industry": "东数西算(算力)",
+                "industry": "东数西算(算力)",
                 "raw_industry": "液冷服务器"
               },
               "abnormal_risk": {
@@ -266957,9 +267083,9 @@
               "专利1571件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "铜缆高速连接",
-            "display_industry": "铜缆高速连接",
-            "industry": "铜缆高速连接",
+            "display_concept": "CPO",
+            "display_industry": "CPO",
+            "industry": "CPO",
             "raw_industry": "CPO"
           },
           "abnormal_risk": {
@@ -268342,9 +268468,9 @@
                   "销售毛利率27.74%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -268474,9 +268600,9 @@
                   "专利1120件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "光刻胶",
-                "display_industry": "光刻胶",
-                "industry": "光刻胶",
+                "display_concept": "先进封装",
+                "display_industry": "先进封装",
+                "industry": "先进封装",
                 "raw_industry": "光刻胶"
               },
               "abnormal_risk": {
@@ -268594,9 +268720,9 @@
                   "销售毛利率36.54%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "先进封装",
-                "display_industry": "先进封装",
-                "industry": "先进封装",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "先进封装"
               },
               "abnormal_risk": {
@@ -268800,9 +268926,9 @@
                   "销售毛利率40.02%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "中芯国际",
+                "display_industry": "中芯国际",
+                "industry": "中芯国际",
                 "raw_industry": "中芯国际"
               },
               "abnormal_risk": {
@@ -269057,9 +269183,9 @@
                   "专利68件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "PCB",
+                "display_industry": "PCB",
+                "industry": "PCB",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -269624,9 +269750,9 @@
                   "专利346件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "先进封装",
+                "display_industry": "先进封装",
+                "industry": "先进封装",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -269752,9 +269878,9 @@
                   "专利122件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "PCB",
+                "display_industry": "PCB",
+                "industry": "PCB",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -270201,9 +270327,9 @@
                   "销售毛利率48.20%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "芯片",
-                "display_industry": "芯片",
-                "industry": "芯片",
+                "display_concept": "租售同权",
+                "display_industry": "租售同权",
+                "industry": "租售同权",
                 "raw_industry": "芯片"
               },
               "abnormal_risk": {
@@ -270547,9 +270673,9 @@
                   "专利378件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "汽车芯片",
-                "display_industry": "汽车芯片",
-                "industry": "汽车芯片",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -271017,9 +271143,9 @@
                   "专利56件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "汽车芯片",
+                "display_industry": "汽车芯片",
+                "industry": "汽车芯片",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -271481,9 +271607,9 @@
               "专利378件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "汽车芯片",
-            "display_industry": "汽车芯片",
-            "industry": "汽车芯片",
+            "display_concept": "存储芯片",
+            "display_industry": "存储芯片",
+            "industry": "存储芯片",
             "raw_industry": "存储芯片"
           },
           "abnormal_risk": {
@@ -271732,9 +271858,9 @@
               "销售毛利率40.02%"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "存储芯片",
-            "display_industry": "存储芯片",
-            "industry": "存储芯片",
+            "display_concept": "中芯国际",
+            "display_industry": "中芯国际",
+            "industry": "中芯国际",
             "raw_industry": "中芯国际"
           },
           "abnormal_risk": {
@@ -273126,9 +273252,9 @@
                   "专利142件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "光刻胶",
-                "display_industry": "光刻胶",
-                "industry": "光刻胶",
+                "display_concept": "氟化工",
+                "display_industry": "氟化工",
+                "industry": "氟化工",
                 "raw_industry": "光刻胶"
               },
               "abnormal_risk": {
@@ -273448,9 +273574,9 @@
                   "销售毛利率33.15%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "宁德时代",
+                "display_industry": "宁德时代",
+                "industry": "宁德时代",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -273782,9 +273908,9 @@
                   "专利685件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "金属铜",
-                "display_industry": "金属铜",
-                "industry": "金属铜",
+                "display_concept": "黄金",
+                "display_industry": "黄金",
+                "industry": "黄金",
                 "raw_industry": "金属铜"
               },
               "abnormal_risk": {
@@ -273913,9 +274039,9 @@
                   "专利628件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PET铜箔",
-                "display_industry": "PET铜箔",
-                "industry": "PET铜箔",
+                "display_concept": "小金属",
+                "display_industry": "小金属",
+                "industry": "小金属",
                 "raw_industry": "PET铜箔"
               },
               "abnormal_risk": {
@@ -274107,9 +274233,9 @@
                   "专利625件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "先进封装",
-                "display_industry": "先进封装",
-                "industry": "先进封装",
+                "display_concept": "芯片",
+                "display_industry": "芯片",
+                "industry": "芯片",
                 "raw_industry": "先进封装"
               },
               "abnormal_risk": {
@@ -274431,9 +274557,9 @@
                   "专利124件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "5G",
-                "display_industry": "5G",
-                "industry": "5G",
+                "display_concept": "PCB",
+                "display_industry": "PCB",
+                "industry": "PCB",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -274562,9 +274688,9 @@
                   "专利1674件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "6G",
+                "display_industry": "6G",
+                "industry": "6G",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -274890,9 +275016,9 @@
                   "专利582件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "信创",
-                "display_industry": "信创",
-                "industry": "信创",
+                "display_concept": "AIGC",
+                "display_industry": "AIGC",
+                "industry": "AIGC",
                 "raw_industry": "信创"
               },
               "abnormal_risk": {
@@ -275021,9 +275147,9 @@
                   "专利2087件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "金属钴",
+                "display_industry": "金属钴",
+                "industry": "金属钴",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -275357,9 +275483,9 @@
                   "专利685件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "金属铜",
-                "display_industry": "金属铜",
-                "industry": "金属铜",
+                "display_concept": "黄金",
+                "display_industry": "黄金",
+                "industry": "黄金",
                 "raw_industry": "金属铜"
               },
               "abnormal_risk": {
@@ -275553,9 +275679,9 @@
                   "专利23件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "电子竞技",
-                "display_industry": "电子竞技",
-                "industry": "电子竞技",
+                "display_concept": "AIGC",
+                "display_industry": "AIGC",
+                "industry": "AIGC",
                 "raw_industry": "电子竞技"
               },
               "abnormal_risk": {
@@ -275817,9 +275943,9 @@
                   "专利364件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "AI PC",
-                "display_industry": "AI PC",
-                "industry": "AI PC",
+                "display_concept": "PCB",
+                "display_industry": "PCB",
+                "industry": "PCB",
                 "raw_industry": "AI PC"
               },
               "abnormal_risk": {
@@ -276154,9 +276280,9 @@
                   "专利1127件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -276480,9 +276606,9 @@
                   "销售毛利率36.93%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -276603,9 +276729,9 @@
                   "专利183件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "专精特新",
+                "display_industry": "专精特新",
+                "industry": "专精特新",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -276999,9 +277125,9 @@
                   "专利23件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "AIGC",
-                "display_industry": "AIGC",
-                "industry": "AIGC",
+                "display_concept": "电子竞技",
+                "display_industry": "电子竞技",
+                "industry": "电子竞技",
                 "raw_industry": "电子竞技"
               },
               "abnormal_risk": {
@@ -277123,9 +277249,9 @@
                   "销售毛利率36.93%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -277598,9 +277724,9 @@
                   "专利434件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "同花顺果",
-                "display_industry": "同花顺果",
-                "industry": "同花顺果",
+                "display_concept": "AI PC",
+                "display_industry": "AI PC",
+                "industry": "AI PC",
                 "raw_industry": "同花顺果"
               },
               "abnormal_risk": {
@@ -277730,9 +277856,9 @@
                   "专利288件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "英伟达",
-                "display_industry": "英伟达",
-                "industry": "英伟达",
+                "display_concept": "东数西算(算力)",
+                "display_industry": "东数西算(算力)",
+                "industry": "东数西算(算力)",
                 "raw_industry": "英伟达"
               },
               "abnormal_risk": {
@@ -277918,9 +278044,9 @@
               "专利23件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "AIGC",
-            "display_industry": "AIGC",
-            "industry": "AIGC",
+            "display_concept": "电子竞技",
+            "display_industry": "电子竞技",
+            "industry": "电子竞技",
             "raw_industry": "电子竞技"
           },
           "abnormal_risk": {
@@ -278577,9 +278703,9 @@
               "专利124件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "5G",
-            "display_industry": "5G",
-            "industry": "5G",
+            "display_concept": "PCB",
+            "display_industry": "PCB",
+            "industry": "PCB",
             "raw_industry": "PCB"
           },
           "abnormal_risk": {
