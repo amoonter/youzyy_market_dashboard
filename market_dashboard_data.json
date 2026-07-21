@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21 09:22:44",
+  "generated_at": "2026-07-21 09:24:01",
   "update_stage": "open",
   "update_stage_title": "09:16 集合竞价重点预判",
   "refresh_slot": "09:16",
@@ -24277,26 +24277,26 @@
   "market_live_monitor": {
     "status": "ok",
     "source": "同花顺问财广度 + XTick分钟",
-    "time": "2026-07-21 09:22:44",
+    "time": "2026-07-21 09:24:01",
     "trade_date": "2026-07-21",
-    "data_time": "09:22",
-    "data_label": "今日2026-07-21 09:22",
+    "data_time": "09:24",
+    "data_label": "今日2026-07-21 09:24",
     "is_stale": false,
     "breadth": {
       "status": "ok",
       "source": "同花顺问财实时",
       "trade_date": "2026-07-21",
-      "cached_at": "2026-07-21 09:22:49",
+      "cached_at": "2026-07-21 09:24:07",
       "index_name": "同花顺全A(沪深京)",
-      "index_price": 1665.38,
+      "index_price": 1665.32,
       "index_pct_chg": -0.31,
       "up_count": 2181,
-      "down_count": 2005,
+      "down_count": 2033,
       "limit_up_count": 0,
       "limit_down_count": 0,
       "net_in_count": 0,
       "net_out_count": 0,
-      "breadth_ratio": 52.1,
+      "breadth_ratio": 51.8,
       "flow_ratio": null,
       "queries": [
         {
@@ -24839,7 +24839,7 @@
     "action": "只把竞价当方向参考，开盘后优先确认竞价强方向能否继续放量并站稳竞价价。",
     "summary": "09:26 重点看集合竞价强弱，实时涨跌家数和资金流向待开盘后确认。；竞价强板块偏向火力发电(0只强势)、水力发电(0只强势)；护盘方向白酒(贵州茅台)。；只把竞价当方向参考，开盘后优先确认竞价强方向能否继续放量并站稳竞价价。",
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -24856,7 +24856,7 @@
           "crowded_label": "待确认",
           "crowded_note": "开盘前先看竞价风险",
           "external_label": "偏强/中性",
-          "external_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "external_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "action_hint": "维持主线跟踪，优先看个股结构。"
         },
         {
@@ -24866,7 +24866,7 @@
           "crowded_label": "待确认",
           "crowded_note": "开盘前先看竞价风险",
           "external_label": "偏强/中性",
-          "external_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "external_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "action_hint": "维持主线跟踪，优先看个股结构。"
         },
         {
@@ -24876,14 +24876,14 @@
           "crowded_label": "待确认",
           "crowded_note": "开盘前先看竞价风险",
           "external_label": "偏强/中性",
-          "external_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "external_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "action_hint": "维持主线跟踪，优先看个股结构。"
         }
       ],
-      "confirmed_at": "2026-07-21 09:22:44",
-      "korea_confirmed_at": "2026-07-21 09:22:00",
+      "confirmed_at": "2026-07-21 09:24:01",
+      "korea_confirmed_at": "2026-07-21 09:24:00",
       "freshness_meta": {
-        "confirmed_at": "2026-07-21 09:22:44",
+        "confirmed_at": "2026-07-21 09:24:01",
         "scope": "盘中判断",
         "mode": "live",
         "mode_label": "实时判断",
@@ -24895,9 +24895,9 @@
       "status": "empty",
       "summary": "当前概念池里，暂未看到同时具备前排强度、概念扩散和资金进场的异动板块。",
       "items": [],
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "freshness_meta": {
-        "confirmed_at": "2026-07-21 09:22:44",
+        "confirmed_at": "2026-07-21 09:24:01",
         "scope": "盘中判断",
         "mode": "same_day_frozen",
         "mode_label": "同日冻结",
@@ -24908,11 +24908,11 @@
   },
   "market_decision": {
     "status": "ok",
-    "score": 48,
+    "score": 47,
     "mode": "PULLBACK_ONLY",
     "mode_label": "只做回踩",
     "headline": "单日修复不等于确认，候选池继续等回踩",
-    "summary": "市场总分48，模式为只做回踩；低吸权限打开，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限打开，追涨权限关闭，加仓权限关闭。",
+    "summary": "市场总分47，模式为只做回踩；低吸权限打开，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限打开，追涨权限关闭，加仓权限关闭。",
     "position_advice": "三成左右",
     "dimensions": [
       {
@@ -24923,13 +24923,13 @@
       },
       {
         "name": "宽度",
-        "score": 16.5,
+        "score": 16.4,
         "max": 20,
-        "note": "上涨2181家、下跌2005家，宽度偏强。"
+        "note": "上涨2181家、下跌2033家，宽度中性。"
       },
       {
         "name": "宽度动量",
-        "score": 7.2,
+        "score": 6.0,
         "max": 15,
         "note": "5分钟上涨段0/0，最近一段0.00%。"
       },
@@ -24980,14 +24980,14 @@
     "blocks_new_entries": false,
     "degraded": false,
     "slot": "09:16",
-    "time": "2026-07-21 09:22:44",
+    "time": "2026-07-21 09:24:01",
     "trade_date": "2026-07-21",
     "breadth": {
       "up_count": 2181,
-      "down_count": 2005,
+      "down_count": 2033,
       "limit_up_count": 0,
       "limit_down_count": 0,
-      "breadth_ratio": 52.1
+      "breadth_ratio": 51.8
     },
     "indices": {
       "sh": {
@@ -25019,7 +25019,7 @@
       "summary": "白酒概念 存储芯片"
     },
     "evidence": [
-      "宽度：上涨2181家 / 下跌2005家，占比52.1%",
+      "宽度：上涨2181家 / 下跌2033家，占比51.8%",
       "情绪：涨停0家 / 跌停0家",
       "指数：上证+0.85%，中证1000-2.83%，平均股价-3.79%",
       "主线：白酒概念，强度5.7，逆势承接不足",
@@ -26406,7 +26406,7 @@
     },
     "timeline": [],
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -26494,12 +26494,12 @@
         "external_link_risk": {
           "score_100": 26,
           "status": "ok",
-          "summary": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "summary": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-21 09:22:00"
+          "confirmed_at": "2026-07-21 09:24:00"
         },
-        "external_link_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_link_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "risk_signals": [
           "竞价主线样本不足",
           "周线数据不足，暂不计入风险加权。",
@@ -26512,7 +26512,7 @@
         "summary": "算力租赁 风险 50.0 分，竞价 -- / 周线 -- / 日线 -- / 资金 -- / 缠论 -- / 同步撤退 -- / 韩股联动 26。",
         "score_basis": "基础分项均不可用，基础风险按中性50分处理",
         "available_risk_components": [],
-        "confirmed_at": "2026-07-21 09:22:00",
+        "confirmed_at": "2026-07-21 09:24:00",
         "mainline_score": 2.5,
         "proxy_sample_count": 13
       },
@@ -26593,12 +26593,12 @@
         "external_link_risk": {
           "score_100": 26,
           "status": "ok",
-          "summary": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "summary": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-21 09:22:00"
+          "confirmed_at": "2026-07-21 09:24:00"
         },
-        "external_link_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_link_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "risk_signals": [
           "竞价主线样本不足",
           "周线数据不足，暂不计入风险加权。",
@@ -26611,7 +26611,7 @@
         "summary": "共封装光学(CPO) 风险 50.0 分，竞价 -- / 周线 -- / 日线 -- / 资金 -- / 缠论 -- / 同步撤退 -- / 韩股联动 26。",
         "score_basis": "基础分项均不可用，基础风险按中性50分处理",
         "available_risk_components": [],
-        "confirmed_at": "2026-07-21 09:22:00",
+        "confirmed_at": "2026-07-21 09:24:00",
         "mainline_score": 2.6,
         "proxy_sample_count": 21
       },
@@ -26692,12 +26692,12 @@
         "external_link_risk": {
           "score_100": 26,
           "status": "ok",
-          "summary": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "summary": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-21 09:22:00"
+          "confirmed_at": "2026-07-21 09:24:00"
         },
-        "external_link_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_link_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "risk_signals": [
           "竞价主线样本不足",
           "周线数据不足，暂不计入风险加权。",
@@ -26710,7 +26710,7 @@
         "summary": "存储芯片 风险 50.0 分，竞价 -- / 周线 -- / 日线 -- / 资金 -- / 缠论 -- / 同步撤退 -- / 韩股联动 26。",
         "score_basis": "基础分项均不可用，基础风险按中性50分处理",
         "available_risk_components": [],
-        "confirmed_at": "2026-07-21 09:22:00",
+        "confirmed_at": "2026-07-21 09:24:00",
         "mainline_score": 3.3,
         "proxy_sample_count": 23
       }
@@ -26723,9 +26723,9 @@
       "note": "当前主线未见明确高风险"
     },
     "line_permission_overrides": {},
-    "confirmed_at": "2026-07-21 09:22:44",
+    "confirmed_at": "2026-07-21 09:24:01",
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "scope": "主线风险",
       "mode": "live",
       "mode_label": "实时判断",
@@ -26743,7 +26743,7 @@
         "crowded_label": "待确认",
         "crowded_note": "开盘前先看竞价风险",
         "external_label": "偏强/中性",
-        "external_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "action_hint": "维持主线跟踪，优先看个股结构。"
       },
       {
@@ -26753,7 +26753,7 @@
         "crowded_label": "待确认",
         "crowded_note": "开盘前先看竞价风险",
         "external_label": "偏强/中性",
-        "external_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "action_hint": "维持主线跟踪，优先看个股结构。"
       },
       {
@@ -26763,14 +26763,14 @@
         "crowded_label": "待确认",
         "crowded_note": "开盘前先看竞价风险",
         "external_label": "偏强/中性",
-        "external_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "action_hint": "维持主线跟踪，优先看个股结构。"
       }
     ],
-    "confirmed_at": "2026-07-21 09:22:44",
-    "korea_confirmed_at": "2026-07-21 09:22:00",
+    "confirmed_at": "2026-07-21 09:24:01",
+    "korea_confirmed_at": "2026-07-21 09:24:00",
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -26781,7 +26781,7 @@
   "mainline_drive_confirmation": {
     "title": "板块带动确认",
     "trade_date": "2026-07-21",
-    "confirmed_at": "2026-07-21 09:22:44",
+    "confirmed_at": "2026-07-21 09:24:01",
     "refresh_minutes": 5,
     "identity_window_minutes": 30,
     "summary": "每5分钟刷新，龙头身份按滚动30分钟强度、VWAP承接、封板高度、成交容量和板块跟随综合确认；达到70分才列为龙头。医疗主线合并医药、器械、服务及相关分支；页面不使用风险门禁隐藏龙头，已识别龙头独立获得低吸2分（日内榜+0.2分）。",
@@ -27167,7 +27167,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "scope": "盘中判断",
       "mode": "fallback",
       "mode_label": "回退参考",
@@ -27179,9 +27179,9 @@
     "status": "empty",
     "summary": "当前概念池里，暂未看到同时具备前排强度、概念扩散和资金进场的异动板块。",
     "items": [],
-    "confirmed_at": "2026-07-21 09:22:44",
+    "confirmed_at": "2026-07-21 09:24:01",
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "scope": "盘中判断",
       "mode": "same_day_frozen",
       "mode_label": "同日冻结",
@@ -27304,7 +27304,7 @@
   },
   "event_calendar": {
     "updated_at": "2026-07-21 09:02:24",
-    "confirmed_at": "2026-07-21 09:22:44",
+    "confirmed_at": "2026-07-21 09:24:01",
     "source": "东方财富财经日历",
     "source_status": "cache",
     "result_news_status": "not_refreshed",
@@ -29201,30 +29201,30 @@
     "summary": "未来24小时10项重点事件，本月89项重要日历，5项已匹配公布结果。"
   },
   "korea_link_monitor": {
-    "summary": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+    "summary": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
     "items": [
       {
         "name": "KOSPI",
         "code": "KOSPI",
         "kind": "index",
-        "price": 6649.78,
+        "price": 6647.27,
         "prev_close": 6516.27,
-        "change": 133.51,
-        "pct_chg": 2.05,
+        "change": 131.0,
+        "pct_chg": 2.01,
         "state": "明显偏多",
-        "confirmed_at": "2026-07-21 09:22:00",
+        "confirmed_at": "2026-07-21 09:24:00",
         "source": "Naver韩国指数"
       },
       {
         "name": "KOSDAQ",
         "code": "KOSDAQ",
         "kind": "index",
-        "price": 740.18,
+        "price": 739.38,
         "prev_close": 749.64,
-        "change": -9.46,
-        "pct_chg": -1.26,
+        "change": -10.26,
+        "pct_chg": -1.37,
         "state": "明显偏空",
-        "confirmed_at": "2026-07-21 09:22:00",
+        "confirmed_at": "2026-07-21 09:24:00",
         "source": "Naver韩国指数"
       },
       {
@@ -29247,27 +29247,27 @@
       {
         "name": "SK hynix",
         "code": "000660.KS",
-        "price": 1789000.0,
+        "price": 1782000.0,
         "prev_close": 1764000.0,
         "open": 1775000.0,
         "high": 1810000.0,
         "low": 1732000.0,
-        "change": 25000.0,
-        "pct_chg": 1.42,
-        "time": "2026-07-21 07:56:41",
-        "currency": "1181647",
+        "change": 18000.0,
+        "pct_chg": 1.02,
+        "time": "2026-07-21 08:01:42",
+        "currency": "1247657",
         "source": "腾讯韩股龙头代理",
         "kind": "stock_proxy",
-        "state": "明显偏多",
-        "confirmed_at": "2026-07-21 07:56:41"
+        "state": "偏多",
+        "confirmed_at": "2026-07-21 08:01:42"
       }
     ],
     "risk_score_100": 26,
     "risk_level": "normal",
     "signals": [],
-    "confirmed_at": "2026-07-21 09:22:00",
+    "confirmed_at": "2026-07-21 09:24:00",
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:00",
+      "confirmed_at": "2026-07-21 09:24:00",
       "scope": "韩股联动",
       "mode": "live",
       "mode_label": "实时判断",
@@ -155543,8 +155543,8 @@
   },
   "auction_focus_review": {
     "title": "集合竞价重点复核",
-    "confirmed_at": "2026-07-21 09:22:44",
-    "updated_at": "2026-07-21 09:22:44",
+    "confirmed_at": "2026-07-21 09:24:01",
+    "updated_at": "2026-07-21 09:24:01",
     "summary": "集合竞价重点复核与统一候选总队列共用来源，当前复核24/24只；09:26竞价结果作为盘前确认视角，用于给候选池做优先复核，不单独决定买入。",
     "items": [
       {
@@ -155978,7 +155978,7 @@
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "scope": "盘前确认",
       "mode": "same_day_frozen",
       "mode_label": "同日冻结",
@@ -155987,15 +155987,15 @@
     }
   },
   "trade_decision": {
-    "sentence": "48分 ｜ 只做回踩 ｜ 单日修复不等于确认，候选池继续等回踩 ｜ 早盘风险 正常观察。早盘系统性风险未触发强减仓，继续按主线和权限执行。",
+    "sentence": "47分 ｜ 只做回踩 ｜ 单日修复不等于确认，候选池继续等回踩 ｜ 早盘风险 正常观察。早盘系统性风险未触发强减仓，继续按主线和权限执行。",
     "allow_open": "低吸可",
     "mainline": "分支",
     "priority": "低吸",
     "prohibition": "追高",
     "headline": "单日修复不等于确认，候选池继续等回踩",
-    "score": 48,
+    "score": 47,
     "mode_label": "只做回踩",
-    "summary": "市场总分48，模式为只做回踩；低吸权限打开，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限打开，追涨权限关闭，加仓权限关闭。；当前主线未见明确高风险",
+    "summary": "市场总分47，模式为只做回踩；低吸权限打开，追涨权限关闭，加仓权限关闭。 主线风险约束后，低吸权限打开，追涨权限关闭，加仓权限关闭。；当前主线未见明确高风险",
     "permissions": {
       "allow_chase": false,
       "allow_pullback": true,
@@ -156097,12 +156097,12 @@
         "external_link_risk": {
           "score_100": 26,
           "status": "ok",
-          "summary": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "summary": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-21 09:22:00"
+          "confirmed_at": "2026-07-21 09:24:00"
         },
-        "external_link_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_link_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "risk_signals": [
           "竞价主线样本不足",
           "周线数据不足，暂不计入风险加权。",
@@ -156115,7 +156115,7 @@
         "summary": "算力租赁 风险 50.0 分，竞价 -- / 周线 -- / 日线 -- / 资金 -- / 缠论 -- / 同步撤退 -- / 韩股联动 26。",
         "score_basis": "基础分项均不可用，基础风险按中性50分处理",
         "available_risk_components": [],
-        "confirmed_at": "2026-07-21 09:22:00",
+        "confirmed_at": "2026-07-21 09:24:00",
         "mainline_score": 2.5,
         "proxy_sample_count": 13
       },
@@ -156196,12 +156196,12 @@
         "external_link_risk": {
           "score_100": 26,
           "status": "ok",
-          "summary": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "summary": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-21 09:22:00"
+          "confirmed_at": "2026-07-21 09:24:00"
         },
-        "external_link_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_link_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "risk_signals": [
           "竞价主线样本不足",
           "周线数据不足，暂不计入风险加权。",
@@ -156214,7 +156214,7 @@
         "summary": "共封装光学(CPO) 风险 50.0 分，竞价 -- / 周线 -- / 日线 -- / 资金 -- / 缠论 -- / 同步撤退 -- / 韩股联动 26。",
         "score_basis": "基础分项均不可用，基础风险按中性50分处理",
         "available_risk_components": [],
-        "confirmed_at": "2026-07-21 09:22:00",
+        "confirmed_at": "2026-07-21 09:24:00",
         "mainline_score": 2.6,
         "proxy_sample_count": 21
       },
@@ -156295,12 +156295,12 @@
         "external_link_risk": {
           "score_100": 26,
           "status": "ok",
-          "summary": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+          "summary": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
           "signals": [],
           "state": "normal",
-          "confirmed_at": "2026-07-21 09:22:00"
+          "confirmed_at": "2026-07-21 09:24:00"
         },
-        "external_link_note": "韩国大盘均值 +0.39%；三星/海力士均值 +2.15%",
+        "external_link_note": "韩国大盘均值 +0.32%；三星/海力士均值 +1.95%",
         "risk_signals": [
           "竞价主线样本不足",
           "周线数据不足，暂不计入风险加权。",
@@ -156313,13 +156313,13 @@
         "summary": "存储芯片 风险 50.0 分，竞价 -- / 周线 -- / 日线 -- / 资金 -- / 缠论 -- / 同步撤退 -- / 韩股联动 26。",
         "score_basis": "基础分项均不可用，基础风险按中性50分处理",
         "available_risk_components": [],
-        "confirmed_at": "2026-07-21 09:22:00",
+        "confirmed_at": "2026-07-21 09:24:00",
         "mainline_score": 3.3,
         "proxy_sample_count": 23
       }
     ],
     "freshness_meta": {
-      "confirmed_at": "2026-07-21 09:22:44",
+      "confirmed_at": "2026-07-21 09:24:01",
       "scope": "盘中判断",
       "mode": "live",
       "mode_label": "实时判断",
@@ -156914,7 +156914,7 @@
     "source": "本地竞价缓存",
     "trade_date": "2026-07-21",
     "daily_base_date": "2026-07-20",
-    "updated_at": "2026-07-21 09:22:44",
+    "updated_at": "2026-07-21 09:24:01",
     "cache_fresh": true,
     "summary": "",
     "rows": [
@@ -163107,7 +163107,7 @@
       "rows": 56,
       "updated_at": "2026-07-21 09:17:13"
     },
-    "confirmed_at": "2026-07-21 09:22:44",
+    "confirmed_at": "2026-07-21 09:24:01",
     "frozen_after_slot": "09:26",
     "stale_mode": "same_day_frozen",
     "followup_meta": {
@@ -176249,9 +176249,9 @@
                   "专利207件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "商业航天",
-                "display_industry": "商业航天",
-                "industry": "商业航天",
+                "display_concept": "军工信息化",
+                "display_industry": "军工信息化",
+                "industry": "军工信息化",
                 "raw_industry": "军工信息化"
               },
               "abnormal_risk": {
@@ -176381,9 +176381,9 @@
                   "专利525件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "光纤",
-                "display_industry": "光纤",
-                "industry": "光纤",
+                "display_concept": "F5G",
+                "display_industry": "F5G",
+                "industry": "F5G",
                 "raw_industry": "光纤"
               },
               "abnormal_risk": {
@@ -176599,9 +176599,9 @@
                   "专利973件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "减速器",
-                "display_industry": "减速器",
-                "industry": "减速器",
+                "display_concept": "人形机器人",
+                "display_industry": "人形机器人",
+                "industry": "人形机器人",
                 "raw_industry": "减速器"
               },
               "abnormal_risk": {
@@ -177305,9 +177305,9 @@
                   "专利20件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "虚拟数字人",
-                "display_industry": "虚拟数字人",
-                "industry": "虚拟数字人",
+                "display_concept": "语音技术",
+                "display_industry": "语音技术",
+                "industry": "语音技术",
                 "raw_industry": "虚拟数字人"
               },
               "abnormal_risk": {
@@ -177520,9 +177520,9 @@
                   "专利85件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "东数西算(算力)",
-                "display_industry": "东数西算(算力)",
-                "industry": "东数西算(算力)",
+                "display_concept": "算力租赁",
+                "display_industry": "算力租赁",
+                "industry": "算力租赁",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -177712,9 +177712,9 @@
                   "专利16件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "云计算",
-                "display_industry": "云计算",
-                "industry": "云计算",
+                "display_concept": "算力租赁",
+                "display_industry": "算力租赁",
+                "industry": "算力租赁",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -177918,9 +177918,9 @@
                   "专利525件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "F5G",
-                "display_industry": "F5G",
-                "industry": "F5G",
+                "display_concept": "光纤",
+                "display_industry": "光纤",
+                "industry": "光纤",
                 "raw_industry": "光纤"
               },
               "abnormal_risk": {
@@ -178114,9 +178114,9 @@
                   "专利1566件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "算力租赁",
-                "display_industry": "算力租赁",
-                "industry": "算力租赁",
+                "display_concept": "云计算",
+                "display_industry": "云计算",
+                "industry": "云计算",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -178239,9 +178239,9 @@
                   "专利487件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "数字水印",
-                "display_industry": "数字水印",
-                "industry": "数字水印",
+                "display_concept": "算力租赁",
+                "display_industry": "算力租赁",
+                "industry": "算力租赁",
                 "raw_industry": "数字水印"
               },
               "abnormal_risk": {
@@ -178829,9 +178829,9 @@
               "专利16件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "云计算",
-            "display_industry": "云计算",
-            "industry": "云计算",
+            "display_concept": "算力租赁",
+            "display_industry": "算力租赁",
+            "industry": "算力租赁",
             "raw_industry": "算力租赁"
           },
           "abnormal_risk": {
@@ -178965,9 +178965,9 @@
               "专利85件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "东数西算(算力)",
-            "display_industry": "东数西算(算力)",
-            "industry": "东数西算(算力)",
+            "display_concept": "算力租赁",
+            "display_industry": "算力租赁",
+            "industry": "算力租赁",
             "raw_industry": "算力租赁"
           },
           "abnormal_risk": {
@@ -179097,9 +179097,9 @@
               "专利207件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "商业航天",
-            "display_industry": "商业航天",
-            "industry": "商业航天",
+            "display_concept": "军工信息化",
+            "display_industry": "军工信息化",
+            "industry": "军工信息化",
             "raw_industry": "军工信息化"
           },
           "abnormal_risk": {
@@ -179229,9 +179229,9 @@
               "专利525件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "F5G",
-            "display_industry": "F5G",
-            "industry": "F5G",
+            "display_concept": "光纤",
+            "display_industry": "光纤",
+            "industry": "光纤",
             "raw_industry": "光纤"
           },
           "abnormal_risk": {
@@ -180375,9 +180375,9 @@
                   "专利1571件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "铜缆高速连接",
-                "display_industry": "铜缆高速连接",
-                "industry": "铜缆高速连接",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -181231,9 +181231,9 @@
                   "专利141件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "算力租赁",
-                "display_industry": "算力租赁",
-                "industry": "算力租赁",
+                "display_concept": "云计算",
+                "display_industry": "云计算",
+                "industry": "云计算",
                 "raw_industry": "算力租赁"
               },
               "abnormal_risk": {
@@ -181363,9 +181363,9 @@
                   "专利525件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "光纤",
-                "display_industry": "光纤",
-                "industry": "光纤",
+                "display_concept": "F5G",
+                "display_industry": "F5G",
+                "industry": "F5G",
                 "raw_industry": "光纤"
               },
               "abnormal_risk": {
@@ -181485,9 +181485,9 @@
                   "专利8件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "铜缆高速连接",
+                "display_industry": "铜缆高速连接",
+                "industry": "铜缆高速连接",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -182067,9 +182067,9 @@
                   "专利322件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "新型工业化",
-                "display_industry": "新型工业化",
-                "industry": "新型工业化",
+                "display_concept": "机器视觉",
+                "display_industry": "机器视觉",
+                "industry": "机器视觉",
                 "raw_industry": "新型工业化"
               },
               "abnormal_risk": {
@@ -182399,9 +182399,9 @@
                   "专利404件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "第三代半导体",
-                "display_industry": "第三代半导体",
-                "industry": "第三代半导体",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "第三代半导体"
               },
               "abnormal_risk": {
@@ -182533,9 +182533,9 @@
                   "专利75件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "CPO",
-                "display_industry": "CPO",
-                "industry": "CPO",
+                "display_concept": "第三代半导体",
+                "display_industry": "第三代半导体",
+                "industry": "第三代半导体",
                 "raw_industry": "CPO"
               },
               "abnormal_risk": {
@@ -182747,9 +182747,9 @@
                   "专利1422件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "超级电容",
-                "display_industry": "超级电容",
-                "industry": "超级电容",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "超级电容"
               },
               "abnormal_risk": {
@@ -183081,9 +183081,9 @@
                   "专利995件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "液冷服务器",
-                "display_industry": "液冷服务器",
-                "industry": "液冷服务器",
+                "display_concept": "东数西算(算力)",
+                "display_industry": "东数西算(算力)",
+                "industry": "东数西算(算力)",
                 "raw_industry": "液冷服务器"
               },
               "abnormal_risk": {
@@ -184088,9 +184088,9 @@
               "专利1571件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "铜缆高速连接",
-            "display_industry": "铜缆高速连接",
-            "industry": "铜缆高速连接",
+            "display_concept": "CPO",
+            "display_industry": "CPO",
+            "industry": "CPO",
             "raw_industry": "CPO"
           },
           "abnormal_risk": {
@@ -185341,9 +185341,9 @@
                   "销售毛利率27.74%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -185482,9 +185482,9 @@
                   "专利1120件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "光刻胶",
-                "display_industry": "光刻胶",
-                "industry": "光刻胶",
+                "display_concept": "先进封装",
+                "display_industry": "先进封装",
+                "industry": "先进封装",
                 "raw_industry": "光刻胶"
               },
               "abnormal_risk": {
@@ -185602,9 +185602,9 @@
                   "销售毛利率36.54%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "先进封装",
-                "display_industry": "先进封装",
-                "industry": "先进封装",
+                "display_concept": "存储芯片",
+                "display_industry": "存储芯片",
+                "industry": "存储芯片",
                 "raw_industry": "先进封装"
               },
               "abnormal_risk": {
@@ -185808,9 +185808,9 @@
                   "销售毛利率40.02%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "中芯国际",
+                "display_industry": "中芯国际",
+                "industry": "中芯国际",
                 "raw_industry": "中芯国际"
               },
               "abnormal_risk": {
@@ -186065,9 +186065,9 @@
                   "专利68件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "PCB",
+                "display_industry": "PCB",
+                "industry": "PCB",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -186909,9 +186909,9 @@
                   "专利346件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "先进封装",
+                "display_industry": "先进封装",
+                "industry": "先进封装",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -187436,9 +187436,9 @@
                   "专利270件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "卫星导航",
-                "display_industry": "卫星导航",
-                "industry": "卫星导航",
+                "display_concept": "商业航天",
+                "display_industry": "商业航天",
+                "industry": "商业航天",
                 "raw_industry": "卫星导航"
               },
               "abnormal_risk": {
@@ -187570,9 +187570,9 @@
                   "专利530件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "存储芯片",
-                "display_industry": "存储芯片",
-                "industry": "存储芯片",
+                "display_concept": "芯片",
+                "display_industry": "芯片",
+                "industry": "芯片",
                 "raw_industry": "存储芯片"
               },
               "abnormal_risk": {
@@ -188370,9 +188370,9 @@
                   "专利56件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "国家大基金持股",
-                "display_industry": "国家大基金持股",
-                "industry": "国家大基金持股",
+                "display_concept": "汽车芯片",
+                "display_industry": "汽车芯片",
+                "industry": "汽车芯片",
                 "raw_industry": "国家大基金持股"
               },
               "abnormal_risk": {
@@ -189213,9 +189213,9 @@
               "销售毛利率40.02%"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "存储芯片",
-            "display_industry": "存储芯片",
-            "industry": "存储芯片",
+            "display_concept": "中芯国际",
+            "display_industry": "中芯国际",
+            "industry": "中芯国际",
             "raw_industry": "中芯国际"
           },
           "abnormal_risk": {
@@ -190463,9 +190463,9 @@
                   "专利142件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "光刻胶",
-                "display_industry": "光刻胶",
-                "industry": "光刻胶",
+                "display_concept": "氟化工",
+                "display_industry": "氟化工",
+                "industry": "氟化工",
                 "raw_industry": "光刻胶"
               },
               "abnormal_risk": {
@@ -190785,9 +190785,9 @@
                   "销售毛利率33.15%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "宁德时代",
+                "display_industry": "宁德时代",
+                "industry": "宁德时代",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -191114,9 +191114,9 @@
                   "专利685件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "金属铜",
-                "display_industry": "金属铜",
-                "industry": "金属铜",
+                "display_concept": "黄金",
+                "display_industry": "黄金",
+                "industry": "黄金",
                 "raw_industry": "金属铜"
               },
               "abnormal_risk": {
@@ -191245,9 +191245,9 @@
                   "专利628件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PET铜箔",
-                "display_industry": "PET铜箔",
-                "industry": "PET铜箔",
+                "display_concept": "小金属",
+                "display_industry": "小金属",
+                "industry": "小金属",
                 "raw_industry": "PET铜箔"
               },
               "abnormal_risk": {
@@ -191439,9 +191439,9 @@
                   "专利625件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "先进封装",
-                "display_industry": "先进封装",
-                "industry": "先进封装",
+                "display_concept": "芯片",
+                "display_industry": "芯片",
+                "industry": "芯片",
                 "raw_industry": "先进封装"
               },
               "abnormal_risk": {
@@ -191763,9 +191763,9 @@
                   "专利124件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "5G",
-                "display_industry": "5G",
-                "industry": "5G",
+                "display_concept": "PCB",
+                "display_industry": "PCB",
+                "industry": "PCB",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -191894,9 +191894,9 @@
                   "专利1674件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "6G",
+                "display_industry": "6G",
+                "industry": "6G",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -192222,9 +192222,9 @@
                   "专利582件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "信创",
-                "display_industry": "信创",
-                "industry": "信创",
+                "display_concept": "AIGC",
+                "display_industry": "AIGC",
+                "industry": "AIGC",
                 "raw_industry": "信创"
               },
               "abnormal_risk": {
@@ -192353,9 +192353,9 @@
                   "专利2087件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "金属钴",
+                "display_industry": "金属钴",
+                "industry": "金属钴",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -192689,9 +192689,9 @@
                   "专利685件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "金属铜",
-                "display_industry": "金属铜",
-                "industry": "金属铜",
+                "display_concept": "黄金",
+                "display_industry": "黄金",
+                "industry": "黄金",
                 "raw_industry": "金属铜"
               },
               "abnormal_risk": {
@@ -193017,9 +193017,9 @@
                   "专利23件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "电子竞技",
-                "display_industry": "电子竞技",
-                "industry": "电子竞技",
+                "display_concept": "AIGC",
+                "display_industry": "AIGC",
+                "industry": "AIGC",
                 "raw_industry": "电子竞技"
               },
               "abnormal_risk": {
@@ -193149,9 +193149,9 @@
                   "专利364件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "AI PC",
-                "display_industry": "AI PC",
-                "industry": "AI PC",
+                "display_concept": "PCB",
+                "display_industry": "PCB",
+                "industry": "PCB",
                 "raw_industry": "AI PC"
               },
               "abnormal_risk": {
@@ -193486,9 +193486,9 @@
                   "专利1127件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -193812,9 +193812,9 @@
                   "销售毛利率36.93%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -193935,9 +193935,9 @@
                   "专利183件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "专精特新",
+                "display_industry": "专精特新",
+                "industry": "专精特新",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -194328,9 +194328,9 @@
                   "销售毛利率36.93%"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "PCB",
-                "display_industry": "PCB",
-                "industry": "PCB",
+                "display_concept": "CPO",
+                "display_industry": "CPO",
+                "industry": "CPO",
                 "raw_industry": "PCB"
               },
               "abnormal_risk": {
@@ -194455,9 +194455,9 @@
                   "专利23件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "电子竞技",
-                "display_industry": "电子竞技",
-                "industry": "电子竞技",
+                "display_concept": "AIGC",
+                "display_industry": "AIGC",
+                "industry": "AIGC",
                 "raw_industry": "电子竞技"
               },
               "abnormal_risk": {
@@ -194921,9 +194921,9 @@
                   "专利434件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "同花顺果",
-                "display_industry": "同花顺果",
-                "industry": "同花顺果",
+                "display_concept": "AI PC",
+                "display_industry": "AI PC",
+                "industry": "AI PC",
                 "raw_industry": "同花顺果"
               },
               "abnormal_risk": {
@@ -195053,9 +195053,9 @@
                   "专利288件"
                 ],
                 "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-                "display_concept": "英伟达",
-                "display_industry": "英伟达",
-                "industry": "英伟达",
+                "display_concept": "东数西算(算力)",
+                "display_industry": "东数西算(算力)",
+                "industry": "东数西算(算力)",
                 "raw_industry": "英伟达"
               },
               "abnormal_risk": {
@@ -195500,9 +195500,9 @@
               "专利124件"
             ],
             "note": "国产替代为公开资料证据评分，不等同于公司披露的精确替代率。",
-            "display_concept": "5G",
-            "display_industry": "5G",
-            "industry": "5G",
+            "display_concept": "PCB",
+            "display_industry": "PCB",
+            "industry": "PCB",
             "raw_industry": "PCB"
           },
           "abnormal_risk": {
