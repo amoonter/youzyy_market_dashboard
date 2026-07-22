@@ -188744,7 +188744,8 @@
           "算力租赁/云计算"
         ],
         "display_concept": "算力租赁、算力租赁/云计算",
-        "display_industry": "算力租赁、算力租赁/云计算"
+        "display_industry": "算力租赁、算力租赁/云计算",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "600584.SH",
@@ -189707,7 +189708,8 @@
           "存储/HBM"
         ],
         "display_concept": "存储芯片、存储/HBM",
-        "display_industry": "存储芯片、存储/HBM"
+        "display_industry": "存储芯片、存储/HBM",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "603118.SH",
@@ -190685,7 +190687,8 @@
           "设备/测试"
         ],
         "display_concept": "存储芯片、设备/测试",
-        "display_industry": "存储芯片、设备/测试"
+        "display_industry": "存储芯片、设备/测试",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300223.SZ",
@@ -191641,7 +191644,8 @@
           "存储芯片"
         ],
         "display_concept": "存储芯片",
-        "display_industry": "存储芯片"
+        "display_industry": "存储芯片",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "603986.SH",
@@ -192605,7 +192609,8 @@
           "存储/HBM"
         ],
         "display_concept": "存储芯片、存储/HBM",
-        "display_industry": "存储芯片、存储/HBM"
+        "display_industry": "存储芯片、存储/HBM",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000636.SZ",
@@ -193562,7 +193567,8 @@
           "CPO/光模块"
         ],
         "display_concept": "CPO、CPO/光模块",
-        "display_industry": "CPO、CPO/光模块"
+        "display_industry": "CPO、CPO/光模块",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000021.SZ",
@@ -194529,7 +194535,8 @@
           "先进封装/Chiplet"
         ],
         "display_concept": "先进封装、先进封装/Chiplet",
-        "display_industry": "先进封装、先进封装/Chiplet"
+        "display_industry": "先进封装、先进封装/Chiplet",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "600667.SH",
@@ -195475,7 +195482,8 @@
           "先进封装/Chiplet"
         ],
         "display_concept": "存储芯片、先进封装/Chiplet",
-        "display_industry": "存储芯片、先进封装/Chiplet"
+        "display_industry": "存储芯片、先进封装/Chiplet",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "688041.SH",
@@ -196434,7 +196442,8 @@
           "CPO"
         ],
         "display_concept": "CPO",
-        "display_industry": "CPO"
+        "display_industry": "CPO",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "688729.SH",
@@ -197389,7 +197398,8 @@
           "存储芯片"
         ],
         "display_concept": "存储芯片",
-        "display_industry": "存储芯片"
+        "display_industry": "存储芯片",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000811.SZ",
@@ -198337,7 +198347,8 @@
           "液冷/温控"
         ],
         "display_concept": "算力租赁、液冷/温控",
-        "display_industry": "算力租赁、液冷/温控"
+        "display_industry": "算力租赁、液冷/温控",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "688008.SH",
@@ -199292,7 +199303,8 @@
           "存储芯片"
         ],
         "display_concept": "存储芯片",
-        "display_industry": "存储芯片"
+        "display_industry": "存储芯片",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300661.SZ",
@@ -200247,7 +200259,8 @@
           "先进封装"
         ],
         "display_concept": "先进封装",
-        "display_industry": "先进封装"
+        "display_industry": "先进封装",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "301269.SZ",
@@ -201203,7 +201216,8 @@
           "存储芯片"
         ],
         "display_concept": "存储芯片",
-        "display_industry": "存储芯片"
+        "display_industry": "存储芯片",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "002281.SZ",
@@ -202140,7 +202154,8 @@
           "OCS交换机"
         ],
         "display_concept": "CPO、OCS交换机",
-        "display_industry": "CPO、OCS交换机"
+        "display_industry": "CPO、OCS交换机",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "002409.SZ",
@@ -203095,7 +203110,8 @@
           "硅片/靶材/电子气体"
         ],
         "display_concept": "先进封装、硅片/靶材/电子气体",
-        "display_industry": "先进封装、硅片/靶材/电子气体"
+        "display_industry": "先进封装、硅片/靶材/电子气体",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000938.SZ",
@@ -204072,7 +204088,8 @@
           "算力租赁/云计算"
         ],
         "display_concept": "算力租赁、算力租赁/云计算",
-        "display_industry": "算力租赁、算力租赁/云计算"
+        "display_industry": "算力租赁、算力租赁/云计算",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000566.SZ",
@@ -204985,7 +205002,8 @@
           "化学制药"
         ],
         "display_concept": "化学制药",
-        "display_industry": "化学制药"
+        "display_industry": "化学制药",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "002881.SZ",
@@ -205902,7 +205920,8 @@
           "元器件"
         ],
         "display_concept": "元器件",
-        "display_industry": "元器件"
+        "display_industry": "元器件",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300310.SZ",
@@ -206780,7 +206799,8 @@
           "通信设备"
         ],
         "display_concept": "通信设备",
-        "display_industry": "通信设备"
+        "display_industry": "通信设备",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300628.SZ",
@@ -207690,7 +207710,8 @@
           "通信设备"
         ],
         "display_concept": "通信设备",
-        "display_industry": "通信设备"
+        "display_industry": "通信设备",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300638.SZ",
@@ -208607,7 +208628,8 @@
           "通信设备"
         ],
         "display_concept": "通信设备",
-        "display_industry": "通信设备"
+        "display_industry": "通信设备",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300866.SZ",
@@ -209517,7 +209539,8 @@
           "元器件"
         ],
         "display_concept": "元器件",
-        "display_industry": "元器件"
+        "display_industry": "元器件",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300968.SZ",
@@ -210434,7 +210457,8 @@
           "元器件"
         ],
         "display_concept": "元器件",
-        "display_industry": "元器件"
+        "display_industry": "元器件",
+        "source_trade_date": "2026-07-21"
       }
     ],
     "freshness_meta": {
@@ -211428,7 +211452,8 @@
           "算力租赁/云计算"
         ],
         "display_concept": "算力租赁、算力租赁/云计算",
-        "display_industry": "算力租赁、算力租赁/云计算"
+        "display_industry": "算力租赁、算力租赁/云计算",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "600584.SH",
@@ -212391,7 +212416,8 @@
           "存储/HBM"
         ],
         "display_concept": "存储芯片、存储/HBM",
-        "display_industry": "存储芯片、存储/HBM"
+        "display_industry": "存储芯片、存储/HBM",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "603118.SH",
@@ -213369,7 +213395,8 @@
           "设备/测试"
         ],
         "display_concept": "存储芯片、设备/测试",
-        "display_industry": "存储芯片、设备/测试"
+        "display_industry": "存储芯片、设备/测试",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300223.SZ",
@@ -214325,7 +214352,8 @@
           "存储芯片"
         ],
         "display_concept": "存储芯片",
-        "display_industry": "存储芯片"
+        "display_industry": "存储芯片",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "603986.SH",
@@ -215289,7 +215317,8 @@
           "存储/HBM"
         ],
         "display_concept": "存储芯片、存储/HBM",
-        "display_industry": "存储芯片、存储/HBM"
+        "display_industry": "存储芯片、存储/HBM",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000636.SZ",
@@ -216246,7 +216275,8 @@
           "CPO/光模块"
         ],
         "display_concept": "CPO、CPO/光模块",
-        "display_industry": "CPO、CPO/光模块"
+        "display_industry": "CPO、CPO/光模块",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000021.SZ",
@@ -217213,7 +217243,8 @@
           "先进封装/Chiplet"
         ],
         "display_concept": "先进封装、先进封装/Chiplet",
-        "display_industry": "先进封装、先进封装/Chiplet"
+        "display_industry": "先进封装、先进封装/Chiplet",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "600667.SH",
@@ -218159,7 +218190,8 @@
           "先进封装/Chiplet"
         ],
         "display_concept": "存储芯片、先进封装/Chiplet",
-        "display_industry": "存储芯片、先进封装/Chiplet"
+        "display_industry": "存储芯片、先进封装/Chiplet",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "688041.SH",
@@ -219118,7 +219150,8 @@
           "CPO"
         ],
         "display_concept": "CPO",
-        "display_industry": "CPO"
+        "display_industry": "CPO",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "688729.SH",
@@ -220073,7 +220106,8 @@
           "存储芯片"
         ],
         "display_concept": "存储芯片",
-        "display_industry": "存储芯片"
+        "display_industry": "存储芯片",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000811.SZ",
@@ -221021,7 +221055,8 @@
           "液冷/温控"
         ],
         "display_concept": "算力租赁、液冷/温控",
-        "display_industry": "算力租赁、液冷/温控"
+        "display_industry": "算力租赁、液冷/温控",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "688008.SH",
@@ -221976,7 +222011,8 @@
           "存储芯片"
         ],
         "display_concept": "存储芯片",
-        "display_industry": "存储芯片"
+        "display_industry": "存储芯片",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300661.SZ",
@@ -222931,7 +222967,8 @@
           "先进封装"
         ],
         "display_concept": "先进封装",
-        "display_industry": "先进封装"
+        "display_industry": "先进封装",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "301269.SZ",
@@ -223887,7 +223924,8 @@
           "存储芯片"
         ],
         "display_concept": "存储芯片",
-        "display_industry": "存储芯片"
+        "display_industry": "存储芯片",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "002281.SZ",
@@ -224824,7 +224862,8 @@
           "OCS交换机"
         ],
         "display_concept": "CPO、OCS交换机",
-        "display_industry": "CPO、OCS交换机"
+        "display_industry": "CPO、OCS交换机",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "002409.SZ",
@@ -225779,7 +225818,8 @@
           "硅片/靶材/电子气体"
         ],
         "display_concept": "先进封装、硅片/靶材/电子气体",
-        "display_industry": "先进封装、硅片/靶材/电子气体"
+        "display_industry": "先进封装、硅片/靶材/电子气体",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000938.SZ",
@@ -226756,7 +226796,8 @@
           "算力租赁/云计算"
         ],
         "display_concept": "算力租赁、算力租赁/云计算",
-        "display_industry": "算力租赁、算力租赁/云计算"
+        "display_industry": "算力租赁、算力租赁/云计算",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "000566.SZ",
@@ -227669,7 +227710,8 @@
           "化学制药"
         ],
         "display_concept": "化学制药",
-        "display_industry": "化学制药"
+        "display_industry": "化学制药",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "002881.SZ",
@@ -228586,7 +228628,8 @@
           "元器件"
         ],
         "display_concept": "元器件",
-        "display_industry": "元器件"
+        "display_industry": "元器件",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300310.SZ",
@@ -229464,7 +229507,8 @@
           "通信设备"
         ],
         "display_concept": "通信设备",
-        "display_industry": "通信设备"
+        "display_industry": "通信设备",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300628.SZ",
@@ -230374,7 +230418,8 @@
           "通信设备"
         ],
         "display_concept": "通信设备",
-        "display_industry": "通信设备"
+        "display_industry": "通信设备",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300638.SZ",
@@ -231291,7 +231336,8 @@
           "通信设备"
         ],
         "display_concept": "通信设备",
-        "display_industry": "通信设备"
+        "display_industry": "通信设备",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300866.SZ",
@@ -232201,7 +232247,8 @@
           "元器件"
         ],
         "display_concept": "元器件",
-        "display_industry": "元器件"
+        "display_industry": "元器件",
+        "source_trade_date": "2026-07-21"
       },
       {
         "code": "300968.SZ",
@@ -233118,7 +233165,8 @@
           "元器件"
         ],
         "display_concept": "元器件",
-        "display_industry": "元器件"
+        "display_industry": "元器件",
+        "source_trade_date": "2026-07-21"
       }
     ],
     "freshness_meta": {
