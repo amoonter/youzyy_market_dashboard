@@ -379291,24 +379291,23 @@
         "display_industry": "路桥"
       }
     ],
-    "summary": "14:45按昨日完整日线和当日实时位置预筛1只，14:50再以分钟量价、主力资金和风险门禁确认。"
+    "summary": "14:45按昨日完整日线和当日实时位置预筛1只，14:50再以分钟量价、主力资金和收盘压力情景完成评分。"
   },
   "tail_close_selection": {
     "version": 1,
-    "status": "empty",
+    "status": "confirmed",
     "strategy_mode": "独立尾盘策略",
     "trade_date": "2026-07-22",
     "confirmed_at": "2026-07-22 14:52:18",
-    "score_threshold": 85,
+    "score_threshold": null,
     "max_display": 3,
     "max_executable": 2,
     "position_pct": 3,
     "total_position_cap_pct": 6,
     "candidate_count": 1,
-    "eligible_count": 0,
-    "rejected_count": 1,
-    "items": [],
-    "rejected": [
+    "eligible_count": 1,
+    "rejected_count": 0,
+    "items": [
       {
         "code": "000429.SZ",
         "name": "粤高速Ａ",
@@ -379328,7 +379327,7 @@
         "price_1445": 14.25,
         "pct_chg_1445": -0.35,
         "amount_yi_1445": 1.16,
-        "main_net_yi_1445": -3127540.56,
+        "main_net_yi_1445": -0.03,
         "prefilter_score": 73.5,
         "quote_source": "同花顺问财实时",
         "route": "放量回收确认",
@@ -379349,8 +379348,8 @@
         "tail_volume_ratio": 1.73,
         "projected_volume_ratio": 1.15,
         "projected_volume": 86817.0,
-        "main_net_yi": -3127540.6,
-        "main_net_ratio_pct": -265045813.56,
+        "main_net_yi": -0.03,
+        "main_net_ratio_pct": -2.59,
         "main_position_pct": null,
         "super_large_order_flow_yi": null,
         "large_order_flow_yi": null,
@@ -379425,8 +379424,7 @@
           "市场总门禁关闭新仓",
           "弱市仅允许防守板块",
           "明显上影或尾盘冲高回落",
-          "收益风险比不足1.5",
-          "尾盘评分未达85分"
+          "收益风险比不足1.5"
         ],
         "confirmed_at": "2026-07-22 14:52:18",
         "minute_confirmed_at": "14:50",
@@ -379449,13 +379447,19 @@
           "路桥"
         ],
         "display_concept": "路桥",
-        "display_industry": "路桥"
+        "display_industry": "路桥",
+        "rank": 1,
+        "pre_trade_state": "评分展示"
       }
     ],
-    "summary": "14:50没有股票同时达到85分、A级数据质量和全部风险门禁，今日尾盘策略空榜。",
+    "rejected": [],
+    "summary": "14:50已冻结尾盘评分榜：按分数展示1只候选，不再使用85分、数据质量或风险门禁过滤；风险项仅作提示。",
     "trial_day": 1,
     "trial_target_days": 20,
-    "trial_target_signals": 30
+    "trial_target_signals": 30,
+    "display_mode": "score_only",
+    "display_count": 1,
+    "risk_passed_count": 0
   },
   "tail_close_selection_history": {
     "version": 1,
@@ -379494,7 +379498,7 @@
             {
               "code": "601628.SH",
               "name": "中国人寿",
-              "industry": "保险",
+              "industry": "非银金融-保险-保险Ⅲ",
               "daily_seed_score": 20.2,
               "daily_seed_breakdown": {
                 "趋势": 8.0,
@@ -379619,20 +379623,7 @@
                 "XTick实时日K + 问财补充",
                 "XTick分钟",
                 "同花顺问财"
-              ],
-              "raw_industry": "非银金融-保险-保险Ⅲ",
-              "raw_concept_tags": null,
-              "raw_concepts": null,
-              "canonical_concept": "保险",
-              "analysis_concept": "保险",
-              "concept_main": "保险",
-              "concept_subsegment": null,
-              "secondary_concept": null,
-              "concept_labels": [
-                "保险"
-              ],
-              "display_concept": "保险",
-              "display_industry": "保险"
+              ]
             }
           ],
           "summary": "14:50没有股票同时达到85分、A级数据质量和全部风险门禁，今日尾盘策略空榜。"
@@ -379656,24 +379647,23 @@
         "confirmed_at": "2026-07-22 14:52:18",
         "selection": {
           "version": 1,
-          "status": "empty",
+          "status": "confirmed",
           "strategy_mode": "独立尾盘策略",
           "trade_date": "2026-07-22",
           "confirmed_at": "2026-07-22 14:52:18",
-          "score_threshold": 85,
+          "score_threshold": null,
           "max_display": 3,
           "max_executable": 2,
           "position_pct": 3,
           "total_position_cap_pct": 6,
           "candidate_count": 1,
-          "eligible_count": 0,
-          "rejected_count": 1,
-          "items": [],
-          "rejected": [
+          "eligible_count": 1,
+          "rejected_count": 0,
+          "items": [
             {
               "code": "000429.SZ",
               "name": "粤高速Ａ",
-              "industry": "路桥",
+              "industry": "交通运输-公路铁路运输-高速公路",
               "daily_seed_score": 22.1,
               "daily_seed_breakdown": {
                 "趋势": 8.0,
@@ -379689,7 +379679,7 @@
               "price_1445": 14.25,
               "pct_chg_1445": -0.35,
               "amount_yi_1445": 1.16,
-              "main_net_yi_1445": -3127540.56,
+              "main_net_yi_1445": -0.03,
               "prefilter_score": 73.5,
               "quote_source": "同花顺问财实时",
               "route": "放量回收确认",
@@ -379710,8 +379700,8 @@
               "tail_volume_ratio": 1.73,
               "projected_volume_ratio": 1.15,
               "projected_volume": 86817.0,
-              "main_net_yi": -3127540.6,
-              "main_net_ratio_pct": -265045813.56,
+              "main_net_yi": -0.03,
+              "main_net_ratio_pct": -2.59,
               "main_position_pct": null,
               "super_large_order_flow_yi": null,
               "large_order_flow_yi": null,
@@ -379786,8 +379776,7 @@
                 "市场总门禁关闭新仓",
                 "弱市仅允许防守板块",
                 "明显上影或尾盘冲高回落",
-                "收益风险比不足1.5",
-                "尾盘评分未达85分"
+                "收益风险比不足1.5"
               ],
               "confirmed_at": "2026-07-22 14:52:18",
               "minute_confirmed_at": "14:50",
@@ -379798,27 +379787,20 @@
                 "XTick分钟",
                 "同花顺问财"
               ],
-              "raw_industry": "交通运输-公路铁路运输-高速公路",
-              "raw_concept_tags": null,
-              "raw_concepts": null,
-              "canonical_concept": "路桥",
-              "analysis_concept": "路桥",
-              "concept_main": "路桥",
-              "concept_subsegment": null,
-              "secondary_concept": null,
-              "concept_labels": [
-                "路桥"
-              ],
-              "display_concept": "路桥",
-              "display_industry": "路桥"
+              "rank": 1,
+              "pre_trade_state": "评分展示"
             }
           ],
-          "summary": "14:50没有股票同时达到85分、A级数据质量和全部风险门禁，今日尾盘策略空榜。"
+          "rejected": [],
+          "summary": "14:50已冻结尾盘评分榜：按分数展示1只候选，不再使用85分、数据质量或风险门禁过滤；风险项仅作提示。",
+          "display_mode": "score_only",
+          "display_count": 1,
+          "risk_passed_count": 0
         },
         "postmortem": {}
       }
     ],
-    "updated_at": "2026-07-22 15:01:46",
+    "updated_at": "2026-07-22 14:52:18",
     "postmortem": {
       "trial_days": 0,
       "signal_count": 0,
